@@ -1,0 +1,4 @@
+age_group,n,flagged_as_high_risk_rate,false_positive_rate,false_negative_rate
+30-50,2597,0.2461,0.2091,0.3134
+Over 50,2290,0.0122,0.005,0.8068
+Under 30,1113,0.5139,0.4734,0.1441

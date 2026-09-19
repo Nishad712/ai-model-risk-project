@@ -1,0 +1,2501 @@
+age,age_group,income,employment_years,credit_history_len,existing_debt_ratio,loan_amount,purpose,default,period
+45,30-50,21658.64,6.1,5.8,0.206,3681.91,auto,0,monitoring
+52,Over 50,74697.71,10.6,13.1,0.374,10927.19,education,0,monitoring
+40,30-50,26613.53,6.2,5.1,0.54,9355.59,debt_consolidation,0,monitoring
+23,Under 30,24804.74,0.0,5.5,0.57,11140.71,debt_consolidation,0,monitoring
+49,30-50,49561.53,12.8,12.6,0.729,7777.42,education,0,monitoring
+21,Under 30,68988.01,0.0,7.0,0.266,4795.79,small_business,0,monitoring
+34,30-50,62315.73,0.3,2.0,0.265,7556.22,debt_consolidation,0,monitoring
+62,Over 50,54607.58,11.1,9.4,0.258,9819.16,debt_consolidation,0,monitoring
+43,30-50,86032.01,10.0,11.3,0.092,6383.46,home_improvement,0,monitoring
+49,30-50,33122.62,6.6,9.1,0.174,13302.41,debt_consolidation,0,monitoring
+68,Over 50,20346.86,15.9,16.2,0.256,28795.66,debt_consolidation,0,monitoring
+32,30-50,55516.43,0.0,5.1,0.303,13403.77,education,0,monitoring
+62,Over 50,36985.67,14.5,12.8,0.2,14240.83,auto,1,monitoring
+57,Over 50,57531.45,8.9,10.9,0.737,3537.11,home_improvement,0,monitoring
+39,30-50,102516.32,9.7,13.8,0.564,7728.73,debt_consolidation,0,monitoring
+33,30-50,70294.46,7.3,6.0,0.319,3125.68,auto,0,monitoring
+34,30-50,50574.33,9.9,10.0,0.261,5391.21,small_business,0,monitoring
+41,30-50,33817.06,6.3,8.3,0.385,3813.86,auto,1,monitoring
+52,Over 50,71605.96,7.9,10.2,0.282,10064.98,home_improvement,0,monitoring
+43,30-50,70469.14,3.7,7.5,0.483,6157.33,debt_consolidation,1,monitoring
+28,Under 30,62872.79,8.1,9.7,0.268,6158.92,debt_consolidation,1,monitoring
+67,Over 50,49138.86,18.0,18.5,0.55,6155.74,home_improvement,0,monitoring
+40,30-50,29160.15,3.6,3.0,0.268,7672.68,home_improvement,0,monitoring
+64,Over 50,49552.11,13.9,11.5,0.249,5011.34,auto,0,monitoring
+30,30-50,77721.43,4.2,5.5,0.266,8751.52,debt_consolidation,0,monitoring
+34,30-50,32087.65,3.3,2.5,0.206,6963.32,debt_consolidation,0,monitoring
+59,Over 50,58392.23,17.5,17.1,0.275,4620.2,auto,0,monitoring
+34,30-50,108666.95,8.7,7.8,0.132,8506.77,education,0,monitoring
+64,Over 50,59813.73,10.1,9.8,0.178,3306.1,debt_consolidation,0,monitoring
+41,30-50,58067.33,11.5,12.0,0.2,10336.42,small_business,0,monitoring
+43,30-50,47670.78,10.0,14.4,0.106,5212.21,debt_consolidation,0,monitoring
+21,Under 30,61939.36,0.0,2.1,0.196,16199.53,education,1,monitoring
+41,30-50,177510.88,6.1,8.0,0.297,3686.85,auto,0,monitoring
+36,30-50,31812.09,0.8,3.4,0.524,11590.37,auto,0,monitoring
+47,30-50,32517.4,8.9,10.1,0.22,9761.32,education,0,monitoring
+67,Over 50,51155.81,13.4,12.1,0.587,9937.58,auto,0,monitoring
+21,Under 30,28215.38,0.0,1.3,0.424,4720.34,home_improvement,0,monitoring
+62,Over 50,30560.12,13.0,10.7,0.085,7186.88,debt_consolidation,0,monitoring
+40,30-50,28370.16,4.4,3.6,0.416,6745.85,education,0,monitoring
+47,30-50,44219.71,11.0,11.1,0.298,5236.33,auto,0,monitoring
+44,30-50,17546.08,2.7,4.5,0.211,6580.05,home_improvement,0,monitoring
+44,30-50,32034.78,10.3,8.5,0.305,8539.6,debt_consolidation,0,monitoring
+61,Over 50,25947.48,14.3,16.2,0.212,7852.26,home_improvement,0,monitoring
+67,Over 50,36072.7,14.4,12.8,0.152,7008.92,debt_consolidation,0,monitoring
+69,Over 50,53320.78,12.8,11.1,0.114,5634.64,debt_consolidation,0,monitoring
+50,30-50,53218.36,1.9,1.8,0.176,2840.88,education,0,monitoring
+55,Over 50,45218.41,15.8,15.6,0.274,6059.25,home_improvement,0,monitoring
+67,Over 50,55401.56,11.4,11.4,0.261,9664.9,small_business,0,monitoring
+66,Over 50,37760.32,17.4,17.6,0.477,4463.16,home_improvement,0,monitoring
+69,Over 50,41674.91,13.7,11.7,0.426,6221.99,debt_consolidation,0,monitoring
+23,Under 30,30679.23,1.4,1.0,0.405,5803.86,debt_consolidation,0,monitoring
+22,Under 30,46191.69,0.0,2.9,0.433,10702.25,home_improvement,0,monitoring
+49,30-50,37075.73,11.1,11.4,0.185,11446.67,auto,0,monitoring
+26,Under 30,20368.23,0.0,3.2,0.174,7662.39,debt_consolidation,0,monitoring
+63,Over 50,43608.16,16.9,12.2,0.403,5076.12,debt_consolidation,0,monitoring
+58,Over 50,118627.41,14.0,17.2,0.331,14731.08,debt_consolidation,0,monitoring
+27,Under 30,21318.61,0.0,5.2,0.245,9350.73,auto,0,monitoring
+27,Under 30,44419.57,0.0,1.1,0.73,2164.37,debt_consolidation,0,monitoring
+26,Under 30,19274.22,9.7,9.0,0.377,8544.7,auto,0,monitoring
+37,30-50,87005.01,7.9,8.3,0.595,6015.02,debt_consolidation,0,monitoring
+62,Over 50,100052.31,18.7,17.5,0.239,4285.31,auto,0,monitoring
+35,30-50,70037.19,3.2,4.4,0.386,6191.93,education,0,monitoring
+55,Over 50,84145.1,7.9,8.6,0.396,8434.88,home_improvement,0,monitoring
+48,30-50,39791.13,5.3,5.9,0.165,10428.57,debt_consolidation,0,monitoring
+50,30-50,31555.17,8.9,10.8,0.267,6773.68,small_business,0,monitoring
+23,Under 30,23388.28,0.0,4.7,0.118,10066.27,auto,0,monitoring
+54,Over 50,41992.43,11.9,12.6,0.549,3816.91,debt_consolidation,0,monitoring
+43,30-50,64540.14,3.9,4.4,0.337,6519.55,auto,0,monitoring
+27,Under 30,52571.4,3.4,5.1,0.305,15704.04,debt_consolidation,1,monitoring
+48,30-50,38791.91,4.7,9.3,0.164,3827.78,auto,0,monitoring
+50,30-50,92153.88,7.1,7.2,0.329,5954.92,education,0,monitoring
+26,Under 30,24175.24,2.9,6.3,0.306,12670.21,home_improvement,0,monitoring
+45,30-50,29628.16,12.1,11.3,0.117,4951.1,debt_consolidation,0,monitoring
+37,30-50,65733.05,9.2,7.2,0.412,11272.46,small_business,0,monitoring
+57,Over 50,18272.28,13.2,13.8,0.081,6483.03,auto,0,monitoring
+45,30-50,24152.29,10.1,12.0,0.101,11850.88,debt_consolidation,0,monitoring
+22,Under 30,40540.36,0.0,5.7,0.342,13999.73,small_business,0,monitoring
+35,30-50,56547.47,7.4,11.2,0.422,8365.45,education,0,monitoring
+48,30-50,56705.13,11.0,16.4,0.325,7894.7,debt_consolidation,0,monitoring
+41,30-50,73585.34,6.0,10.7,0.567,6973.51,auto,1,monitoring
+34,30-50,54682.54,7.3,8.8,0.265,5873.11,auto,0,monitoring
+41,30-50,28125.26,7.8,8.2,0.234,8028.28,auto,0,monitoring
+37,30-50,35914.35,5.6,5.9,0.236,5127.36,home_improvement,0,monitoring
+25,Under 30,34977.42,0.7,1.3,0.461,12774.2,home_improvement,1,monitoring
+55,Over 50,62059.27,11.5,14.4,0.562,9201.53,debt_consolidation,0,monitoring
+49,30-50,59031.96,10.5,8.6,0.355,5978.58,home_improvement,0,monitoring
+46,30-50,35230.12,2.1,2.2,0.208,5073.76,debt_consolidation,0,monitoring
+24,Under 30,20236.92,2.8,5.4,0.629,19579.84,debt_consolidation,0,monitoring
+53,Over 50,46730.15,14.9,15.6,0.476,18570.03,home_improvement,0,monitoring
+49,30-50,21845.06,5.9,2.7,0.28,7124.14,debt_consolidation,0,monitoring
+60,Over 50,26515.07,10.1,10.2,0.183,12115.25,home_improvement,0,monitoring
+25,Under 30,46060.52,1.1,0.8,0.104,7213.18,education,1,monitoring
+36,30-50,48047.89,9.4,10.3,0.291,8246.47,education,0,monitoring
+47,30-50,30491.67,8.7,7.8,0.454,12383.61,education,0,monitoring
+27,Under 30,43146.37,0.4,4.0,0.596,5464.12,small_business,1,monitoring
+62,Over 50,49914.68,11.6,9.8,0.285,5330.81,small_business,0,monitoring
+33,30-50,94150.18,11.6,13.5,0.138,15043.93,debt_consolidation,0,monitoring
+35,30-50,59791.62,8.9,11.1,0.161,3361.29,debt_consolidation,0,monitoring
+40,30-50,30739.41,5.3,6.8,0.315,8835.83,home_improvement,0,monitoring
+25,Under 30,34857.38,8.1,5.3,0.198,9785.27,auto,0,monitoring
+29,Under 30,49188.73,3.6,1.7,0.342,5724.96,auto,0,monitoring
+36,30-50,61933.88,0.5,0.6,0.248,18123.69,debt_consolidation,0,monitoring
+31,30-50,42478.83,0.5,1.3,0.533,13974.95,debt_consolidation,1,monitoring
+41,30-50,40766.78,6.9,5.0,0.415,30674.49,education,1,monitoring
+52,Over 50,81556.13,5.6,10.6,0.305,13926.22,debt_consolidation,0,monitoring
+50,30-50,43475.18,6.0,6.6,0.182,23636.91,auto,0,monitoring
+63,Over 50,17520.22,14.1,10.9,0.35,4695.44,debt_consolidation,0,monitoring
+28,Under 30,147655.24,3.4,4.3,0.615,12008.3,home_improvement,0,monitoring
+52,Over 50,36834.99,9.8,10.3,0.151,11217.45,education,0,monitoring
+21,Under 30,34663.82,4.0,4.9,0.605,18974.15,auto,0,monitoring
+21,Under 30,50376.63,0.0,0.0,0.409,10258.11,debt_consolidation,0,monitoring
+62,Over 50,45114.02,13.6,11.6,0.462,16736.35,debt_consolidation,0,monitoring
+39,30-50,62345.78,5.7,4.4,0.45,11307.66,small_business,0,monitoring
+43,30-50,44720.59,4.5,4.7,0.204,16854.5,home_improvement,0,monitoring
+63,Over 50,57887.91,15.7,12.6,0.484,5252.95,debt_consolidation,0,monitoring
+49,30-50,30307.9,8.8,9.7,0.423,6602.79,auto,0,monitoring
+54,Over 50,15032.09,14.5,11.5,0.207,4791.44,education,0,monitoring
+60,Over 50,50849.85,9.3,12.1,0.133,4386.58,debt_consolidation,0,monitoring
+53,Over 50,26798.57,9.7,9.9,0.157,6370.9,home_improvement,0,monitoring
+58,Over 50,21148.18,7.9,13.0,0.176,11150.73,debt_consolidation,0,monitoring
+27,Under 30,45963.57,0.0,5.3,0.509,8092.66,debt_consolidation,0,monitoring
+63,Over 50,45430.83,13.3,13.7,0.324,6515.17,small_business,0,monitoring
+41,30-50,53362.56,4.3,8.1,0.122,6256.74,home_improvement,0,monitoring
+36,30-50,69132.35,8.2,11.9,0.261,6915.84,education,0,monitoring
+29,Under 30,39456.05,6.7,4.5,0.132,7366.92,debt_consolidation,0,monitoring
+30,30-50,20755.46,0.9,2.2,0.335,10784.4,small_business,0,monitoring
+28,Under 30,60843.54,1.9,2.4,0.286,11069.75,debt_consolidation,1,monitoring
+21,Under 30,56474.69,0.1,1.6,0.15,3259.91,auto,0,monitoring
+34,30-50,26524.2,4.8,6.4,0.251,11753.69,education,0,monitoring
+40,30-50,100190.4,5.6,4.0,0.595,11280.31,home_improvement,0,monitoring
+67,Over 50,29753.62,20.8,18.7,0.518,9689.71,small_business,0,monitoring
+50,30-50,67597.52,8.8,10.0,0.3,9009.87,debt_consolidation,0,monitoring
+58,Over 50,58861.59,14.7,12.4,0.241,14668.49,education,0,monitoring
+48,30-50,27307.62,7.5,4.9,0.134,8298.42,auto,0,monitoring
+60,Over 50,34571.26,14.6,14.4,0.369,6681.29,auto,0,monitoring
+64,Over 50,56527.84,17.8,15.6,0.602,5467.48,home_improvement,0,monitoring
+65,Over 50,68835.25,14.8,12.5,0.28,6637.24,auto,0,monitoring
+61,Over 50,31369.89,17.6,12.4,0.658,9765.51,small_business,0,monitoring
+55,Over 50,32131.05,11.0,9.6,0.25,8607.69,education,0,monitoring
+45,30-50,24197.4,8.9,8.7,0.234,6545.55,debt_consolidation,0,monitoring
+29,Under 30,76723.71,3.1,5.0,0.52,4592.87,home_improvement,1,monitoring
+27,Under 30,64251.78,5.3,7.4,0.424,10892.97,debt_consolidation,0,monitoring
+66,Over 50,40820.03,12.6,10.1,0.672,12538.22,auto,0,monitoring
+45,30-50,24094.63,5.9,5.9,0.368,9320.86,debt_consolidation,0,monitoring
+60,Over 50,39794.45,10.9,9.3,0.25,3171.96,auto,0,monitoring
+66,Over 50,42887.18,13.5,13.0,0.232,8788.22,debt_consolidation,0,monitoring
+24,Under 30,53291.98,0.0,0.7,0.18,12579.8,small_business,0,monitoring
+64,Over 50,19027.2,11.3,10.8,0.179,5594.0,education,0,monitoring
+34,30-50,59112.71,3.4,2.8,0.221,4804.93,home_improvement,0,monitoring
+54,Over 50,37909.9,13.9,14.1,0.615,10621.04,small_business,0,monitoring
+43,30-50,66783.27,8.5,13.0,0.214,8618.54,debt_consolidation,0,monitoring
+53,Over 50,55190.23,16.7,14.0,0.635,16430.86,home_improvement,0,monitoring
+44,30-50,27120.9,5.6,2.1,0.189,14779.61,debt_consolidation,0,monitoring
+61,Over 50,42958.43,9.9,8.9,0.298,8354.31,auto,1,monitoring
+67,Over 50,34492.77,13.3,12.7,0.503,11862.42,debt_consolidation,0,monitoring
+54,Over 50,46719.71,9.6,7.8,0.509,6259.83,debt_consolidation,0,monitoring
+41,30-50,29662.12,6.3,6.4,0.35,16338.44,auto,0,monitoring
+51,Over 50,34902.27,10.6,11.6,0.305,8110.74,home_improvement,0,monitoring
+29,Under 30,34492.98,0.6,1.4,0.266,6797.0,auto,0,monitoring
+40,30-50,19091.77,13.5,11.4,0.2,14995.14,debt_consolidation,1,monitoring
+57,Over 50,52767.35,16.4,18.3,0.216,6109.36,debt_consolidation,0,monitoring
+40,30-50,99947.94,5.9,6.9,0.659,2890.92,debt_consolidation,0,monitoring
+69,Over 50,35567.7,14.1,9.7,0.204,9010.61,auto,0,monitoring
+44,30-50,52083.61,6.3,6.6,0.433,6943.11,small_business,0,monitoring
+64,Over 50,35828.78,17.6,14.8,0.254,4747.45,small_business,0,monitoring
+64,Over 50,14107.54,15.9,17.3,0.313,8072.18,small_business,0,monitoring
+32,30-50,27727.39,0.6,0.4,0.437,14990.71,debt_consolidation,0,monitoring
+52,Over 50,88802.15,8.7,10.2,0.197,17713.86,auto,0,monitoring
+67,Over 50,115576.05,12.9,16.7,0.132,5809.07,small_business,0,monitoring
+61,Over 50,42923.13,15.5,14.0,0.576,11074.96,debt_consolidation,1,monitoring
+44,30-50,29545.91,12.8,13.0,0.56,7652.77,home_improvement,0,monitoring
+45,30-50,61607.7,12.2,12.9,0.456,4581.45,auto,0,monitoring
+59,Over 50,28272.59,11.8,13.3,0.415,3829.75,debt_consolidation,0,monitoring
+47,30-50,48976.9,10.0,9.5,0.248,10524.42,debt_consolidation,0,monitoring
+47,30-50,43297.79,6.2,6.8,0.264,4195.89,education,0,monitoring
+55,Over 50,30381.42,13.1,8.7,0.244,9960.21,auto,0,monitoring
+69,Over 50,56302.74,18.6,17.8,0.31,17823.14,auto,0,monitoring
+55,Over 50,41894.64,5.4,7.0,0.709,11717.36,education,1,monitoring
+45,30-50,94456.46,7.2,3.4,0.465,10123.93,debt_consolidation,0,monitoring
+31,30-50,71601.77,1.6,3.2,0.164,15775.33,debt_consolidation,0,monitoring
+35,30-50,44658.32,2.4,4.8,0.75,6336.84,small_business,1,monitoring
+66,Over 50,24099.06,13.1,9.4,0.096,8405.76,debt_consolidation,0,monitoring
+62,Over 50,27689.66,20.9,19.4,0.251,11344.96,debt_consolidation,0,monitoring
+32,30-50,69393.49,4.3,7.6,0.363,7928.13,small_business,0,monitoring
+38,30-50,61814.21,4.4,8.9,0.196,12531.92,education,0,monitoring
+53,Over 50,25942.98,8.9,9.6,0.488,5282.91,auto,0,monitoring
+52,Over 50,44133.78,9.4,10.4,0.304,4199.11,auto,0,monitoring
+38,30-50,30479.83,3.3,5.7,0.661,7562.44,small_business,0,monitoring
+55,Over 50,25802.83,11.9,15.1,0.248,5531.5,small_business,0,monitoring
+34,30-50,19956.37,0.7,8.3,0.214,6248.56,home_improvement,0,monitoring
+64,Over 50,40487.12,13.5,11.3,0.241,6405.46,debt_consolidation,0,monitoring
+69,Over 50,42073.13,18.7,13.6,0.18,4837.03,debt_consolidation,0,monitoring
+34,30-50,36010.99,6.9,3.7,0.445,6785.44,education,0,monitoring
+54,Over 50,24518.53,5.3,5.5,0.185,12143.94,education,0,monitoring
+48,30-50,48894.19,11.3,13.7,0.111,3919.05,home_improvement,0,monitoring
+34,30-50,33280.97,2.4,2.6,0.559,10818.21,auto,1,monitoring
+51,Over 50,58612.41,13.8,13.5,0.493,6262.93,small_business,0,monitoring
+56,Over 50,47465.48,8.9,7.8,0.152,10676.96,auto,0,monitoring
+45,30-50,35108.97,7.3,7.2,0.279,8943.89,debt_consolidation,0,monitoring
+57,Over 50,64681.62,12.8,11.8,0.445,14129.04,debt_consolidation,0,monitoring
+67,Over 50,30756.58,18.5,17.3,0.448,17533.72,auto,0,monitoring
+38,30-50,31465.25,8.4,7.3,0.334,11357.59,home_improvement,0,monitoring
+38,30-50,44159.74,3.5,6.6,0.411,5550.2,debt_consolidation,0,monitoring
+66,Over 50,60003.32,13.3,12.7,0.29,4510.37,debt_consolidation,0,monitoring
+59,Over 50,39613.2,16.5,18.1,0.371,2987.43,home_improvement,0,monitoring
+68,Over 50,45362.03,14.5,11.7,0.244,6109.09,debt_consolidation,0,monitoring
+58,Over 50,48615.52,18.1,14.0,0.309,4769.57,education,0,monitoring
+34,30-50,37262.19,6.4,7.4,0.206,5784.24,small_business,0,monitoring
+48,30-50,48367.09,6.1,8.1,0.355,15415.37,education,0,monitoring
+56,Over 50,47583.34,14.9,15.5,0.344,20683.85,debt_consolidation,0,monitoring
+39,30-50,20289.09,7.2,10.0,0.225,9547.27,auto,0,monitoring
+30,30-50,77423.9,2.7,7.0,0.246,7231.19,small_business,0,monitoring
+56,Over 50,82755.05,11.0,9.5,0.196,6035.54,home_improvement,0,monitoring
+31,30-50,46185.53,5.8,4.3,0.154,27088.44,debt_consolidation,0,monitoring
+68,Over 50,68760.13,13.9,12.4,0.164,18749.7,home_improvement,0,monitoring
+58,Over 50,46033.19,10.6,10.2,0.301,14408.69,education,0,monitoring
+60,Over 50,61777.99,11.7,13.1,0.151,7104.27,education,0,monitoring
+67,Over 50,67888.23,14.5,11.1,0.479,21787.97,small_business,0,monitoring
+66,Over 50,36018.94,16.3,13.3,0.187,4434.27,debt_consolidation,0,monitoring
+45,30-50,53548.88,9.2,8.6,0.289,4488.14,auto,0,monitoring
+38,30-50,80808.06,8.2,7.1,0.359,12202.62,home_improvement,1,monitoring
+36,30-50,70931.9,11.5,9.8,0.248,7549.63,debt_consolidation,0,monitoring
+56,Over 50,86676.96,14.3,10.6,0.257,8310.79,auto,0,monitoring
+34,30-50,83839.32,3.2,6.6,0.385,8812.94,education,0,monitoring
+55,Over 50,57172.22,12.5,13.1,0.195,6390.09,home_improvement,0,monitoring
+43,30-50,28721.54,7.6,10.1,0.197,5803.87,home_improvement,0,monitoring
+32,30-50,57678.18,0.0,1.6,0.307,13648.33,home_improvement,0,monitoring
+52,Over 50,66234.0,11.8,13.3,0.367,16143.62,auto,0,monitoring
+28,Under 30,64465.48,0.0,0.0,0.478,8293.5,debt_consolidation,0,monitoring
+66,Over 50,33734.06,16.3,16.5,0.547,4169.35,debt_consolidation,0,monitoring
+34,30-50,61507.9,3.7,4.3,0.2,7639.93,home_improvement,0,monitoring
+57,Over 50,34249.82,8.0,8.3,0.175,15882.55,debt_consolidation,0,monitoring
+48,30-50,60887.02,11.7,12.2,0.158,9180.26,debt_consolidation,0,monitoring
+64,Over 50,104448.61,16.6,18.9,0.547,10790.83,education,0,monitoring
+57,Over 50,28613.77,15.8,10.4,0.244,14691.43,debt_consolidation,0,monitoring
+58,Over 50,36614.26,10.5,10.7,0.207,6285.56,auto,1,monitoring
+47,30-50,45238.28,8.7,12.4,0.499,10547.74,small_business,0,monitoring
+42,30-50,78381.81,8.9,10.2,0.144,6141.38,education,0,monitoring
+25,Under 30,191438.56,8.1,10.9,0.402,13511.21,home_improvement,0,monitoring
+67,Over 50,54455.51,16.2,13.4,0.388,13705.88,debt_consolidation,0,monitoring
+48,30-50,45939.45,8.1,7.9,0.234,4958.75,debt_consolidation,0,monitoring
+50,30-50,40795.29,7.8,11.5,0.397,9667.38,home_improvement,0,monitoring
+65,Over 50,18937.29,19.5,16.3,0.468,8777.54,debt_consolidation,0,monitoring
+43,30-50,43557.89,11.2,14.3,0.339,2696.38,small_business,0,monitoring
+23,Under 30,46674.07,0.0,2.0,0.186,2687.2,home_improvement,0,monitoring
+54,Over 50,80920.64,12.6,14.3,0.275,15370.02,debt_consolidation,0,monitoring
+29,Under 30,17131.02,7.6,8.5,0.447,8320.53,debt_consolidation,0,monitoring
+57,Over 50,41928.26,14.3,12.9,0.222,16977.33,home_improvement,0,monitoring
+54,Over 50,47975.92,9.4,9.7,0.483,6059.9,debt_consolidation,0,monitoring
+48,30-50,24789.87,8.6,9.5,0.383,5001.1,debt_consolidation,0,monitoring
+41,30-50,75750.67,7.8,10.0,0.33,8571.85,home_improvement,0,monitoring
+44,30-50,46753.05,13.9,13.1,0.184,8250.08,auto,0,monitoring
+30,30-50,56801.98,0.0,2.0,0.252,4778.06,debt_consolidation,0,monitoring
+65,Over 50,40397.45,16.9,18.4,0.69,4414.76,small_business,0,monitoring
+34,30-50,37209.01,4.7,4.2,0.131,5832.59,debt_consolidation,0,monitoring
+45,30-50,20853.39,14.4,14.1,0.325,2425.13,debt_consolidation,0,monitoring
+25,Under 30,59249.06,3.7,7.7,0.144,15355.9,debt_consolidation,0,monitoring
+47,30-50,68932.82,8.9,9.0,0.114,8907.72,debt_consolidation,0,monitoring
+65,Over 50,56681.26,15.3,13.0,0.172,6716.41,home_improvement,0,monitoring
+66,Over 50,29973.48,15.4,16.7,0.334,12853.43,education,0,monitoring
+49,30-50,32252.66,11.1,12.6,0.461,11486.01,home_improvement,0,monitoring
+68,Over 50,24448.7,18.4,18.0,0.246,3820.54,debt_consolidation,0,monitoring
+24,Under 30,38977.68,0.0,2.0,0.359,9688.56,education,0,monitoring
+52,Over 50,81277.53,9.2,8.1,0.338,7057.68,debt_consolidation,0,monitoring
+59,Over 50,57968.01,14.3,14.6,0.433,8677.2,auto,1,monitoring
+41,30-50,31506.08,7.6,6.5,0.119,13276.82,education,0,monitoring
+45,30-50,22227.0,7.2,6.9,0.709,7545.06,debt_consolidation,0,monitoring
+28,Under 30,48389.75,0.0,2.0,0.366,4586.1,auto,0,monitoring
+44,30-50,53089.31,5.5,6.0,0.469,6293.8,auto,0,monitoring
+25,Under 30,38868.1,0.3,1.3,0.246,12953.66,home_improvement,0,monitoring
+63,Over 50,36709.53,13.4,10.4,0.124,27685.04,auto,0,monitoring
+35,30-50,33847.74,8.2,8.3,0.378,7254.03,auto,0,monitoring
+34,30-50,38847.61,3.2,4.9,0.286,14189.42,small_business,0,monitoring
+21,Under 30,27783.13,0.0,0.0,0.3,5808.47,home_improvement,0,monitoring
+22,Under 30,47920.19,2.8,4.3,0.169,5548.51,debt_consolidation,0,monitoring
+62,Over 50,51943.12,16.6,14.8,0.277,11340.79,education,0,monitoring
+39,30-50,48384.41,2.5,3.9,0.595,6589.15,auto,1,monitoring
+31,30-50,45569.58,6.6,5.5,0.219,5643.71,auto,0,monitoring
+69,Over 50,77333.21,19.4,16.2,0.238,2777.83,auto,0,monitoring
+28,Under 30,38092.67,0.5,5.1,0.102,8421.02,home_improvement,0,monitoring
+25,Under 30,43468.21,0.0,0.2,0.179,5543.96,home_improvement,0,monitoring
+45,30-50,95361.72,10.6,9.5,0.509,10544.7,small_business,0,monitoring
+21,Under 30,22759.35,0.0,4.2,0.145,5579.4,education,0,monitoring
+52,Over 50,17337.49,8.8,7.2,0.233,5075.48,education,0,monitoring
+28,Under 30,54105.03,1.5,1.9,0.334,8250.73,debt_consolidation,0,monitoring
+22,Under 30,39014.87,0.0,3.3,0.154,6797.27,debt_consolidation,1,monitoring
+65,Over 50,101804.67,16.0,16.4,0.383,5315.99,auto,0,monitoring
+27,Under 30,66524.05,4.4,4.5,0.273,8130.73,debt_consolidation,0,monitoring
+44,30-50,60617.12,8.7,9.2,0.35,8975.7,auto,0,monitoring
+68,Over 50,62164.43,17.5,17.9,0.24,11947.77,small_business,0,monitoring
+68,Over 50,27216.54,15.3,14.3,0.356,12917.38,debt_consolidation,0,monitoring
+50,30-50,45088.96,11.3,7.4,0.191,5844.27,education,0,monitoring
+62,Over 50,108533.23,17.3,16.5,0.304,6151.05,debt_consolidation,0,monitoring
+66,Over 50,24556.96,11.7,13.2,0.608,6499.23,auto,0,monitoring
+53,Over 50,42327.63,7.2,8.5,0.239,2669.06,debt_consolidation,0,monitoring
+31,30-50,26982.35,3.9,4.4,0.333,12591.75,home_improvement,0,monitoring
+35,30-50,56533.33,4.2,5.4,0.269,13548.94,debt_consolidation,0,monitoring
+60,Over 50,65068.07,10.8,10.0,0.259,7471.42,debt_consolidation,0,monitoring
+67,Over 50,28335.63,18.7,16.3,0.768,7208.4,debt_consolidation,0,monitoring
+28,Under 30,42869.36,3.4,4.9,0.238,11832.98,education,0,monitoring
+63,Over 50,79154.09,13.1,13.0,0.261,6423.67,home_improvement,0,monitoring
+51,Over 50,44743.86,14.4,11.5,0.154,11197.07,auto,0,monitoring
+34,30-50,26981.3,1.7,3.5,0.334,9240.23,home_improvement,0,monitoring
+60,Over 50,52827.58,7.7,8.2,0.174,11245.6,education,0,monitoring
+23,Under 30,103918.7,0.0,0.0,0.404,6876.99,home_improvement,1,monitoring
+29,Under 30,23158.77,1.1,5.9,0.291,12447.68,debt_consolidation,0,monitoring
+55,Over 50,35264.24,12.3,12.0,0.651,2712.38,education,0,monitoring
+25,Under 30,37774.32,3.0,6.1,0.304,4002.85,debt_consolidation,0,monitoring
+59,Over 50,54088.47,11.3,11.1,0.407,15667.63,debt_consolidation,0,monitoring
+52,Over 50,49162.82,12.8,15.1,0.663,7582.9,education,0,monitoring
+50,30-50,56007.85,11.7,12.6,0.54,4217.58,education,0,monitoring
+44,30-50,99371.89,5.8,9.0,0.25,5594.91,education,0,monitoring
+38,30-50,42160.66,11.2,10.9,0.169,9325.59,debt_consolidation,0,monitoring
+47,30-50,29529.22,13.8,14.9,0.262,7175.44,debt_consolidation,0,monitoring
+69,Over 50,44814.07,16.4,13.2,0.501,11007.48,debt_consolidation,0,monitoring
+55,Over 50,84802.22,14.4,14.2,0.318,5484.16,debt_consolidation,0,monitoring
+59,Over 50,39805.83,12.4,9.8,0.518,19695.35,small_business,0,monitoring
+62,Over 50,58345.7,14.1,14.5,0.335,7353.14,auto,0,monitoring
+59,Over 50,45935.06,12.0,13.5,0.341,3873.05,small_business,0,monitoring
+52,Over 50,39671.22,11.8,15.5,0.209,5933.45,debt_consolidation,0,monitoring
+63,Over 50,35847.66,10.7,11.1,0.197,8451.82,small_business,0,monitoring
+61,Over 50,64810.29,15.5,16.5,0.304,13920.68,home_improvement,0,monitoring
+37,30-50,34281.13,5.9,3.8,0.127,15711.33,auto,0,monitoring
+68,Over 50,39332.18,19.0,17.3,0.549,5111.79,debt_consolidation,0,monitoring
+29,Under 30,20133.85,6.1,7.3,0.22,9257.98,small_business,0,monitoring
+69,Over 50,38904.11,17.6,14.1,0.231,4474.53,education,0,monitoring
+21,Under 30,39489.34,0.9,1.3,0.192,7427.65,small_business,0,monitoring
+40,30-50,45587.37,4.8,7.2,0.383,5250.66,education,0,monitoring
+56,Over 50,33589.89,7.9,9.4,0.099,4404.19,auto,0,monitoring
+32,30-50,23848.09,4.8,8.0,0.42,4439.78,small_business,0,monitoring
+31,30-50,49952.65,6.6,8.4,0.532,12228.82,debt_consolidation,0,monitoring
+63,Over 50,54819.6,16.9,17.0,0.479,6389.37,debt_consolidation,0,monitoring
+65,Over 50,31202.75,14.5,15.1,0.295,6295.18,auto,0,monitoring
+37,30-50,47147.36,2.7,7.3,0.295,11714.75,debt_consolidation,0,monitoring
+34,30-50,34384.32,4.3,8.1,0.47,7911.94,debt_consolidation,0,monitoring
+60,Over 50,38972.02,15.2,15.3,0.331,17964.58,debt_consolidation,0,monitoring
+55,Over 50,44908.18,11.1,9.1,0.328,4955.93,debt_consolidation,0,monitoring
+30,30-50,32974.21,5.3,5.2,0.116,16136.32,small_business,1,monitoring
+29,Under 30,26805.73,4.1,7.4,0.485,6897.33,home_improvement,0,monitoring
+29,Under 30,99584.26,0.0,0.7,0.384,7758.63,debt_consolidation,0,monitoring
+25,Under 30,39185.98,0.0,2.0,0.211,3582.8,debt_consolidation,0,monitoring
+42,30-50,46643.86,6.6,7.2,0.674,7025.45,auto,0,monitoring
+65,Over 50,76063.91,21.1,17.4,0.448,8626.09,home_improvement,0,monitoring
+40,30-50,69730.54,7.7,10.2,0.173,9974.22,home_improvement,0,monitoring
+31,30-50,27396.47,6.6,7.4,0.212,3028.11,small_business,0,monitoring
+24,Under 30,33933.16,0.0,2.5,0.438,13273.18,debt_consolidation,0,monitoring
+59,Over 50,159056.03,10.1,9.1,0.251,5573.96,debt_consolidation,0,monitoring
+67,Over 50,44232.79,15.5,14.9,0.24,3551.22,debt_consolidation,0,monitoring
+29,Under 30,61725.33,4.1,4.1,0.232,7470.63,small_business,0,monitoring
+36,30-50,48722.81,6.4,4.5,0.363,3392.68,home_improvement,1,monitoring
+36,30-50,38545.64,4.7,4.9,0.415,2822.63,home_improvement,0,monitoring
+26,Under 30,43699.71,5.5,7.6,0.29,21718.67,auto,0,monitoring
+31,30-50,48226.45,5.1,8.9,0.379,17896.17,debt_consolidation,0,monitoring
+33,30-50,49767.62,2.2,0.7,0.558,12919.61,auto,0,monitoring
+41,30-50,13262.59,14.3,10.2,0.417,10251.59,debt_consolidation,0,monitoring
+24,Under 30,33828.96,3.3,3.2,0.28,13263.53,small_business,0,monitoring
+60,Over 50,29910.11,13.1,12.5,0.302,4964.14,small_business,0,monitoring
+48,30-50,18521.14,10.0,10.3,0.21,14902.46,auto,0,monitoring
+55,Over 50,28278.62,12.3,9.6,0.131,9475.24,debt_consolidation,0,monitoring
+59,Over 50,15753.98,7.8,8.5,0.464,3106.47,debt_consolidation,0,monitoring
+21,Under 30,94879.62,0.0,0.0,0.392,4208.24,debt_consolidation,0,monitoring
+53,Over 50,33939.69,12.9,12.9,0.248,15853.66,home_improvement,0,monitoring
+29,Under 30,33846.74,3.9,7.5,0.304,17451.1,debt_consolidation,0,monitoring
+40,30-50,59350.56,8.5,5.4,0.145,10089.47,small_business,0,monitoring
+67,Over 50,38091.54,17.0,14.5,0.123,13966.2,debt_consolidation,0,monitoring
+59,Over 50,56977.07,19.8,16.6,0.31,7871.01,auto,0,monitoring
+69,Over 50,36352.29,16.0,17.5,0.31,10264.85,debt_consolidation,0,monitoring
+41,30-50,40714.97,6.2,7.3,0.268,7805.19,home_improvement,0,monitoring
+50,30-50,36200.57,9.3,7.7,0.276,6427.33,auto,0,monitoring
+21,Under 30,62789.42,0.0,2.4,0.639,10114.54,home_improvement,0,monitoring
+40,30-50,33048.92,15.7,16.6,0.499,7808.31,debt_consolidation,0,monitoring
+40,30-50,13685.45,6.0,7.4,0.276,25062.21,debt_consolidation,1,monitoring
+64,Over 50,43572.07,15.1,12.2,0.204,12969.75,debt_consolidation,1,monitoring
+26,Under 30,65730.51,5.6,7.7,0.21,16696.37,education,0,monitoring
+31,30-50,30577.24,2.1,5.0,0.45,7935.87,debt_consolidation,0,monitoring
+28,Under 30,26210.18,8.1,8.1,0.248,9650.74,auto,0,monitoring
+41,30-50,32130.95,8.3,7.9,0.646,19225.07,home_improvement,0,monitoring
+27,Under 30,14844.84,1.1,5.0,0.094,11812.08,home_improvement,0,monitoring
+47,30-50,26520.04,10.6,9.0,0.433,7404.15,debt_consolidation,0,monitoring
+35,30-50,30018.72,5.6,7.3,0.261,12311.16,debt_consolidation,0,monitoring
+46,30-50,57990.0,10.9,10.7,0.222,11047.1,debt_consolidation,0,monitoring
+37,30-50,34212.59,3.8,4.9,0.236,15539.09,home_improvement,0,monitoring
+66,Over 50,58418.72,14.7,16.7,0.357,5271.69,debt_consolidation,0,monitoring
+49,30-50,22944.92,16.0,15.7,0.209,10882.76,debt_consolidation,0,monitoring
+39,30-50,129130.66,7.7,9.5,0.7,9567.24,auto,0,monitoring
+66,Over 50,28545.88,14.0,14.1,0.586,9835.65,home_improvement,0,monitoring
+39,30-50,26445.65,5.4,5.2,0.196,9743.19,debt_consolidation,0,monitoring
+49,30-50,76421.84,11.3,11.3,0.161,13039.69,home_improvement,0,monitoring
+59,Over 50,25548.67,11.1,13.3,0.087,8680.66,small_business,0,monitoring
+62,Over 50,47874.79,16.5,15.0,0.189,10033.79,auto,0,monitoring
+62,Over 50,150916.29,15.3,13.9,0.402,9345.71,small_business,0,monitoring
+68,Over 50,33321.44,11.6,9.6,0.299,7560.02,small_business,0,monitoring
+28,Under 30,17698.05,0.2,0.0,0.286,10711.74,debt_consolidation,0,monitoring
+46,30-50,43151.5,8.8,6.5,0.597,10058.22,home_improvement,0,monitoring
+60,Over 50,31168.89,12.5,11.5,0.287,12149.01,home_improvement,0,monitoring
+26,Under 30,27729.3,2.1,5.4,0.323,7990.45,debt_consolidation,1,monitoring
+56,Over 50,53215.34,8.9,11.0,0.144,13228.48,debt_consolidation,0,monitoring
+23,Under 30,66743.64,0.0,3.1,0.117,7183.16,debt_consolidation,0,monitoring
+59,Over 50,50849.63,16.1,13.9,0.196,17894.1,debt_consolidation,0,monitoring
+62,Over 50,49414.1,12.9,8.6,0.423,14497.97,small_business,0,monitoring
+56,Over 50,21331.39,9.1,9.2,0.286,4872.19,debt_consolidation,0,monitoring
+52,Over 50,33211.79,8.8,8.0,0.222,17392.04,debt_consolidation,0,monitoring
+38,30-50,60659.84,5.9,3.7,0.31,9855.04,auto,0,monitoring
+45,30-50,25480.87,8.7,8.5,0.392,11593.73,debt_consolidation,1,monitoring
+55,Over 50,51585.62,11.6,14.1,0.274,9981.62,home_improvement,0,monitoring
+56,Over 50,27806.6,10.9,10.7,0.397,4875.71,debt_consolidation,0,monitoring
+26,Under 30,63079.65,3.4,4.4,0.381,13449.61,auto,0,monitoring
+21,Under 30,27897.92,1.6,5.5,0.296,3749.55,education,0,monitoring
+64,Over 50,59546.64,10.9,11.8,0.177,16118.8,home_improvement,0,monitoring
+62,Over 50,59491.13,21.5,16.5,0.418,7477.47,auto,0,monitoring
+40,30-50,42720.15,9.8,7.7,0.571,12475.02,home_improvement,1,monitoring
+56,Over 50,38871.92,12.3,13.8,0.11,7845.42,auto,0,monitoring
+34,30-50,23895.29,5.4,3.3,0.152,11045.47,debt_consolidation,0,monitoring
+47,30-50,22796.58,9.6,10.6,0.245,12107.98,home_improvement,0,monitoring
+42,30-50,109458.54,10.9,10.3,0.209,15938.02,debt_consolidation,0,monitoring
+54,Over 50,28802.44,10.8,10.7,0.201,8262.39,education,0,monitoring
+50,30-50,17615.68,8.5,11.0,0.551,5955.66,auto,0,monitoring
+50,30-50,47905.72,10.2,9.5,0.074,7056.2,small_business,1,monitoring
+58,Over 50,33144.95,8.5,10.0,0.438,14936.12,auto,0,monitoring
+42,30-50,43784.06,0.0,0.0,0.658,21711.47,education,1,monitoring
+24,Under 30,41502.57,0.9,1.3,0.167,14137.94,home_improvement,0,monitoring
+45,30-50,24193.84,10.9,13.3,0.303,5168.2,debt_consolidation,0,monitoring
+28,Under 30,16669.59,0.0,1.0,0.34,5952.48,debt_consolidation,0,monitoring
+21,Under 30,40752.31,0.0,6.0,0.089,7151.79,education,0,monitoring
+28,Under 30,71186.26,0.3,0.9,0.212,12420.24,auto,0,monitoring
+53,Over 50,35159.08,12.5,7.4,0.135,5562.41,auto,0,monitoring
+56,Over 50,46235.36,15.3,11.5,0.427,10609.59,home_improvement,0,monitoring
+69,Over 50,58709.78,18.0,15.3,0.535,9990.59,debt_consolidation,0,monitoring
+34,30-50,31909.49,4.1,5.1,0.369,5366.02,education,0,monitoring
+42,30-50,29300.25,8.1,4.2,0.657,7843.07,debt_consolidation,1,monitoring
+33,30-50,32214.96,6.8,8.3,0.129,14582.57,education,0,monitoring
+27,Under 30,61704.44,3.6,4.7,0.35,7263.59,education,0,monitoring
+24,Under 30,52102.84,0.0,0.9,0.131,14755.8,auto,0,monitoring
+52,Over 50,46895.59,5.8,10.3,0.489,4629.49,auto,0,monitoring
+52,Over 50,23633.85,16.4,15.4,0.297,4387.03,debt_consolidation,0,monitoring
+42,30-50,97806.81,1.1,2.8,0.099,6259.86,auto,0,monitoring
+33,30-50,42972.09,9.3,5.2,0.219,8263.6,debt_consolidation,0,monitoring
+29,Under 30,37286.93,2.8,8.1,0.301,7508.86,debt_consolidation,0,monitoring
+63,Over 50,56565.17,16.6,14.4,0.451,4924.92,debt_consolidation,0,monitoring
+44,30-50,56566.46,9.5,10.4,0.451,9704.04,debt_consolidation,0,monitoring
+55,Over 50,39758.07,12.9,12.0,0.301,11294.08,home_improvement,0,monitoring
+28,Under 30,56358.09,4.1,4.8,0.195,10888.12,home_improvement,0,monitoring
+63,Over 50,100781.48,12.6,13.0,0.264,5385.21,debt_consolidation,0,monitoring
+61,Over 50,54486.59,15.3,11.5,0.293,4560.85,debt_consolidation,0,monitoring
+22,Under 30,37946.57,0.0,4.9,0.601,9750.88,auto,0,monitoring
+44,30-50,26044.91,11.2,12.3,0.415,9932.57,debt_consolidation,0,monitoring
+38,30-50,25886.29,0.7,3.0,0.448,4836.67,debt_consolidation,0,monitoring
+57,Over 50,29353.93,10.4,13.5,0.112,10246.47,auto,0,monitoring
+64,Over 50,31762.15,16.9,13.2,0.183,6930.39,debt_consolidation,0,monitoring
+26,Under 30,23945.61,6.8,7.3,0.493,6952.12,education,0,monitoring
+21,Under 30,36747.38,1.7,5.4,0.583,3881.97,debt_consolidation,1,monitoring
+25,Under 30,39181.91,0.0,3.3,0.247,2807.0,education,0,monitoring
+31,30-50,26185.58,4.3,6.9,0.424,4026.86,home_improvement,1,monitoring
+62,Over 50,19311.82,12.6,9.4,0.234,12526.92,auto,0,monitoring
+38,30-50,63270.45,6.1,3.2,0.209,8826.42,debt_consolidation,0,monitoring
+42,30-50,58414.03,12.8,13.0,0.425,4215.31,debt_consolidation,0,monitoring
+35,30-50,36221.37,6.2,6.9,0.304,9220.15,auto,0,monitoring
+58,Over 50,42605.73,12.2,10.4,0.131,9124.29,debt_consolidation,0,monitoring
+66,Over 50,44787.17,11.1,12.5,0.1,12115.48,auto,0,monitoring
+25,Under 30,57823.01,0.0,0.9,0.389,12464.33,debt_consolidation,1,monitoring
+35,30-50,54026.56,4.4,5.7,0.257,5680.79,debt_consolidation,0,monitoring
+32,30-50,39464.06,5.5,7.4,0.464,5361.87,debt_consolidation,0,monitoring
+37,30-50,34332.22,6.0,9.8,0.304,3123.48,auto,0,monitoring
+65,Over 50,29795.1,12.7,13.9,0.297,3839.4,education,0,monitoring
+38,30-50,53444.12,8.4,10.0,0.367,11207.06,debt_consolidation,0,monitoring
+26,Under 30,94286.6,0.0,1.3,0.516,6373.21,debt_consolidation,0,monitoring
+40,30-50,43936.29,6.1,9.0,0.143,5420.29,debt_consolidation,0,monitoring
+47,30-50,60181.71,13.0,7.6,0.201,5173.62,auto,0,monitoring
+33,30-50,70306.39,1.4,0.9,0.147,20373.95,debt_consolidation,0,monitoring
+34,30-50,41267.37,3.8,5.0,0.298,8859.22,home_improvement,0,monitoring
+37,30-50,18360.96,6.8,8.0,0.417,5382.08,debt_consolidation,0,monitoring
+35,30-50,31399.8,0.0,0.9,0.362,7917.13,education,0,monitoring
+37,30-50,66691.22,6.0,9.5,0.427,4194.33,education,0,monitoring
+23,Under 30,38902.95,1.2,3.7,0.647,16333.57,small_business,0,monitoring
+64,Over 50,70194.24,9.7,10.8,0.264,7504.08,small_business,0,monitoring
+54,Over 50,28839.75,12.3,11.7,0.546,6915.27,debt_consolidation,0,monitoring
+69,Over 50,54342.39,11.6,15.1,0.222,9330.56,debt_consolidation,0,monitoring
+23,Under 30,30294.45,5.1,7.9,0.389,10122.88,debt_consolidation,0,monitoring
+21,Under 30,31019.89,0.3,2.8,0.365,5185.45,debt_consolidation,0,monitoring
+37,30-50,57635.29,1.9,9.4,0.288,10542.42,debt_consolidation,0,monitoring
+44,30-50,56494.44,2.0,2.8,0.161,10963.04,education,0,monitoring
+47,30-50,22864.69,14.6,14.5,0.28,13150.82,education,0,monitoring
+48,30-50,59360.63,9.6,8.1,0.21,8194.18,debt_consolidation,0,monitoring
+68,Over 50,44384.07,21.7,16.3,0.224,20076.6,education,0,monitoring
+67,Over 50,58016.8,11.1,10.3,0.162,7937.62,auto,0,monitoring
+62,Over 50,60148.02,15.3,15.8,0.121,6884.59,debt_consolidation,0,monitoring
+46,30-50,47357.59,10.3,6.8,0.175,7705.77,home_improvement,0,monitoring
+44,30-50,67312.34,7.1,8.7,0.179,7663.79,auto,0,monitoring
+61,Over 50,35295.48,10.1,8.0,0.205,9701.31,auto,0,monitoring
+60,Over 50,65242.53,13.9,13.9,0.245,3721.55,debt_consolidation,0,monitoring
+64,Over 50,16143.19,14.1,10.8,0.342,8624.82,small_business,0,monitoring
+38,30-50,40103.34,9.7,10.7,0.302,8892.41,home_improvement,0,monitoring
+63,Over 50,32399.37,13.4,8.8,0.371,12094.26,debt_consolidation,1,monitoring
+22,Under 30,43914.97,0.2,3.6,0.29,7591.8,home_improvement,0,monitoring
+58,Over 50,81207.27,13.3,12.5,0.176,3744.29,debt_consolidation,0,monitoring
+31,30-50,79967.44,8.0,6.1,0.409,5698.36,auto,0,monitoring
+21,Under 30,68043.73,1.9,2.3,0.23,4500.75,education,1,monitoring
+23,Under 30,45435.66,2.8,5.4,0.483,14407.06,auto,0,monitoring
+24,Under 30,18615.27,0.0,2.0,0.383,11277.66,home_improvement,0,monitoring
+36,30-50,49668.48,11.4,8.1,0.399,11856.21,debt_consolidation,1,monitoring
+51,Over 50,47849.73,6.4,7.3,0.107,18535.46,home_improvement,0,monitoring
+47,30-50,34416.66,9.5,8.2,0.349,6484.63,debt_consolidation,0,monitoring
+24,Under 30,34389.87,0.0,0.0,0.088,10952.44,home_improvement,0,monitoring
+37,30-50,92788.38,8.7,10.1,0.461,15081.58,home_improvement,0,monitoring
+37,30-50,72343.89,3.1,5.1,0.455,12129.38,debt_consolidation,0,monitoring
+46,30-50,35180.55,4.2,0.7,0.345,7912.83,auto,0,monitoring
+40,30-50,63182.82,5.5,9.9,0.33,3989.14,home_improvement,1,monitoring
+45,30-50,53634.2,10.3,11.4,0.33,9682.35,debt_consolidation,0,monitoring
+40,30-50,41559.05,8.4,9.0,0.515,9652.59,auto,0,monitoring
+33,30-50,31198.95,0.0,0.0,0.317,11011.8,debt_consolidation,0,monitoring
+30,30-50,45204.52,0.0,1.8,0.329,10923.1,home_improvement,0,monitoring
+62,Over 50,39107.88,14.5,13.0,0.424,3922.87,home_improvement,0,monitoring
+50,30-50,18505.95,14.4,15.5,0.211,7095.5,debt_consolidation,0,monitoring
+41,30-50,42075.04,9.0,11.8,0.309,7759.58,debt_consolidation,0,monitoring
+32,30-50,91162.07,0.0,4.9,0.529,16287.79,debt_consolidation,0,monitoring
+30,30-50,25011.78,0.0,5.1,0.178,18558.13,debt_consolidation,0,monitoring
+53,Over 50,55168.93,9.3,10.1,0.48,11652.74,education,0,monitoring
+48,30-50,61974.23,6.6,7.3,0.265,6629.18,home_improvement,0,monitoring
+34,30-50,33659.69,7.5,6.5,0.196,6510.57,auto,0,monitoring
+49,30-50,57880.53,11.5,9.5,0.278,3827.05,home_improvement,0,monitoring
+41,30-50,109056.61,2.1,0.0,0.156,7021.6,auto,0,monitoring
+50,30-50,52400.55,9.4,8.6,0.112,14444.15,education,0,monitoring
+50,30-50,46366.23,8.6,7.8,0.46,21909.85,home_improvement,0,monitoring
+56,Over 50,43705.28,10.4,8.6,0.564,16344.6,debt_consolidation,0,monitoring
+62,Over 50,68740.78,17.8,13.9,0.107,8922.36,home_improvement,0,monitoring
+41,30-50,52803.82,7.9,8.6,0.345,9810.14,home_improvement,0,monitoring
+63,Over 50,56000.05,17.9,17.4,0.348,13098.36,small_business,0,monitoring
+29,Under 30,32748.07,2.0,4.6,0.175,7074.09,education,0,monitoring
+42,30-50,35636.99,11.7,14.1,0.343,6795.37,auto,0,monitoring
+66,Over 50,64567.97,8.5,5.2,0.445,7655.02,debt_consolidation,0,monitoring
+61,Over 50,118410.27,10.0,12.4,0.253,8604.53,debt_consolidation,0,monitoring
+52,Over 50,75984.7,8.4,10.9,0.294,3986.46,debt_consolidation,0,monitoring
+57,Over 50,61901.45,10.6,10.7,0.364,9511.64,education,0,monitoring
+27,Under 30,30384.5,0.9,1.8,0.274,4340.51,education,0,monitoring
+61,Over 50,55782.58,15.4,10.3,0.26,19787.9,small_business,0,monitoring
+30,30-50,33342.81,4.0,5.5,0.496,3979.98,debt_consolidation,0,monitoring
+27,Under 30,77193.17,4.8,6.6,0.407,5032.1,debt_consolidation,0,monitoring
+40,30-50,34998.88,6.0,5.4,0.447,4995.46,debt_consolidation,1,monitoring
+66,Over 50,16703.83,14.0,13.3,0.38,6773.28,auto,0,monitoring
+50,30-50,139516.05,7.3,7.7,0.338,5274.8,home_improvement,0,monitoring
+35,30-50,52131.83,7.1,6.2,0.34,7321.46,auto,0,monitoring
+69,Over 50,39817.37,19.5,21.8,0.198,12274.18,education,0,monitoring
+66,Over 50,54110.5,18.2,11.1,0.287,9046.86,education,0,monitoring
+32,30-50,20404.21,0.0,0.0,0.462,3250.88,home_improvement,0,monitoring
+54,Over 50,36828.42,12.4,13.8,0.416,6147.39,home_improvement,0,monitoring
+55,Over 50,28131.92,13.2,13.6,0.099,5618.64,home_improvement,0,monitoring
+55,Over 50,28239.93,13.9,11.4,0.148,8483.4,small_business,0,monitoring
+66,Over 50,30442.2,14.9,18.7,0.475,11236.0,debt_consolidation,0,monitoring
+42,30-50,60606.31,11.0,8.6,0.395,12513.57,education,0,monitoring
+39,30-50,46801.48,8.4,9.2,0.286,14271.91,debt_consolidation,0,monitoring
+28,Under 30,42305.08,3.0,2.5,0.387,8552.5,auto,1,monitoring
+55,Over 50,32422.56,9.5,9.0,0.531,14923.55,auto,0,monitoring
+53,Over 50,35094.62,2.6,4.6,0.323,13994.97,home_improvement,1,monitoring
+28,Under 30,34664.02,6.1,5.4,0.49,11378.96,auto,1,monitoring
+65,Over 50,49976.35,15.2,13.8,0.35,6540.31,education,0,monitoring
+41,30-50,57450.38,8.3,9.1,0.214,6866.48,home_improvement,1,monitoring
+27,Under 30,44727.01,3.6,6.2,0.283,6383.96,debt_consolidation,0,monitoring
+35,30-50,41463.27,5.0,4.7,0.145,15835.8,education,0,monitoring
+35,30-50,62467.26,5.7,6.5,0.458,2694.15,auto,0,monitoring
+39,30-50,65731.25,4.3,8.9,0.449,23341.1,education,0,monitoring
+40,30-50,36587.91,10.8,15.2,0.175,5836.82,auto,0,monitoring
+35,30-50,38976.89,10.6,5.7,0.22,15112.06,auto,1,monitoring
+59,Over 50,60194.41,15.8,13.3,0.406,10716.12,debt_consolidation,0,monitoring
+59,Over 50,82199.84,11.2,11.4,0.407,12249.08,debt_consolidation,0,monitoring
+45,30-50,66156.2,2.3,4.4,0.294,5072.12,debt_consolidation,0,monitoring
+48,30-50,57551.52,13.0,8.6,0.332,6749.79,education,0,monitoring
+51,Over 50,51689.2,9.4,7.9,0.261,12577.05,small_business,0,monitoring
+60,Over 50,26586.84,10.4,11.7,0.1,12950.09,debt_consolidation,0,monitoring
+25,Under 30,29152.13,1.9,10.0,0.363,5832.51,small_business,1,monitoring
+39,30-50,47415.18,9.3,11.6,0.111,3224.18,auto,0,monitoring
+25,Under 30,37603.33,2.8,6.2,0.442,5600.25,small_business,0,monitoring
+37,30-50,53451.6,7.2,6.6,0.263,6601.47,debt_consolidation,1,monitoring
+52,Over 50,52048.07,16.7,13.5,0.329,11365.83,debt_consolidation,0,monitoring
+36,30-50,64988.68,5.6,6.8,0.304,13334.1,debt_consolidation,0,monitoring
+50,30-50,28523.03,9.9,13.0,0.262,21933.38,auto,0,monitoring
+32,30-50,47651.45,5.2,4.0,0.313,9938.52,auto,0,monitoring
+26,Under 30,20782.41,0.4,1.6,0.213,15487.91,debt_consolidation,0,monitoring
+55,Over 50,37002.34,13.5,11.8,0.182,3631.61,debt_consolidation,0,monitoring
+66,Over 50,68068.42,22.1,19.2,0.225,16044.66,auto,0,monitoring
+64,Over 50,28336.48,15.7,15.5,0.684,6762.52,debt_consolidation,0,monitoring
+22,Under 30,39946.37,1.6,3.4,0.435,8389.29,home_improvement,0,monitoring
+29,Under 30,25798.72,0.1,0.1,0.568,11060.39,debt_consolidation,0,monitoring
+49,30-50,48275.48,5.9,5.2,0.396,4671.36,debt_consolidation,0,monitoring
+22,Under 30,108967.89,2.7,3.8,0.2,5238.72,education,0,monitoring
+46,30-50,24265.36,3.3,3.6,0.357,5419.02,auto,0,monitoring
+23,Under 30,36470.63,3.4,5.8,0.283,4560.8,auto,0,monitoring
+63,Over 50,57610.12,15.6,16.5,0.24,6951.64,auto,0,monitoring
+23,Under 30,70673.9,3.9,10.0,0.476,9688.98,education,0,monitoring
+53,Over 50,52427.25,5.2,7.1,0.147,3789.91,home_improvement,0,monitoring
+44,30-50,63550.65,10.5,7.3,0.11,14172.18,auto,0,monitoring
+47,30-50,29512.35,13.1,14.7,0.228,7084.77,small_business,0,monitoring
+58,Over 50,46965.87,12.0,9.2,0.245,7595.05,debt_consolidation,0,monitoring
+42,30-50,38596.47,6.2,5.7,0.104,6731.02,debt_consolidation,0,monitoring
+37,30-50,28374.87,3.7,6.6,0.673,10077.28,auto,1,monitoring
+38,30-50,40838.56,8.7,8.5,0.168,7271.47,small_business,0,monitoring
+40,30-50,30426.69,14.1,12.5,0.832,16830.51,education,1,monitoring
+34,30-50,26997.29,4.3,1.0,0.272,4227.89,education,0,monitoring
+64,Over 50,46768.05,17.4,15.0,0.211,8676.15,debt_consolidation,0,monitoring
+54,Over 50,101885.73,10.8,9.8,0.17,9588.67,debt_consolidation,0,monitoring
+65,Over 50,24065.72,12.2,10.3,0.568,9912.12,auto,0,monitoring
+32,30-50,25273.9,3.7,4.2,0.151,7803.12,education,0,monitoring
+25,Under 30,48406.72,0.0,0.0,0.365,22147.27,small_business,0,monitoring
+68,Over 50,21244.12,14.9,11.1,0.563,6218.78,auto,0,monitoring
+33,30-50,30409.9,1.6,1.7,0.274,15092.99,auto,0,monitoring
+43,30-50,54170.21,9.2,10.3,0.377,6037.08,education,0,monitoring
+69,Over 50,32449.76,19.2,13.2,0.219,8830.8,small_business,0,monitoring
+59,Over 50,42525.62,12.5,13.3,0.228,9618.29,home_improvement,0,monitoring
+60,Over 50,89751.6,21.7,20.5,0.314,11011.95,education,0,monitoring
+53,Over 50,56501.11,8.6,11.2,0.308,6445.47,auto,0,monitoring
+65,Over 50,22903.92,10.0,8.8,0.462,13478.61,small_business,0,monitoring
+31,30-50,32864.25,2.5,3.9,0.585,4410.11,auto,0,monitoring
+60,Over 50,94236.03,12.7,14.6,0.373,6382.23,home_improvement,0,monitoring
+51,Over 50,41260.73,7.0,5.9,0.505,4392.94,home_improvement,0,monitoring
+41,30-50,23663.57,12.3,8.5,0.638,7393.04,debt_consolidation,0,monitoring
+30,30-50,53993.16,4.4,5.5,0.256,14296.09,education,0,monitoring
+46,30-50,54510.68,11.5,10.2,0.44,5679.01,debt_consolidation,0,monitoring
+26,Under 30,98830.37,0.0,2.3,0.212,12727.81,home_improvement,0,monitoring
+55,Over 50,52708.02,16.9,13.6,0.433,10797.63,debt_consolidation,0,monitoring
+54,Over 50,62845.91,6.9,6.5,0.145,13741.33,debt_consolidation,0,monitoring
+55,Over 50,77984.78,13.5,13.6,0.122,5984.71,auto,0,monitoring
+21,Under 30,21152.65,0.0,2.2,0.178,6567.99,education,0,monitoring
+48,30-50,40855.21,10.9,10.4,0.452,10388.33,debt_consolidation,0,monitoring
+66,Over 50,38705.6,16.2,10.5,0.517,16590.52,home_improvement,0,monitoring
+21,Under 30,41281.64,3.9,3.1,0.293,5470.68,education,0,monitoring
+63,Over 50,39681.94,14.1,10.9,0.439,15445.1,home_improvement,0,monitoring
+68,Over 50,35320.29,14.3,18.9,0.32,8307.08,auto,0,monitoring
+37,30-50,65105.15,4.9,5.4,0.424,15559.11,education,0,monitoring
+37,30-50,34657.36,2.4,2.5,0.19,9989.42,education,0,monitoring
+69,Over 50,78605.21,19.7,18.7,0.165,3293.55,small_business,0,monitoring
+23,Under 30,27810.03,0.5,0.0,0.316,13721.08,home_improvement,0,monitoring
+53,Over 50,32624.68,13.2,13.1,0.161,7120.78,auto,0,monitoring
+52,Over 50,15827.52,14.6,16.3,0.3,8890.5,debt_consolidation,0,monitoring
+60,Over 50,21779.8,9.8,11.8,0.097,8793.08,auto,0,monitoring
+48,30-50,102063.76,11.6,9.9,0.163,16182.56,debt_consolidation,0,monitoring
+32,30-50,24875.56,1.8,7.1,0.206,8064.91,home_improvement,0,monitoring
+50,30-50,45009.28,9.0,12.6,0.178,17660.52,auto,0,monitoring
+49,30-50,58546.0,10.0,6.0,0.494,7285.14,auto,0,monitoring
+59,Over 50,52018.22,10.1,10.1,0.307,11123.38,debt_consolidation,0,monitoring
+28,Under 30,81149.94,0.0,0.8,0.382,4717.39,education,0,monitoring
+25,Under 30,125606.18,0.9,1.0,0.541,7010.65,debt_consolidation,0,monitoring
+29,Under 30,38971.87,2.6,2.8,0.317,6047.59,small_business,0,monitoring
+65,Over 50,37533.57,18.4,14.9,0.193,13209.86,home_improvement,0,monitoring
+62,Over 50,69232.17,13.0,14.9,0.447,9005.16,home_improvement,0,monitoring
+57,Over 50,31913.57,9.5,9.8,0.282,7885.04,auto,0,monitoring
+27,Under 30,20323.32,2.0,3.9,0.459,7834.0,debt_consolidation,1,monitoring
+32,30-50,49641.42,0.9,5.5,0.355,16727.4,home_improvement,0,monitoring
+29,Under 30,31761.06,6.6,6.6,0.833,4564.09,small_business,0,monitoring
+49,30-50,34746.51,9.4,9.9,0.282,15178.76,debt_consolidation,0,monitoring
+27,Under 30,32154.45,3.7,3.0,0.445,7318.76,education,1,monitoring
+65,Over 50,38328.12,13.7,13.5,0.526,8276.56,education,1,monitoring
+42,30-50,48554.49,8.0,12.8,0.164,15406.23,auto,0,monitoring
+41,30-50,28164.25,7.9,9.5,0.165,13515.07,debt_consolidation,0,monitoring
+38,30-50,167370.39,5.9,5.7,0.294,6469.97,debt_consolidation,0,monitoring
+55,Over 50,15282.17,14.0,12.3,0.256,12213.93,debt_consolidation,1,monitoring
+65,Over 50,78357.3,15.8,14.1,0.265,4252.16,debt_consolidation,0,monitoring
+57,Over 50,37469.5,12.7,13.6,0.207,7112.95,education,0,monitoring
+24,Under 30,31032.19,2.2,2.3,0.392,6259.1,home_improvement,0,monitoring
+61,Over 50,38719.65,10.5,10.7,0.286,5084.94,debt_consolidation,0,monitoring
+26,Under 30,67154.48,4.7,5.8,0.479,4258.77,auto,0,monitoring
+44,30-50,36099.82,6.4,9.1,0.462,8122.28,home_improvement,0,monitoring
+21,Under 30,40594.31,1.0,1.9,0.276,7642.54,auto,1,monitoring
+51,Over 50,38517.94,12.8,15.5,0.156,5647.57,auto,0,monitoring
+46,30-50,29039.88,12.9,13.3,0.58,3575.69,education,0,monitoring
+47,30-50,70760.31,10.0,7.9,0.125,8932.84,small_business,0,monitoring
+32,30-50,57832.48,6.7,5.1,0.342,14792.4,debt_consolidation,0,monitoring
+43,30-50,47142.75,6.8,5.9,0.101,10449.12,auto,0,monitoring
+25,Under 30,68116.04,2.1,2.4,0.455,17017.38,home_improvement,0,monitoring
+30,30-50,65584.13,4.0,3.4,0.201,6405.69,debt_consolidation,0,monitoring
+36,30-50,49382.01,9.2,11.2,0.266,13709.53,home_improvement,0,monitoring
+42,30-50,38786.52,10.4,11.9,0.247,9372.0,home_improvement,0,monitoring
+33,30-50,42859.78,8.5,8.5,0.299,11365.68,auto,1,monitoring
+40,30-50,55159.52,7.3,8.6,0.139,16419.2,debt_consolidation,0,monitoring
+33,30-50,73983.78,0.0,2.0,0.305,16425.76,debt_consolidation,0,monitoring
+31,30-50,43413.21,0.0,3.9,0.55,8500.81,home_improvement,1,monitoring
+21,Under 30,59667.89,0.0,2.0,0.572,9704.83,auto,0,monitoring
+22,Under 30,57000.64,0.8,0.7,0.224,6560.11,education,0,monitoring
+38,30-50,22008.83,0.5,4.6,0.504,4462.1,education,0,monitoring
+45,30-50,23891.35,9.5,10.1,0.504,3843.94,home_improvement,0,monitoring
+69,Over 50,80160.42,21.3,21.1,0.344,13459.95,education,0,monitoring
+49,30-50,36793.3,7.1,4.8,0.191,4718.53,home_improvement,1,monitoring
+50,30-50,28737.93,7.9,9.6,0.442,1836.68,debt_consolidation,0,monitoring
+66,Over 50,83726.67,15.8,17.5,0.604,8713.47,home_improvement,0,monitoring
+33,30-50,23238.18,3.1,2.5,0.662,8488.73,home_improvement,0,monitoring
+48,30-50,75302.03,10.3,10.5,0.146,6116.64,debt_consolidation,0,monitoring
+62,Over 50,58628.06,18.1,15.4,0.506,4775.63,debt_consolidation,0,monitoring
+39,30-50,48851.26,3.3,7.6,0.201,12691.62,small_business,1,monitoring
+34,30-50,28463.81,8.2,6.2,0.422,4406.73,home_improvement,0,monitoring
+21,Under 30,60739.89,4.0,3.2,0.361,8604.39,debt_consolidation,0,monitoring
+50,30-50,30591.26,10.1,10.6,0.597,16159.45,debt_consolidation,0,monitoring
+25,Under 30,55039.33,5.6,4.5,0.243,7645.74,debt_consolidation,0,monitoring
+60,Over 50,47065.9,9.2,8.0,0.218,12065.53,auto,0,monitoring
+33,30-50,47534.9,5.3,8.6,0.444,8162.41,home_improvement,0,monitoring
+58,Over 50,28173.35,8.9,5.9,0.283,3261.03,home_improvement,0,monitoring
+42,30-50,23819.85,6.7,6.5,0.123,24686.66,debt_consolidation,0,monitoring
+51,Over 50,38572.72,9.8,13.6,0.113,5898.74,debt_consolidation,0,monitoring
+29,Under 30,56154.31,4.2,7.5,0.462,5717.48,auto,0,monitoring
+54,Over 50,36319.41,14.3,10.7,0.657,8476.87,debt_consolidation,1,monitoring
+63,Over 50,22155.52,13.7,13.7,0.738,10463.14,home_improvement,0,monitoring
+67,Over 50,51749.39,17.4,16.8,0.124,7182.25,debt_consolidation,0,monitoring
+22,Under 30,45226.94,0.3,4.1,0.299,10277.17,debt_consolidation,0,monitoring
+53,Over 50,44385.73,12.9,12.8,0.393,17426.71,debt_consolidation,0,monitoring
+49,30-50,41407.73,10.1,9.7,0.713,18030.97,debt_consolidation,0,monitoring
+42,30-50,24091.31,7.4,7.3,0.492,5691.42,debt_consolidation,0,monitoring
+55,Over 50,31265.19,19.1,19.0,0.42,4372.0,home_improvement,0,monitoring
+42,30-50,40452.35,5.8,4.0,0.133,8071.35,debt_consolidation,0,monitoring
+36,30-50,60927.35,5.7,7.4,0.087,6096.58,education,0,monitoring
+33,30-50,48001.3,0.0,0.0,0.42,15745.17,home_improvement,0,monitoring
+48,30-50,46656.25,9.0,7.6,0.191,7919.25,small_business,0,monitoring
+55,Over 50,111412.45,6.4,7.4,0.539,12053.83,home_improvement,0,monitoring
+58,Over 50,49251.37,20.0,20.8,0.322,6811.8,home_improvement,0,monitoring
+61,Over 50,30350.91,17.7,12.9,0.305,8694.76,debt_consolidation,0,monitoring
+59,Over 50,47279.42,8.1,8.5,0.485,12348.03,home_improvement,0,monitoring
+32,30-50,13212.9,6.2,7.2,0.236,5528.81,debt_consolidation,0,monitoring
+29,Under 30,41870.93,5.5,6.7,0.233,13652.94,home_improvement,0,monitoring
+39,30-50,39342.35,3.7,4.3,0.634,6947.03,debt_consolidation,0,monitoring
+56,Over 50,21268.56,14.7,16.0,0.23,9922.1,home_improvement,0,monitoring
+40,30-50,21485.92,5.1,4.8,0.14,8120.51,auto,0,monitoring
+65,Over 50,59929.43,12.8,13.6,0.286,11017.12,education,0,monitoring
+30,30-50,37803.71,1.3,2.3,0.418,6300.43,education,0,monitoring
+25,Under 30,33611.51,6.8,6.6,0.377,14927.99,home_improvement,0,monitoring
+55,Over 50,55804.3,13.1,14.2,0.512,7593.68,debt_consolidation,0,monitoring
+37,30-50,48803.63,9.5,10.3,0.189,5368.79,small_business,0,monitoring
+53,Over 50,60542.53,13.6,12.6,0.24,25800.45,home_improvement,0,monitoring
+64,Over 50,33112.36,13.9,15.2,0.17,9405.48,debt_consolidation,0,monitoring
+23,Under 30,45567.83,0.0,2.2,0.356,5656.94,home_improvement,0,monitoring
+32,30-50,109188.65,2.0,1.6,0.404,6422.56,home_improvement,0,monitoring
+59,Over 50,51892.22,12.8,10.2,0.291,6711.58,small_business,0,monitoring
+30,30-50,37351.12,1.8,3.0,0.183,10318.46,debt_consolidation,0,monitoring
+67,Over 50,61607.99,13.5,13.9,0.42,7419.63,home_improvement,0,monitoring
+65,Over 50,57994.71,13.1,9.4,0.269,7147.22,home_improvement,0,monitoring
+62,Over 50,102934.32,11.9,11.2,0.281,5312.62,education,0,monitoring
+55,Over 50,39634.07,11.7,11.4,0.303,6542.96,debt_consolidation,0,monitoring
+43,30-50,48744.44,11.6,11.0,0.46,3068.16,auto,0,monitoring
+39,30-50,64852.19,6.7,9.8,0.101,12409.55,home_improvement,0,monitoring
+26,Under 30,52763.45,2.0,1.4,0.129,5354.08,home_improvement,0,monitoring
+67,Over 50,37334.6,15.0,17.1,0.533,20127.2,debt_consolidation,0,monitoring
+21,Under 30,77032.96,1.4,4.4,0.284,12135.74,education,0,monitoring
+61,Over 50,17058.5,15.9,15.2,0.611,13480.84,debt_consolidation,1,monitoring
+52,Over 50,45101.98,10.1,12.5,0.228,11565.89,small_business,0,monitoring
+48,30-50,49812.82,9.7,8.4,0.391,9489.97,debt_consolidation,1,monitoring
+57,Over 50,24566.52,16.0,13.7,0.207,7252.18,home_improvement,0,monitoring
+60,Over 50,52344.48,14.5,12.9,0.101,5624.52,auto,0,monitoring
+56,Over 50,37370.51,12.4,8.8,0.32,3301.5,debt_consolidation,0,monitoring
+49,30-50,30899.0,11.0,10.2,0.421,25738.99,auto,1,monitoring
+35,30-50,35953.87,6.9,6.5,0.218,7752.48,debt_consolidation,0,monitoring
+49,30-50,95449.57,9.9,8.5,0.197,9303.99,home_improvement,0,monitoring
+24,Under 30,54880.4,0.0,0.0,0.206,6207.85,debt_consolidation,0,monitoring
+35,30-50,16664.34,4.5,4.5,0.415,3436.25,home_improvement,0,monitoring
+56,Over 50,52200.68,15.4,13.2,0.257,11422.49,education,0,monitoring
+50,30-50,44819.45,11.0,9.9,0.167,11473.99,home_improvement,0,monitoring
+34,30-50,34030.23,0.0,1.8,0.306,15732.53,auto,0,monitoring
+21,Under 30,40094.79,2.5,2.6,0.315,14684.18,education,0,monitoring
+33,30-50,28241.92,3.3,3.9,0.329,12433.96,auto,0,monitoring
+57,Over 50,51520.95,10.9,10.7,0.281,10879.76,education,0,monitoring
+24,Under 30,33402.19,4.1,6.0,0.277,3867.9,education,0,monitoring
+60,Over 50,37837.58,16.4,18.1,0.295,10382.81,debt_consolidation,0,monitoring
+59,Over 50,27085.6,12.3,13.3,0.322,4635.7,auto,0,monitoring
+29,Under 30,83982.96,0.0,4.1,0.296,20987.46,debt_consolidation,0,monitoring
+52,Over 50,14489.13,5.3,8.9,0.284,8334.67,debt_consolidation,0,monitoring
+35,30-50,37184.96,3.3,3.8,0.239,7917.06,debt_consolidation,0,monitoring
+28,Under 30,10832.73,0.7,0.3,0.175,4374.78,debt_consolidation,0,monitoring
+31,30-50,47796.38,0.0,0.0,0.424,8080.22,home_improvement,0,monitoring
+56,Over 50,26222.21,16.3,16.2,0.164,12466.73,debt_consolidation,0,monitoring
+22,Under 30,51256.95,0.0,3.1,0.156,6243.36,auto,0,monitoring
+26,Under 30,30746.88,4.5,8.4,0.176,4380.46,auto,0,monitoring
+37,30-50,100750.7,0.4,2.4,0.453,5184.7,auto,0,monitoring
+59,Over 50,87712.8,12.3,8.7,0.443,4777.72,debt_consolidation,0,monitoring
+41,30-50,30341.67,7.7,9.0,0.481,10918.43,home_improvement,0,monitoring
+65,Over 50,75726.78,14.6,13.8,0.243,21000.3,debt_consolidation,0,monitoring
+59,Over 50,56393.82,12.1,12.3,0.217,8272.82,auto,0,monitoring
+61,Over 50,48487.28,23.1,21.0,0.791,4643.89,debt_consolidation,0,monitoring
+60,Over 50,28642.09,18.0,16.0,0.383,14714.64,education,0,monitoring
+68,Over 50,38022.29,22.3,21.2,0.176,3878.46,auto,0,monitoring
+49,30-50,50722.05,7.8,8.2,0.307,14488.69,home_improvement,0,monitoring
+50,30-50,74482.53,12.7,13.2,0.142,6620.68,education,0,monitoring
+32,30-50,28718.63,2.2,2.4,0.536,8543.73,debt_consolidation,1,monitoring
+63,Over 50,47457.0,17.5,12.9,0.136,4404.59,auto,0,monitoring
+57,Over 50,22877.94,5.9,8.5,0.172,3479.56,education,0,monitoring
+28,Under 30,62296.48,1.1,0.0,0.356,5848.9,auto,0,monitoring
+24,Under 30,53906.37,0.0,3.6,0.249,4119.02,auto,0,monitoring
+51,Over 50,50359.67,5.3,4.5,0.253,4892.97,debt_consolidation,0,monitoring
+58,Over 50,50338.43,10.3,10.1,0.273,5759.84,debt_consolidation,0,monitoring
+66,Over 50,33687.08,17.8,13.3,0.269,12163.12,education,0,monitoring
+36,30-50,54891.33,7.4,4.8,0.503,13430.87,education,0,monitoring
+31,30-50,50154.58,6.6,6.9,0.529,11413.56,home_improvement,0,monitoring
+69,Over 50,35024.7,15.4,14.4,0.099,6219.24,small_business,0,monitoring
+63,Over 50,32714.16,14.2,9.7,0.27,4705.66,home_improvement,0,monitoring
+34,30-50,69733.0,8.9,8.2,0.637,6494.83,debt_consolidation,0,monitoring
+67,Over 50,33959.22,11.3,8.8,0.77,23475.57,small_business,1,monitoring
+35,30-50,56605.95,6.3,1.5,0.36,28870.09,debt_consolidation,1,monitoring
+68,Over 50,31811.14,16.7,13.6,0.459,9056.72,debt_consolidation,1,monitoring
+63,Over 50,32601.51,20.5,17.8,0.191,5389.28,home_improvement,0,monitoring
+52,Over 50,58210.91,10.7,11.1,0.264,9571.13,auto,0,monitoring
+33,30-50,102997.04,1.8,1.5,0.292,13979.16,auto,0,monitoring
+52,Over 50,47746.82,11.4,9.4,0.167,3650.22,education,0,monitoring
+64,Over 50,43131.05,12.5,13.8,0.492,5775.86,small_business,1,monitoring
+67,Over 50,59035.8,18.2,20.1,0.524,12158.61,debt_consolidation,0,monitoring
+22,Under 30,29769.11,2.4,0.3,0.117,11335.13,small_business,1,monitoring
+68,Over 50,47037.77,13.6,14.1,0.134,8442.92,home_improvement,1,monitoring
+68,Over 50,34653.78,13.3,12.9,0.208,6979.91,auto,0,monitoring
+39,30-50,22379.82,7.5,9.8,0.282,3133.44,debt_consolidation,0,monitoring
+62,Over 50,92288.81,13.9,11.9,0.265,14183.16,education,0,monitoring
+57,Over 50,37155.32,15.2,15.1,0.28,4554.05,debt_consolidation,0,monitoring
+41,30-50,31799.96,9.0,8.3,0.154,9897.03,home_improvement,0,monitoring
+65,Over 50,36287.66,18.7,16.7,0.316,7156.81,auto,0,monitoring
+61,Over 50,27845.82,15.5,14.4,0.121,5805.99,auto,0,monitoring
+30,30-50,37611.81,3.9,5.1,0.288,10836.84,home_improvement,0,monitoring
+65,Over 50,12487.73,14.0,12.3,0.146,12649.38,home_improvement,0,monitoring
+52,Over 50,48881.36,12.1,9.1,0.2,12963.3,debt_consolidation,1,monitoring
+63,Over 50,20354.11,16.3,16.7,0.38,12665.1,small_business,0,monitoring
+67,Over 50,17878.79,10.1,12.6,0.268,12582.55,education,0,monitoring
+30,30-50,76155.68,2.1,1.2,0.431,5883.74,debt_consolidation,1,monitoring
+62,Over 50,57535.94,17.5,13.4,0.354,14534.72,auto,0,monitoring
+22,Under 30,23862.53,3.3,8.4,0.582,11898.98,home_improvement,0,monitoring
+35,30-50,72010.64,10.6,7.8,0.151,8013.42,auto,0,monitoring
+42,30-50,52903.14,2.3,4.2,0.317,9472.49,auto,0,monitoring
+50,30-50,40904.32,11.4,8.4,0.564,4703.28,debt_consolidation,0,monitoring
+68,Over 50,40539.38,16.5,18.1,0.116,10425.66,home_improvement,0,monitoring
+66,Over 50,27697.32,17.9,16.9,0.443,9044.04,debt_consolidation,0,monitoring
+44,30-50,35353.79,8.1,5.8,0.129,15878.27,auto,0,monitoring
+52,Over 50,118298.3,12.2,14.5,0.521,3232.4,debt_consolidation,0,monitoring
+41,30-50,40918.33,5.8,9.9,0.394,15007.54,auto,0,monitoring
+22,Under 30,31115.4,0.7,3.0,0.484,8570.14,auto,0,monitoring
+39,30-50,54327.44,9.9,12.3,0.248,4715.15,auto,0,monitoring
+27,Under 30,48113.46,0.0,2.0,0.353,8027.58,debt_consolidation,1,monitoring
+50,30-50,27150.83,10.0,8.9,0.292,4113.71,auto,0,monitoring
+67,Over 50,36297.91,10.8,9.0,0.377,7755.62,debt_consolidation,0,monitoring
+63,Over 50,25621.85,17.3,15.1,0.173,13594.59,debt_consolidation,0,monitoring
+35,30-50,97479.11,0.3,6.5,0.35,15129.38,home_improvement,0,monitoring
+62,Over 50,54674.48,17.1,15.5,0.087,8009.22,auto,0,monitoring
+21,Under 30,27381.66,3.5,9.1,0.356,3514.47,education,0,monitoring
+21,Under 30,43121.23,0.0,0.0,0.29,6465.41,auto,0,monitoring
+60,Over 50,84526.17,10.1,9.2,0.341,6434.59,debt_consolidation,0,monitoring
+40,30-50,49223.98,7.7,2.5,0.221,3215.0,small_business,0,monitoring
+35,30-50,43511.44,4.4,3.3,0.396,5359.37,debt_consolidation,0,monitoring
+23,Under 30,49636.01,3.6,7.6,0.277,9297.48,debt_consolidation,0,monitoring
+23,Under 30,26982.08,0.7,3.2,0.248,11408.2,debt_consolidation,0,monitoring
+38,30-50,54457.06,5.6,6.7,0.242,12257.38,home_improvement,0,monitoring
+59,Over 50,24618.31,12.6,12.4,0.411,12358.3,home_improvement,1,monitoring
+27,Under 30,51089.5,0.1,0.9,0.116,8851.8,debt_consolidation,0,monitoring
+64,Over 50,82089.26,14.6,11.4,0.493,9877.65,home_improvement,0,monitoring
+27,Under 30,40479.33,0.0,4.8,0.247,6568.94,home_improvement,1,monitoring
+64,Over 50,56291.62,14.6,14.0,0.614,7077.99,home_improvement,0,monitoring
+55,Over 50,32220.26,19.2,14.0,0.163,9573.45,small_business,0,monitoring
+46,30-50,51376.02,5.1,4.2,0.392,8181.55,auto,0,monitoring
+35,30-50,27502.64,2.3,1.9,0.227,5621.33,debt_consolidation,0,monitoring
+66,Over 50,13894.09,13.4,14.1,0.369,8814.02,home_improvement,0,monitoring
+35,30-50,46011.58,7.6,9.2,0.361,3889.08,auto,1,monitoring
+28,Under 30,57201.98,6.8,7.9,0.185,9023.6,home_improvement,0,monitoring
+50,30-50,36989.67,13.4,12.3,0.156,7155.08,debt_consolidation,0,monitoring
+66,Over 50,31353.21,9.6,8.0,0.255,9545.26,small_business,0,monitoring
+43,30-50,40875.43,9.6,8.0,0.236,13820.63,debt_consolidation,0,monitoring
+52,Over 50,53128.98,13.8,12.6,0.479,6907.12,debt_consolidation,0,monitoring
+31,30-50,84441.01,3.3,5.4,0.242,9153.2,home_improvement,0,monitoring
+60,Over 50,65087.3,12.5,11.7,0.285,9307.29,education,0,monitoring
+28,Under 30,57416.61,1.6,3.4,0.436,6160.53,small_business,0,monitoring
+54,Over 50,29884.26,14.0,11.8,0.366,4908.87,debt_consolidation,0,monitoring
+23,Under 30,32642.47,2.1,4.6,0.237,5237.42,education,0,monitoring
+31,30-50,13937.59,3.8,6.6,0.095,4681.77,home_improvement,0,monitoring
+68,Over 50,39976.75,11.2,8.0,0.617,8810.84,debt_consolidation,0,monitoring
+61,Over 50,47289.2,15.7,15.6,0.279,19463.49,auto,0,monitoring
+45,30-50,94198.61,9.1,10.7,0.223,3399.75,debt_consolidation,0,monitoring
+41,30-50,11406.2,4.1,1.3,0.374,5868.5,education,0,monitoring
+45,30-50,36750.64,8.3,5.3,0.197,9060.34,debt_consolidation,0,monitoring
+44,30-50,22657.22,9.4,10.9,0.179,8675.07,auto,0,monitoring
+46,30-50,40477.17,1.8,4.0,0.265,4401.83,debt_consolidation,0,monitoring
+46,30-50,30836.59,9.9,11.4,0.327,5060.27,debt_consolidation,0,monitoring
+56,Over 50,119955.46,13.2,13.3,0.585,6245.97,education,0,monitoring
+44,30-50,78960.82,11.7,10.0,0.444,5000.72,home_improvement,0,monitoring
+68,Over 50,47002.05,17.7,14.9,0.269,14170.43,debt_consolidation,0,monitoring
+60,Over 50,45298.06,15.4,11.6,0.448,7836.97,debt_consolidation,0,monitoring
+33,30-50,15082.09,3.8,5.3,0.301,6692.48,auto,0,monitoring
+69,Over 50,43413.98,16.7,15.0,0.484,6353.05,debt_consolidation,0,monitoring
+21,Under 30,35563.35,0.0,4.7,0.65,7171.63,debt_consolidation,0,monitoring
+69,Over 50,59076.94,13.8,10.3,0.41,8767.12,debt_consolidation,0,monitoring
+47,30-50,30920.86,8.7,10.0,0.307,15057.23,small_business,0,monitoring
+37,30-50,26170.37,3.7,7.1,0.664,7122.68,debt_consolidation,1,monitoring
+55,Over 50,71587.27,10.7,9.6,0.136,4616.4,auto,0,monitoring
+37,30-50,31699.12,6.3,6.3,0.3,18086.07,education,0,monitoring
+42,30-50,47512.42,6.1,5.1,0.13,7455.5,debt_consolidation,0,monitoring
+53,Over 50,56276.0,13.6,11.1,0.348,9494.15,debt_consolidation,0,monitoring
+33,30-50,103617.32,4.6,6.1,0.525,6308.73,debt_consolidation,0,monitoring
+28,Under 30,43928.67,5.6,1.0,0.401,9906.1,education,0,monitoring
+46,30-50,48914.36,1.7,0.0,0.34,11830.85,education,0,monitoring
+55,Over 50,65644.13,13.8,17.3,0.26,7725.17,debt_consolidation,0,monitoring
+57,Over 50,74464.6,17.9,14.5,0.218,7623.8,debt_consolidation,0,monitoring
+29,Under 30,28550.11,0.2,0.4,0.193,4004.92,home_improvement,0,monitoring
+43,30-50,46222.82,3.4,2.6,0.437,9050.8,debt_consolidation,0,monitoring
+63,Over 50,81693.87,15.8,16.9,0.166,13315.16,debt_consolidation,0,monitoring
+68,Over 50,22168.95,14.6,13.1,0.434,15265.0,debt_consolidation,0,monitoring
+59,Over 50,56639.41,15.1,16.1,0.228,17331.54,debt_consolidation,0,monitoring
+50,30-50,9458.56,3.3,7.0,0.3,6843.03,small_business,0,monitoring
+33,30-50,41979.58,4.9,1.4,0.29,12717.21,debt_consolidation,0,monitoring
+46,30-50,33955.79,8.3,8.8,0.183,5012.41,auto,0,monitoring
+57,Over 50,54622.4,15.3,13.4,0.187,4402.79,debt_consolidation,0,monitoring
+25,Under 30,48402.26,0.0,0.3,0.227,4109.35,debt_consolidation,0,monitoring
+26,Under 30,41576.36,0.0,2.3,0.324,6175.64,auto,0,monitoring
+47,30-50,65589.01,10.2,10.0,0.157,3496.58,education,0,monitoring
+65,Over 50,32917.81,14.6,14.7,0.315,12583.34,debt_consolidation,0,monitoring
+25,Under 30,26712.16,0.0,0.0,0.238,7615.81,auto,0,monitoring
+28,Under 30,20262.97,2.7,4.8,0.346,6511.73,debt_consolidation,1,monitoring
+24,Under 30,45142.1,4.4,7.1,0.493,14030.51,small_business,1,monitoring
+33,30-50,114782.63,8.7,9.0,0.271,9192.57,debt_consolidation,0,monitoring
+60,Over 50,58197.79,16.5,13.1,0.422,8399.47,auto,0,monitoring
+40,30-50,46443.48,5.6,6.6,0.125,7532.22,debt_consolidation,0,monitoring
+63,Over 50,17129.31,18.0,17.6,0.473,4884.42,debt_consolidation,0,monitoring
+25,Under 30,69692.43,4.6,8.4,0.101,1817.38,debt_consolidation,0,monitoring
+45,30-50,82455.63,5.5,4.4,0.193,3753.43,debt_consolidation,0,monitoring
+34,30-50,33386.45,1.5,2.9,0.323,13720.23,small_business,0,monitoring
+33,30-50,25832.57,5.7,6.1,0.431,6886.56,education,0,monitoring
+31,30-50,21553.9,1.0,1.8,0.191,17537.22,home_improvement,0,monitoring
+32,30-50,21088.24,6.1,5.9,0.224,8303.36,debt_consolidation,1,monitoring
+62,Over 50,48888.53,7.1,8.8,0.197,10461.38,debt_consolidation,0,monitoring
+56,Over 50,65669.19,8.3,12.3,0.419,15840.03,small_business,0,monitoring
+43,30-50,50205.82,5.6,5.1,0.528,8002.89,home_improvement,0,monitoring
+21,Under 30,87481.51,2.5,4.1,0.411,6016.18,debt_consolidation,1,monitoring
+51,Over 50,42509.33,10.0,9.9,0.159,7604.36,debt_consolidation,0,monitoring
+51,Over 50,36934.49,12.8,11.8,0.246,14166.08,debt_consolidation,0,monitoring
+36,30-50,36864.17,7.5,4.2,0.161,7436.99,debt_consolidation,0,monitoring
+42,30-50,41165.36,9.1,6.9,0.352,5363.5,small_business,1,monitoring
+35,30-50,116249.75,1.3,2.7,0.586,4429.42,education,0,monitoring
+66,Over 50,56513.97,17.6,17.5,0.075,6289.1,debt_consolidation,0,monitoring
+63,Over 50,61648.78,15.6,16.0,0.414,5756.1,auto,0,monitoring
+57,Over 50,87040.23,15.7,13.6,0.349,10161.03,home_improvement,0,monitoring
+34,30-50,30414.38,2.5,8.3,0.547,11889.49,home_improvement,0,monitoring
+39,30-50,122313.3,4.7,4.5,0.195,9337.08,debt_consolidation,0,monitoring
+38,30-50,28049.68,0.0,3.6,0.248,16584.3,home_improvement,0,monitoring
+52,Over 50,61231.3,16.0,13.0,0.527,6875.03,debt_consolidation,0,monitoring
+30,30-50,84294.2,0.3,2.2,0.369,19080.72,auto,0,monitoring
+27,Under 30,47398.93,4.2,4.2,0.592,7120.62,debt_consolidation,0,monitoring
+24,Under 30,55931.55,4.3,7.0,0.183,12930.65,education,0,monitoring
+24,Under 30,36202.34,0.0,2.9,0.394,3174.95,debt_consolidation,0,monitoring
+64,Over 50,34942.16,15.2,13.4,0.17,6876.34,debt_consolidation,0,monitoring
+58,Over 50,47704.0,12.6,14.8,0.147,6020.45,debt_consolidation,0,monitoring
+36,30-50,37749.83,4.9,6.9,0.335,5909.39,home_improvement,0,monitoring
+50,30-50,41408.54,11.3,11.1,0.113,7975.92,debt_consolidation,0,monitoring
+67,Over 50,49240.76,15.3,17.4,0.692,10352.02,debt_consolidation,1,monitoring
+37,30-50,57947.98,4.1,4.6,0.126,2752.54,auto,0,monitoring
+42,30-50,46518.37,10.6,14.2,0.571,15792.35,auto,1,monitoring
+54,Over 50,25971.59,7.8,5.9,0.439,8747.31,debt_consolidation,0,monitoring
+29,Under 30,40866.65,3.0,4.7,0.435,5722.3,debt_consolidation,0,monitoring
+64,Over 50,31535.02,12.9,14.6,0.307,20681.51,small_business,0,monitoring
+37,30-50,49303.25,4.2,3.0,0.139,11071.15,small_business,0,monitoring
+30,30-50,58973.98,5.5,8.8,0.357,14202.43,auto,0,monitoring
+21,Under 30,53774.48,1.6,0.0,0.235,7096.78,auto,0,monitoring
+45,30-50,46452.15,8.1,9.5,0.157,13199.21,education,0,monitoring
+38,30-50,52344.59,0.1,3.2,0.283,8052.97,debt_consolidation,0,monitoring
+26,Under 30,32312.09,1.6,4.3,0.487,6126.29,debt_consolidation,0,monitoring
+46,30-50,88601.35,5.0,5.7,0.552,9221.17,debt_consolidation,0,monitoring
+35,30-50,72531.44,5.1,6.2,0.309,3245.02,debt_consolidation,0,monitoring
+66,Over 50,31012.59,14.0,12.8,0.468,4954.71,home_improvement,0,monitoring
+34,30-50,40427.65,0.0,0.0,0.087,14077.49,home_improvement,0,monitoring
+26,Under 30,52860.23,1.0,3.8,0.165,13987.62,debt_consolidation,0,monitoring
+48,30-50,52406.2,10.5,11.5,0.507,15809.67,small_business,0,monitoring
+36,30-50,43421.58,12.9,12.3,0.264,5769.21,auto,0,monitoring
+61,Over 50,26078.73,8.2,7.6,0.442,11914.37,debt_consolidation,0,monitoring
+22,Under 30,68806.64,4.9,8.0,0.356,11991.91,debt_consolidation,0,monitoring
+24,Under 30,53838.33,0.0,3.7,0.209,8811.66,education,0,monitoring
+41,30-50,37884.04,8.8,12.9,0.554,5524.76,home_improvement,0,monitoring
+36,30-50,36420.17,6.4,6.1,0.543,9126.78,debt_consolidation,0,monitoring
+69,Over 50,27521.75,14.5,10.5,0.132,10722.86,home_improvement,0,monitoring
+25,Under 30,20859.22,5.3,4.9,0.356,4235.02,home_improvement,0,monitoring
+58,Over 50,44747.3,12.4,11.8,0.429,3252.45,education,1,monitoring
+24,Under 30,87241.63,0.0,2.9,0.271,5053.65,debt_consolidation,1,monitoring
+41,30-50,66674.78,5.9,5.7,0.165,10363.71,debt_consolidation,0,monitoring
+41,30-50,47846.39,2.9,4.1,0.664,18892.48,small_business,1,monitoring
+69,Over 50,66691.12,18.5,19.2,0.204,6864.82,small_business,0,monitoring
+33,30-50,43349.74,3.7,3.4,0.535,25004.61,debt_consolidation,0,monitoring
+52,Over 50,22340.93,8.2,8.5,0.205,7188.43,home_improvement,0,monitoring
+63,Over 50,17563.59,16.9,17.1,0.21,4066.9,auto,0,monitoring
+48,30-50,69946.68,7.6,9.6,0.46,10553.34,home_improvement,0,monitoring
+44,30-50,26635.97,12.3,12.4,0.273,3004.5,debt_consolidation,0,monitoring
+31,30-50,61738.16,4.5,4.3,0.197,6200.65,education,0,monitoring
+35,30-50,41309.81,1.4,5.0,0.19,5832.51,debt_consolidation,0,monitoring
+53,Over 50,52814.63,9.2,8.7,0.266,6882.67,small_business,0,monitoring
+45,30-50,41961.7,7.3,5.3,0.22,2184.23,education,0,monitoring
+29,Under 30,88579.04,3.7,4.9,0.346,7470.58,debt_consolidation,0,monitoring
+36,30-50,46436.91,0.0,0.0,0.108,5097.54,education,0,monitoring
+29,Under 30,38084.55,4.8,9.3,0.671,7501.44,debt_consolidation,0,monitoring
+60,Over 50,64476.07,14.4,13.7,0.302,8859.28,home_improvement,0,monitoring
+21,Under 30,72098.26,0.0,7.2,0.234,14120.93,home_improvement,0,monitoring
+22,Under 30,49817.46,0.0,0.5,0.478,6879.85,home_improvement,0,monitoring
+52,Over 50,33687.33,7.8,5.0,0.321,16077.58,home_improvement,0,monitoring
+51,Over 50,17757.68,14.4,12.9,0.216,10407.29,small_business,0,monitoring
+57,Over 50,52363.53,10.0,11.0,0.309,6762.96,home_improvement,1,monitoring
+22,Under 30,33963.89,0.6,4.8,0.406,11815.29,auto,0,monitoring
+41,30-50,36126.04,5.2,5.4,0.097,14282.46,small_business,0,monitoring
+41,30-50,52768.02,10.6,9.5,0.21,14679.29,home_improvement,0,monitoring
+49,30-50,52514.71,11.2,12.8,0.544,8425.69,debt_consolidation,0,monitoring
+46,30-50,101744.43,6.0,5.2,0.269,6460.87,education,0,monitoring
+64,Over 50,42219.77,12.1,12.0,0.126,9313.04,education,0,monitoring
+26,Under 30,25672.57,1.9,2.6,0.295,10521.84,debt_consolidation,0,monitoring
+52,Over 50,64454.14,11.2,12.2,0.261,3381.48,debt_consolidation,0,monitoring
+59,Over 50,89016.67,9.8,11.0,0.359,9625.23,education,0,monitoring
+30,30-50,47296.09,2.0,4.6,0.17,8461.99,auto,0,monitoring
+42,30-50,19417.73,7.3,7.5,0.16,11029.61,small_business,0,monitoring
+48,30-50,27608.12,9.4,5.3,0.181,12341.57,debt_consolidation,0,monitoring
+59,Over 50,50791.93,17.4,16.4,0.522,4364.56,home_improvement,0,monitoring
+39,30-50,109464.11,5.6,6.7,0.41,3235.42,debt_consolidation,0,monitoring
+34,30-50,64139.86,2.9,6.4,0.302,4809.78,debt_consolidation,0,monitoring
+47,30-50,67074.61,16.0,16.5,0.447,9080.95,debt_consolidation,1,monitoring
+44,30-50,49462.47,3.6,5.1,0.186,1940.19,debt_consolidation,0,monitoring
+56,Over 50,16805.84,12.9,12.6,0.5,7976.55,education,1,monitoring
+27,Under 30,47528.63,4.0,8.0,0.331,4761.21,education,0,monitoring
+43,30-50,37233.76,2.0,5.0,0.419,10040.84,auto,0,monitoring
+53,Over 50,18773.76,9.8,9.9,0.197,14697.99,small_business,0,monitoring
+28,Under 30,53202.48,0.5,4.0,0.489,7537.56,small_business,0,monitoring
+28,Under 30,50446.24,5.6,6.5,0.216,8546.82,education,0,monitoring
+49,30-50,38531.53,8.5,8.5,0.593,18745.01,education,1,monitoring
+48,30-50,44355.31,8.8,10.3,0.228,17611.52,home_improvement,1,monitoring
+43,30-50,66566.98,5.2,6.8,0.263,21431.18,debt_consolidation,0,monitoring
+53,Over 50,20210.18,7.6,11.8,0.211,3269.18,small_business,0,monitoring
+31,30-50,40908.4,5.2,4.2,0.175,6991.7,debt_consolidation,0,monitoring
+41,30-50,24715.75,4.3,2.5,0.265,4316.39,home_improvement,0,monitoring
+54,Over 50,55726.54,10.0,12.0,0.27,14888.76,debt_consolidation,0,monitoring
+61,Over 50,18183.27,12.4,11.1,0.197,8454.57,debt_consolidation,0,monitoring
+60,Over 50,51777.5,11.8,11.4,0.39,5489.72,auto,0,monitoring
+69,Over 50,37444.05,14.6,13.3,0.292,10910.08,auto,0,monitoring
+69,Over 50,32703.16,15.5,14.5,0.121,12026.55,auto,0,monitoring
+58,Over 50,62642.34,16.8,12.6,0.233,19262.9,auto,0,monitoring
+69,Over 50,74431.88,20.6,17.8,0.122,14900.95,auto,0,monitoring
+28,Under 30,67359.81,2.1,3.8,0.343,7327.2,debt_consolidation,0,monitoring
+32,30-50,42978.24,7.3,8.6,0.379,6070.95,auto,0,monitoring
+28,Under 30,105880.89,2.9,4.8,0.231,19268.64,home_improvement,0,monitoring
+52,Over 50,37853.5,11.8,12.4,0.325,3883.26,auto,1,monitoring
+32,30-50,63154.18,1.2,4.0,0.27,3798.24,auto,0,monitoring
+39,30-50,39713.31,6.7,4.6,0.137,4220.3,small_business,0,monitoring
+38,30-50,23362.34,4.0,7.7,0.346,14702.37,auto,0,monitoring
+33,30-50,50953.7,3.9,1.0,0.258,8200.99,home_improvement,1,monitoring
+54,Over 50,34933.82,13.1,13.3,0.216,6832.89,auto,0,monitoring
+60,Over 50,53450.72,14.1,11.1,0.361,8569.48,debt_consolidation,0,monitoring
+66,Over 50,79617.47,16.2,14.4,0.305,9631.84,education,0,monitoring
+36,30-50,70249.56,4.1,3.0,0.309,6306.9,debt_consolidation,0,monitoring
+51,Over 50,69918.92,6.6,8.3,0.258,5592.02,debt_consolidation,0,monitoring
+54,Over 50,96116.23,12.8,10.0,0.275,4272.59,auto,0,monitoring
+69,Over 50,33017.44,19.7,16.6,0.517,7877.39,auto,0,monitoring
+31,30-50,34245.4,6.5,8.6,0.165,7922.49,debt_consolidation,0,monitoring
+58,Over 50,71607.93,12.1,8.6,0.437,10720.83,debt_consolidation,0,monitoring
+59,Over 50,63060.76,13.6,14.0,0.315,7316.75,home_improvement,0,monitoring
+41,30-50,31302.55,4.0,4.5,0.197,8583.29,home_improvement,0,monitoring
+57,Over 50,29870.17,9.5,8.6,0.27,5105.59,home_improvement,0,monitoring
+22,Under 30,45426.19,3.0,2.1,0.555,4700.88,debt_consolidation,1,monitoring
+37,30-50,87187.5,8.9,11.1,0.09,9605.32,debt_consolidation,0,monitoring
+65,Over 50,28231.63,14.5,15.7,0.339,4079.93,education,0,monitoring
+62,Over 50,31651.45,9.5,10.5,0.586,14581.91,debt_consolidation,0,monitoring
+56,Over 50,32147.89,15.2,10.7,0.428,10693.72,debt_consolidation,0,monitoring
+56,Over 50,18156.05,13.2,13.0,0.429,8180.76,debt_consolidation,0,monitoring
+30,30-50,81877.96,6.0,5.9,0.472,4496.53,auto,0,monitoring
+41,30-50,62752.58,6.6,6.0,0.308,12765.83,home_improvement,0,monitoring
+30,30-50,29152.33,2.3,5.8,0.517,6864.43,debt_consolidation,1,monitoring
+57,Over 50,50819.07,12.1,10.4,0.432,5870.76,small_business,0,monitoring
+40,30-50,56013.94,5.9,6.7,0.357,3307.03,debt_consolidation,0,monitoring
+48,30-50,43461.88,11.1,11.0,0.362,19630.32,home_improvement,0,monitoring
+35,30-50,24114.48,5.8,6.3,0.242,24172.78,small_business,0,monitoring
+34,30-50,83678.24,6.6,10.3,0.297,18829.83,home_improvement,0,monitoring
+43,30-50,41326.37,6.2,7.1,0.268,6289.42,home_improvement,0,monitoring
+61,Over 50,70356.92,10.9,13.2,0.479,8488.73,debt_consolidation,0,monitoring
+58,Over 50,24506.02,15.6,10.0,0.17,12474.88,home_improvement,0,monitoring
+23,Under 30,17748.45,0.0,0.0,0.428,10802.35,debt_consolidation,0,monitoring
+39,30-50,66933.31,5.2,5.1,0.141,7025.25,debt_consolidation,0,monitoring
+45,30-50,21055.49,10.3,12.1,0.242,12548.25,home_improvement,0,monitoring
+34,30-50,46615.69,4.1,6.0,0.253,10651.37,home_improvement,0,monitoring
+67,Over 50,28586.83,14.1,14.2,0.335,3623.12,debt_consolidation,0,monitoring
+27,Under 30,52389.53,1.6,5.5,0.325,7467.97,debt_consolidation,0,monitoring
+65,Over 50,23974.16,16.6,14.1,0.298,8514.93,home_improvement,0,monitoring
+47,30-50,55352.76,4.1,8.4,0.146,7149.34,home_improvement,0,monitoring
+33,30-50,122460.13,4.3,4.0,0.48,9041.14,debt_consolidation,0,monitoring
+34,30-50,43047.63,5.8,9.5,0.607,6482.78,debt_consolidation,0,monitoring
+37,30-50,81348.68,6.9,10.9,0.139,10020.29,auto,0,monitoring
+27,Under 30,85721.3,1.2,3.2,0.223,21384.35,debt_consolidation,0,monitoring
+29,Under 30,35512.34,0.0,0.0,0.426,10193.57,debt_consolidation,0,monitoring
+34,30-50,59958.13,1.1,3.9,0.208,11393.88,education,0,monitoring
+69,Over 50,39199.42,17.2,11.9,0.29,2223.05,debt_consolidation,0,monitoring
+30,30-50,35871.89,7.6,6.0,0.137,12276.92,debt_consolidation,0,monitoring
+29,Under 30,59250.04,2.6,6.7,0.34,11063.77,home_improvement,0,monitoring
+54,Over 50,48429.67,14.6,14.5,0.287,9207.17,debt_consolidation,0,monitoring
+21,Under 30,56843.04,0.0,1.1,0.299,10088.75,education,0,monitoring
+43,30-50,36732.22,6.6,6.6,0.501,4384.43,debt_consolidation,0,monitoring
+39,30-50,54011.19,3.2,5.1,0.11,8909.63,debt_consolidation,0,monitoring
+32,30-50,67028.82,6.2,4.8,0.313,11330.6,home_improvement,0,monitoring
+64,Over 50,46207.01,14.3,14.0,0.478,7146.41,debt_consolidation,0,monitoring
+68,Over 50,57899.31,19.1,18.2,0.272,23038.99,auto,0,monitoring
+40,30-50,17584.96,3.3,4.3,0.178,11070.6,education,0,monitoring
+61,Over 50,52118.97,20.1,15.8,0.135,9619.85,small_business,0,monitoring
+33,30-50,14317.41,2.8,0.3,0.296,17809.74,education,1,monitoring
+47,30-50,31891.68,10.7,11.6,0.292,2797.49,debt_consolidation,0,monitoring
+32,30-50,47098.44,2.7,4.8,0.292,23389.07,education,0,monitoring
+59,Over 50,36627.75,15.7,15.6,0.341,4162.36,education,0,monitoring
+25,Under 30,23445.9,2.1,4.6,0.197,6442.1,small_business,0,monitoring
+62,Over 50,52654.73,12.6,12.0,0.243,7191.03,debt_consolidation,0,monitoring
+33,30-50,68653.17,0.0,0.7,0.375,13488.49,small_business,0,monitoring
+31,30-50,34896.6,8.3,6.4,0.098,9691.88,home_improvement,0,monitoring
+55,Over 50,59113.09,8.9,7.5,0.223,15181.67,auto,0,monitoring
+59,Over 50,88262.15,19.0,16.4,0.133,6449.36,home_improvement,0,monitoring
+38,30-50,32430.05,8.3,6.2,0.285,8409.25,debt_consolidation,0,monitoring
+49,30-50,30250.67,14.0,14.7,0.354,5315.87,auto,0,monitoring
+50,30-50,96326.47,11.4,12.4,0.226,8077.88,auto,0,monitoring
+25,Under 30,85055.29,0.0,4.2,0.344,14973.13,auto,0,monitoring
+24,Under 30,58197.13,0.0,2.6,0.247,7861.55,education,0,monitoring
+24,Under 30,20450.75,0.2,1.7,0.295,7754.76,auto,0,monitoring
+25,Under 30,123615.81,0.0,2.9,0.298,12015.09,debt_consolidation,0,monitoring
+57,Over 50,44526.29,11.2,11.2,0.202,3584.2,home_improvement,0,monitoring
+30,30-50,59260.23,1.6,4.4,0.309,6938.55,home_improvement,0,monitoring
+36,30-50,42131.97,13.0,11.6,0.316,18989.45,education,0,monitoring
+69,Over 50,36812.47,20.3,16.6,0.356,6354.29,home_improvement,0,monitoring
+63,Over 50,22858.35,14.6,13.6,0.222,11781.77,auto,1,monitoring
+36,30-50,25517.69,2.2,1.5,0.227,8955.84,debt_consolidation,0,monitoring
+54,Over 50,29549.36,10.7,11.5,0.338,18015.25,auto,0,monitoring
+52,Over 50,29898.58,10.5,12.5,0.256,11455.51,education,0,monitoring
+66,Over 50,23445.3,19.4,18.4,0.664,10153.17,auto,0,monitoring
+51,Over 50,37989.78,9.0,8.5,0.272,5106.5,debt_consolidation,0,monitoring
+47,30-50,62847.59,7.8,8.9,0.506,6881.05,debt_consolidation,1,monitoring
+64,Over 50,37631.22,18.6,14.6,0.52,12134.18,small_business,0,monitoring
+67,Over 50,43508.96,16.2,15.9,0.3,14037.9,auto,0,monitoring
+28,Under 30,93538.61,6.0,8.4,0.153,8895.97,auto,0,monitoring
+21,Under 30,14126.79,0.5,2.7,0.23,9377.6,home_improvement,0,monitoring
+29,Under 30,48058.37,3.3,7.1,0.135,4077.44,debt_consolidation,0,monitoring
+54,Over 50,63269.37,12.8,12.2,0.46,7938.87,home_improvement,1,monitoring
+47,30-50,45656.39,12.4,8.7,0.311,7667.19,debt_consolidation,0,monitoring
+38,30-50,17077.31,5.7,4.5,0.278,19096.79,home_improvement,0,monitoring
+65,Over 50,30263.32,18.9,17.7,0.369,9056.03,debt_consolidation,0,monitoring
+44,30-50,45273.93,6.4,7.6,0.198,8812.26,debt_consolidation,0,monitoring
+53,Over 50,34015.08,11.5,11.7,0.261,11356.67,auto,0,monitoring
+47,30-50,52322.29,6.4,9.2,0.681,9889.57,education,0,monitoring
+61,Over 50,35575.09,17.7,16.7,0.356,6188.05,small_business,0,monitoring
+52,Over 50,26192.89,8.2,7.9,0.213,7803.83,debt_consolidation,0,monitoring
+34,30-50,30051.44,4.4,6.3,0.22,8167.76,home_improvement,0,monitoring
+28,Under 30,24504.07,3.9,6.1,0.245,8595.73,education,0,monitoring
+53,Over 50,40223.69,13.0,13.3,0.29,7449.9,education,0,monitoring
+45,30-50,58851.29,9.3,9.2,0.144,12914.17,home_improvement,0,monitoring
+35,30-50,36596.41,7.5,9.0,0.427,5764.63,education,0,monitoring
+55,Over 50,50577.5,16.2,15.8,0.21,6319.14,education,0,monitoring
+30,30-50,33814.56,0.0,3.9,0.204,28541.62,debt_consolidation,0,monitoring
+29,Under 30,43769.98,4.6,7.7,0.313,5669.5,auto,0,monitoring
+33,30-50,44407.52,5.2,5.5,0.139,6224.16,debt_consolidation,0,monitoring
+23,Under 30,19948.22,0.0,0.3,0.327,14456.07,auto,0,monitoring
+65,Over 50,66909.97,15.8,15.5,0.118,4704.03,home_improvement,0,monitoring
+61,Over 50,76765.03,9.5,9.5,0.42,11020.14,home_improvement,0,monitoring
+46,30-50,29733.32,4.1,2.9,0.29,2447.1,small_business,0,monitoring
+36,30-50,31584.13,7.0,9.5,0.446,5727.64,debt_consolidation,0,monitoring
+67,Over 50,34966.4,15.6,14.3,0.344,7083.5,education,0,monitoring
+32,30-50,22398.05,4.1,6.6,0.239,45353.31,education,1,monitoring
+62,Over 50,26168.45,10.2,14.2,0.119,6961.1,small_business,0,monitoring
+34,30-50,33703.74,8.1,9.4,0.131,8514.18,debt_consolidation,1,monitoring
+27,Under 30,20636.23,3.5,4.8,0.143,10698.69,home_improvement,1,monitoring
+66,Over 50,28406.09,13.4,13.3,0.097,6977.44,small_business,0,monitoring
+34,30-50,63224.92,1.8,1.1,0.101,6705.58,debt_consolidation,0,monitoring
+52,Over 50,37746.28,6.4,7.1,0.395,5543.99,home_improvement,0,monitoring
+50,30-50,31906.68,9.9,9.4,0.361,19669.23,auto,0,monitoring
+66,Over 50,38551.08,15.1,14.3,0.235,5753.41,small_business,0,monitoring
+41,30-50,88304.97,2.8,1.8,0.547,6446.45,auto,0,monitoring
+60,Over 50,59183.88,11.9,11.5,0.285,27092.98,debt_consolidation,0,monitoring
+28,Under 30,19708.71,6.4,7.9,0.575,7952.79,home_improvement,0,monitoring
+63,Over 50,49768.47,9.3,6.6,0.57,13989.74,debt_consolidation,0,monitoring
+42,30-50,49275.9,7.5,6.9,0.321,20567.33,education,0,monitoring
+25,Under 30,21298.94,0.3,2.5,0.442,5370.48,education,0,monitoring
+21,Under 30,68195.47,1.6,1.7,0.231,8083.98,small_business,0,monitoring
+26,Under 30,40992.09,0.0,3.1,0.66,15186.35,education,1,monitoring
+42,30-50,25891.9,5.8,8.3,0.458,8607.23,home_improvement,0,monitoring
+65,Over 50,40779.87,17.4,14.7,0.161,8042.54,debt_consolidation,0,monitoring
+45,30-50,24214.08,13.2,10.3,0.18,9218.24,auto,0,monitoring
+56,Over 50,54985.25,11.2,11.1,0.317,17002.66,education,0,monitoring
+42,30-50,33498.36,3.9,3.8,0.46,5518.44,home_improvement,0,monitoring
+59,Over 50,30205.14,13.5,11.4,0.18,8394.21,auto,1,monitoring
+27,Under 30,29263.93,0.0,2.7,0.117,9175.47,education,0,monitoring
+46,30-50,45469.63,12.2,13.1,0.43,4238.2,auto,0,monitoring
+43,30-50,47734.1,9.2,15.0,0.272,6215.9,debt_consolidation,0,monitoring
+34,30-50,28130.18,2.5,6.2,0.688,11554.9,small_business,0,monitoring
+47,30-50,15687.91,11.0,9.3,0.221,11449.67,debt_consolidation,1,monitoring
+42,30-50,30693.49,0.8,2.5,0.336,9461.02,small_business,0,monitoring
+65,Over 50,35035.73,12.9,12.7,0.151,13072.09,small_business,0,monitoring
+67,Over 50,45413.32,17.8,17.3,0.223,8262.32,auto,1,monitoring
+52,Over 50,36719.18,9.6,11.3,0.497,9499.48,debt_consolidation,0,monitoring
+62,Over 50,46791.52,13.9,12.1,0.141,12674.87,home_improvement,0,monitoring
+58,Over 50,65087.22,18.4,17.8,0.586,10967.78,education,0,monitoring
+38,30-50,31159.86,5.8,4.6,0.378,4920.53,home_improvement,0,monitoring
+49,30-50,35284.99,11.4,14.2,0.48,4920.22,education,0,monitoring
+45,30-50,34157.77,4.5,8.2,0.535,8595.48,education,0,monitoring
+28,Under 30,32580.92,2.7,4.1,0.292,5562.94,auto,1,monitoring
+51,Over 50,49255.2,15.0,14.9,0.12,12902.47,auto,0,monitoring
+51,Over 50,48925.6,9.9,11.3,0.239,11921.09,auto,0,monitoring
+46,30-50,84735.13,9.0,11.3,0.444,6009.31,debt_consolidation,0,monitoring
+25,Under 30,53291.85,0.7,6.7,0.213,15034.05,debt_consolidation,0,monitoring
+39,30-50,39922.59,4.2,4.5,0.327,5248.66,debt_consolidation,1,monitoring
+37,30-50,22894.14,5.8,5.9,0.734,13215.5,debt_consolidation,1,monitoring
+48,30-50,69529.18,13.9,15.4,0.378,8549.09,small_business,0,monitoring
+54,Over 50,36252.0,10.2,6.7,0.433,6903.78,home_improvement,0,monitoring
+49,30-50,43246.63,11.7,12.0,0.215,14392.55,debt_consolidation,0,monitoring
+57,Over 50,133201.14,14.0,11.2,0.42,8554.89,debt_consolidation,0,monitoring
+41,30-50,36340.91,11.6,14.6,0.197,7942.22,debt_consolidation,0,monitoring
+24,Under 30,55869.64,0.0,2.0,0.2,17148.61,education,0,monitoring
+26,Under 30,37921.44,0.0,0.0,0.159,4435.17,home_improvement,0,monitoring
+48,30-50,67425.94,14.3,10.6,0.17,9299.72,debt_consolidation,0,monitoring
+53,Over 50,57135.93,13.3,9.9,0.342,13514.73,debt_consolidation,0,monitoring
+44,30-50,69061.65,8.2,6.6,0.265,18543.62,debt_consolidation,0,monitoring
+62,Over 50,25725.42,14.5,13.6,0.63,6727.11,debt_consolidation,0,monitoring
+31,30-50,53679.21,5.3,6.6,0.311,9342.36,education,1,monitoring
+29,Under 30,48158.77,3.3,4.4,0.466,6061.75,small_business,1,monitoring
+31,30-50,53185.95,7.6,9.4,0.224,9112.96,auto,0,monitoring
+51,Over 50,20823.77,10.5,8.7,0.413,2931.79,auto,0,monitoring
+59,Over 50,46621.63,11.5,10.4,0.402,4385.79,debt_consolidation,0,monitoring
+40,30-50,48954.85,7.6,7.4,0.369,13721.91,home_improvement,0,monitoring
+52,Over 50,61577.97,12.8,11.3,0.543,7577.37,debt_consolidation,0,monitoring
+45,30-50,67844.73,2.6,3.9,0.669,9621.12,auto,0,monitoring
+67,Over 50,26808.51,14.1,13.6,0.644,16923.51,debt_consolidation,1,monitoring
+52,Over 50,21358.97,8.6,4.7,0.288,7276.47,auto,0,monitoring
+67,Over 50,97854.17,16.4,15.6,0.284,8306.71,education,0,monitoring
+31,30-50,31579.14,2.8,3.8,0.431,8412.91,small_business,0,monitoring
+55,Over 50,78111.98,17.5,13.4,0.38,9899.06,auto,0,monitoring
+37,30-50,84124.44,5.2,8.2,0.383,9508.66,home_improvement,0,monitoring
+34,30-50,63813.83,1.7,2.7,0.314,5288.95,home_improvement,0,monitoring
+48,30-50,74463.04,6.4,6.5,0.254,6634.19,education,0,monitoring
+62,Over 50,38314.52,14.9,12.8,0.309,3705.28,home_improvement,0,monitoring
+57,Over 50,45439.83,14.2,13.5,0.193,10026.23,home_improvement,0,monitoring
+58,Over 50,61900.13,15.1,14.2,0.398,8544.88,debt_consolidation,0,monitoring
+34,30-50,33713.01,6.8,7.3,0.151,3009.86,home_improvement,0,monitoring
+43,30-50,31074.89,7.9,10.2,0.258,4209.68,debt_consolidation,1,monitoring
+42,30-50,36001.12,6.3,6.8,0.237,5808.04,auto,0,monitoring
+60,Over 50,18825.58,15.9,10.8,0.537,10048.24,debt_consolidation,0,monitoring
+33,30-50,57236.69,3.5,3.9,0.46,7954.39,home_improvement,0,monitoring
+27,Under 30,41732.26,5.5,4.0,0.549,8720.31,debt_consolidation,0,monitoring
+36,30-50,85358.73,7.8,7.8,0.207,4763.12,debt_consolidation,0,monitoring
+57,Over 50,52394.15,8.6,12.6,0.194,34560.01,home_improvement,0,monitoring
+38,30-50,93196.16,2.9,2.2,0.595,12017.25,home_improvement,0,monitoring
+62,Over 50,67489.0,15.0,13.9,0.424,5013.91,auto,0,monitoring
+43,30-50,54597.97,10.1,8.5,0.772,6084.88,home_improvement,0,monitoring
+38,30-50,75955.89,6.2,6.3,0.307,6061.86,debt_consolidation,0,monitoring
+23,Under 30,23669.71,0.0,2.5,0.076,7211.9,debt_consolidation,0,monitoring
+56,Over 50,69254.55,14.0,14.5,0.258,10009.09,auto,0,monitoring
+38,30-50,42104.99,5.3,5.8,0.309,18936.13,home_improvement,0,monitoring
+60,Over 50,25825.57,11.6,11.5,0.378,17278.56,debt_consolidation,0,monitoring
+59,Over 50,25369.65,14.7,15.3,0.198,6387.41,small_business,0,monitoring
+68,Over 50,62537.27,17.7,15.9,0.405,4876.37,debt_consolidation,0,monitoring
+36,30-50,48193.98,4.1,9.2,0.367,10018.78,home_improvement,0,monitoring
+55,Over 50,35099.12,15.8,17.8,0.252,7487.76,debt_consolidation,0,monitoring
+62,Over 50,16158.8,10.2,13.1,0.312,12969.24,home_improvement,0,monitoring
+37,30-50,41638.66,5.4,6.8,0.393,17361.66,home_improvement,0,monitoring
+36,30-50,54756.49,5.7,8.7,0.455,8161.27,small_business,0,monitoring
+56,Over 50,26430.6,9.7,10.3,0.461,9099.33,education,0,monitoring
+56,Over 50,33028.6,10.7,12.3,0.274,9855.89,debt_consolidation,0,monitoring
+34,30-50,27748.08,6.1,11.0,0.481,10166.57,auto,0,monitoring
+61,Over 50,69854.38,14.3,12.4,0.536,4060.15,debt_consolidation,0,monitoring
+67,Over 50,43409.44,16.5,14.0,0.529,16485.72,debt_consolidation,0,monitoring
+59,Over 50,35698.11,12.7,14.0,0.171,6630.15,education,0,monitoring
+68,Over 50,25638.5,13.3,15.5,0.302,6170.87,debt_consolidation,0,monitoring
+68,Over 50,98899.26,17.9,12.3,0.168,4716.75,education,0,monitoring
+67,Over 50,31945.89,17.2,15.9,0.196,7059.18,debt_consolidation,0,monitoring
+55,Over 50,63375.61,8.5,7.0,0.492,14203.45,small_business,0,monitoring
+29,Under 30,66728.18,0.0,1.4,0.195,18012.54,debt_consolidation,1,monitoring
+64,Over 50,37305.21,16.9,11.9,0.348,4745.33,debt_consolidation,0,monitoring
+54,Over 50,56471.55,7.3,8.7,0.336,16608.81,debt_consolidation,0,monitoring
+30,30-50,42326.74,7.6,10.5,0.34,6878.71,home_improvement,0,monitoring
+66,Over 50,28424.48,18.4,19.7,0.439,8555.15,auto,0,monitoring
+69,Over 50,30065.43,11.9,12.0,0.309,5438.19,debt_consolidation,1,monitoring
+56,Over 50,40815.25,13.4,13.6,0.255,10223.22,small_business,0,monitoring
+64,Over 50,74312.96,16.6,12.7,0.387,10653.88,home_improvement,0,monitoring
+67,Over 50,36998.9,11.9,14.3,0.342,7015.81,education,0,monitoring
+27,Under 30,45459.83,4.8,8.3,0.364,9257.23,debt_consolidation,0,monitoring
+50,30-50,65538.12,6.9,6.4,0.209,4166.59,debt_consolidation,0,monitoring
+45,30-50,69977.9,5.7,3.6,0.197,8021.39,debt_consolidation,0,monitoring
+28,Under 30,24989.63,7.4,9.7,0.163,13789.5,debt_consolidation,0,monitoring
+53,Over 50,144739.1,10.8,10.8,0.3,7824.16,debt_consolidation,0,monitoring
+64,Over 50,67305.75,16.8,14.9,0.408,11907.79,small_business,0,monitoring
+55,Over 50,37507.1,10.1,12.3,0.678,6376.94,debt_consolidation,0,monitoring
+63,Over 50,52022.97,14.9,12.7,0.203,5033.67,home_improvement,0,monitoring
+24,Under 30,79716.31,3.0,4.5,0.264,9745.42,small_business,0,monitoring
+33,30-50,30957.22,1.1,5.1,0.18,6093.74,education,0,monitoring
+48,30-50,38596.41,13.6,13.3,0.105,9533.05,debt_consolidation,0,monitoring
+40,30-50,33698.64,13.0,14.2,0.173,11349.68,auto,0,monitoring
+41,30-50,23062.11,6.2,8.7,0.645,14043.25,auto,0,monitoring
+39,30-50,36485.13,7.2,9.9,0.325,4451.45,debt_consolidation,0,monitoring
+23,Under 30,39188.3,4.6,6.6,0.25,4336.35,debt_consolidation,0,monitoring
+53,Over 50,25269.67,14.3,14.3,0.393,12222.67,auto,0,monitoring
+41,30-50,41565.3,5.6,6.9,0.166,6483.56,home_improvement,0,monitoring
+59,Over 50,44703.78,15.5,11.9,0.445,9819.62,education,0,monitoring
+59,Over 50,37021.85,8.1,13.1,0.202,8745.11,education,0,monitoring
+65,Over 50,57499.76,19.0,21.1,0.226,20061.21,education,0,monitoring
+61,Over 50,25730.6,11.6,8.6,0.259,6767.97,education,0,monitoring
+41,30-50,54763.99,7.5,8.4,0.121,7697.26,debt_consolidation,0,monitoring
+69,Over 50,9279.81,22.5,19.5,0.256,5619.23,education,0,monitoring
+35,30-50,116805.34,7.2,4.3,0.304,11765.76,debt_consolidation,0,monitoring
+36,30-50,43016.51,10.2,9.3,0.459,4944.12,auto,0,monitoring
+64,Over 50,34102.66,12.8,7.6,0.41,5414.58,auto,0,monitoring
+22,Under 30,56845.25,0.0,7.4,0.306,10764.83,home_improvement,0,monitoring
+63,Over 50,39937.91,13.7,14.3,0.293,10161.57,small_business,0,monitoring
+54,Over 50,38790.09,11.8,11.7,0.309,8484.67,home_improvement,0,monitoring
+37,30-50,42565.55,12.7,12.6,0.154,11984.57,home_improvement,0,monitoring
+50,30-50,56387.55,9.3,11.7,0.231,13829.83,auto,0,monitoring
+60,Over 50,25655.36,14.4,15.3,0.279,5272.88,home_improvement,0,monitoring
+28,Under 30,59702.15,6.2,7.4,0.402,8784.6,home_improvement,1,monitoring
+24,Under 30,35096.74,0.0,4.2,0.258,12711.07,small_business,0,monitoring
+53,Over 50,55984.0,9.8,6.1,0.154,10553.11,home_improvement,0,monitoring
+23,Under 30,29242.83,0.0,0.0,0.522,7112.36,debt_consolidation,1,monitoring
+48,30-50,25809.84,7.5,7.6,0.532,4263.82,debt_consolidation,0,monitoring
+60,Over 50,40736.05,12.8,11.1,0.432,8049.51,auto,0,monitoring
+42,30-50,26459.81,12.5,10.9,0.304,6019.75,home_improvement,0,monitoring
+44,30-50,32593.38,7.3,9.4,0.25,4441.66,home_improvement,1,monitoring
+36,30-50,61118.86,3.7,3.7,0.137,15935.55,home_improvement,1,monitoring
+30,30-50,59273.39,0.0,2.6,0.467,4959.02,debt_consolidation,1,monitoring
+51,Over 50,33123.46,10.0,11.8,0.289,5556.44,small_business,0,monitoring
+39,30-50,38373.68,8.5,9.4,0.241,6035.03,home_improvement,0,monitoring
+37,30-50,51525.53,7.2,8.5,0.19,7035.57,auto,0,monitoring
+68,Over 50,30037.91,14.3,15.3,0.349,3639.23,debt_consolidation,0,monitoring
+25,Under 30,19878.02,8.4,8.7,0.473,4773.4,debt_consolidation,0,monitoring
+58,Over 50,27191.24,6.9,5.0,0.369,4896.23,debt_consolidation,0,monitoring
+61,Over 50,69335.42,14.4,12.2,0.41,6983.63,small_business,0,monitoring
+43,30-50,92088.88,10.1,13.0,0.266,15154.44,debt_consolidation,0,monitoring
+24,Under 30,51142.61,0.0,3.6,0.17,14764.75,debt_consolidation,0,monitoring
+64,Over 50,24044.54,13.6,15.4,0.312,10176.15,small_business,0,monitoring
+65,Over 50,50352.4,13.4,15.0,0.468,7547.03,debt_consolidation,0,monitoring
+51,Over 50,51580.62,9.2,11.7,0.203,5553.95,small_business,0,monitoring
+33,30-50,52589.78,5.5,9.0,0.349,4535.53,education,0,monitoring
+37,30-50,94422.33,9.8,11.7,0.095,6288.6,home_improvement,0,monitoring
+57,Over 50,69770.82,17.3,16.4,0.338,14010.75,debt_consolidation,0,monitoring
+46,30-50,76647.98,11.2,8.8,0.354,19594.72,education,0,monitoring
+52,Over 50,31749.96,10.9,13.4,0.297,7483.39,home_improvement,0,monitoring
+65,Over 50,37886.39,16.1,15.1,0.406,10592.06,education,0,monitoring
+23,Under 30,44022.54,8.1,8.7,0.368,8182.42,home_improvement,0,monitoring
+33,30-50,62908.59,4.0,3.1,0.429,11214.4,home_improvement,0,monitoring
+40,30-50,43033.43,6.0,10.8,0.201,11024.16,debt_consolidation,0,monitoring
+66,Over 50,60638.44,15.7,13.6,0.344,13254.15,debt_consolidation,0,monitoring
+51,Over 50,69482.07,11.8,8.9,0.386,16276.3,debt_consolidation,0,monitoring
+59,Over 50,52128.87,13.1,14.2,0.401,9174.04,education,0,monitoring
+61,Over 50,100945.66,16.2,16.2,0.852,5230.64,home_improvement,0,monitoring
+58,Over 50,39587.39,13.3,11.6,0.222,4397.8,home_improvement,0,monitoring
+30,30-50,59669.1,0.5,4.7,0.352,13239.46,home_improvement,0,monitoring
+38,30-50,30243.81,1.9,1.0,0.298,4986.32,debt_consolidation,1,monitoring
+65,Over 50,44085.58,16.5,14.4,0.339,5238.91,small_business,0,monitoring
+46,30-50,64184.72,7.1,5.8,0.231,6134.34,education,0,monitoring
+38,30-50,90838.25,10.9,12.3,0.346,7830.29,home_improvement,1,monitoring
+21,Under 30,49129.97,0.0,0.0,0.343,12063.46,debt_consolidation,0,monitoring
+58,Over 50,79365.53,12.5,14.5,0.186,7929.01,education,1,monitoring
+29,Under 30,98022.91,4.8,7.5,0.155,10811.72,debt_consolidation,0,monitoring
+26,Under 30,43694.55,3.0,1.6,0.114,8888.44,education,0,monitoring
+23,Under 30,77854.68,0.0,5.7,0.291,5748.69,debt_consolidation,0,monitoring
+40,30-50,85905.98,3.1,4.2,0.166,11160.08,home_improvement,0,monitoring
+50,30-50,40047.0,8.1,6.9,0.384,19256.05,home_improvement,0,monitoring
+62,Over 50,61666.29,12.8,12.5,0.162,4886.67,debt_consolidation,0,monitoring
+35,30-50,19163.07,3.6,6.1,0.319,12339.55,auto,1,monitoring
+46,30-50,18104.2,7.7,6.8,0.487,4888.09,home_improvement,0,monitoring
+36,30-50,25272.6,0.8,5.5,0.221,4449.92,home_improvement,0,monitoring
+58,Over 50,49942.41,9.6,7.8,0.357,6820.35,education,0,monitoring
+57,Over 50,59294.3,12.1,9.1,0.243,4422.69,debt_consolidation,0,monitoring
+21,Under 30,19314.86,0.0,1.3,0.153,9405.0,education,0,monitoring
+26,Under 30,39013.32,1.3,3.0,0.47,13068.27,debt_consolidation,1,monitoring
+27,Under 30,40322.38,5.0,6.9,0.207,5683.17,home_improvement,0,monitoring
+21,Under 30,24522.93,0.4,1.4,0.254,6132.72,home_improvement,0,monitoring
+26,Under 30,37260.68,0.0,4.3,0.215,10002.85,debt_consolidation,0,monitoring
+52,Over 50,68248.39,18.3,12.6,0.449,13507.87,debt_consolidation,0,monitoring
+56,Over 50,43280.21,10.4,10.9,0.227,15618.67,education,0,monitoring
+64,Over 50,67536.83,13.8,11.3,0.191,6040.52,home_improvement,0,monitoring
+63,Over 50,62686.57,14.5,10.2,0.214,2497.08,auto,0,monitoring
+56,Over 50,56113.26,9.5,12.3,0.275,7159.45,home_improvement,0,monitoring
+52,Over 50,41073.35,12.0,9.6,0.182,4025.23,debt_consolidation,0,monitoring
+41,30-50,50058.81,11.2,11.7,0.364,9356.93,small_business,0,monitoring
+33,30-50,27153.25,2.5,1.4,0.479,13173.94,home_improvement,1,monitoring
+49,30-50,76109.09,9.2,10.9,0.324,10615.66,home_improvement,0,monitoring
+41,30-50,98189.12,7.2,5.1,0.108,5074.82,debt_consolidation,0,monitoring
+60,Over 50,24812.6,5.9,8.8,0.333,3226.86,debt_consolidation,0,monitoring
+31,30-50,25923.9,1.2,2.2,0.095,3985.62,small_business,0,monitoring
+34,30-50,42637.44,5.4,7.8,0.379,9114.32,auto,0,monitoring
+60,Over 50,24075.08,12.6,11.7,0.378,19342.64,debt_consolidation,0,monitoring
+39,30-50,55707.79,2.2,4.6,0.268,5307.12,education,0,monitoring
+44,30-50,24570.13,6.9,9.2,0.161,8514.13,debt_consolidation,0,monitoring
+57,Over 50,123437.13,8.8,9.7,0.177,3515.94,debt_consolidation,0,monitoring
+68,Over 50,104064.71,20.1,15.8,0.143,15604.06,auto,0,monitoring
+69,Over 50,59450.18,14.7,8.4,0.142,13774.26,auto,0,monitoring
+41,30-50,34634.68,8.4,6.8,0.197,13810.58,small_business,0,monitoring
+55,Over 50,74533.36,10.5,11.8,0.496,5801.12,auto,0,monitoring
+40,30-50,35939.19,6.9,7.1,0.501,5800.75,education,0,monitoring
+58,Over 50,28312.52,15.4,13.6,0.247,10259.15,auto,0,monitoring
+67,Over 50,17726.45,15.2,12.4,0.325,12001.51,small_business,1,monitoring
+27,Under 30,29057.96,3.8,10.0,0.207,15657.47,small_business,0,monitoring
+56,Over 50,86612.62,9.9,10.9,0.176,9243.98,auto,0,monitoring
+45,30-50,83734.96,8.9,8.1,0.225,5421.09,debt_consolidation,0,monitoring
+32,30-50,56695.89,6.9,4.1,0.078,8580.32,debt_consolidation,0,monitoring
+45,30-50,42686.26,9.1,10.9,0.149,10036.51,home_improvement,0,monitoring
+48,30-50,22144.87,9.7,8.5,0.161,5937.93,auto,0,monitoring
+40,30-50,32810.08,1.5,4.0,0.211,13145.94,education,0,monitoring
+29,Under 30,34321.96,4.8,2.9,0.619,9829.26,home_improvement,0,monitoring
+69,Over 50,39712.82,26.0,16.8,0.489,6194.94,auto,0,monitoring
+39,30-50,28314.76,8.5,9.2,0.35,15622.04,debt_consolidation,0,monitoring
+30,30-50,59422.21,4.0,7.2,0.193,11008.81,education,0,monitoring
+36,30-50,31355.44,8.4,8.6,0.523,5554.14,auto,0,monitoring
+65,Over 50,32999.27,18.3,16.3,0.106,6430.95,auto,0,monitoring
+25,Under 30,56440.4,3.8,5.1,0.373,10423.84,home_improvement,0,monitoring
+36,30-50,52822.68,6.2,5.5,0.44,14140.54,education,0,monitoring
+29,Under 30,70919.47,0.0,1.7,0.124,7701.8,auto,0,monitoring
+54,Over 50,30305.19,12.9,14.1,0.373,9675.73,auto,0,monitoring
+52,Over 50,63653.8,11.6,10.6,0.739,7703.91,debt_consolidation,0,monitoring
+54,Over 50,20014.24,14.4,13.7,0.29,10836.36,education,0,monitoring
+52,Over 50,38188.78,11.2,11.7,0.185,7762.33,home_improvement,0,monitoring
+27,Under 30,26541.54,0.0,1.5,0.544,8390.06,debt_consolidation,0,monitoring
+51,Over 50,39845.85,10.9,7.5,0.218,11328.98,debt_consolidation,1,monitoring
+59,Over 50,78126.93,10.2,11.8,0.413,10435.42,education,0,monitoring
+28,Under 30,15365.61,0.6,2.7,0.451,7226.36,home_improvement,0,monitoring
+36,30-50,77916.82,8.2,8.3,0.323,5085.7,education,0,monitoring
+56,Over 50,75028.5,3.9,5.0,0.493,13071.64,debt_consolidation,0,monitoring
+42,30-50,35037.91,7.2,8.8,0.474,4088.78,auto,0,monitoring
+28,Under 30,29272.42,1.3,2.8,0.659,5910.11,home_improvement,0,monitoring
+39,30-50,48942.59,7.7,7.3,0.609,3071.95,auto,0,monitoring
+24,Under 30,18229.37,7.2,6.4,0.283,3405.83,debt_consolidation,0,monitoring
+62,Over 50,78783.19,16.1,17.6,0.524,11833.17,education,0,monitoring
+57,Over 50,98982.97,14.6,14.4,0.371,10633.81,auto,0,monitoring
+38,30-50,30044.39,8.2,6.7,0.374,12641.99,home_improvement,0,monitoring
+56,Over 50,33077.81,7.5,8.4,0.336,8237.78,debt_consolidation,0,monitoring
+55,Over 50,56533.59,14.6,16.2,0.262,7759.14,debt_consolidation,0,monitoring
+34,30-50,29736.12,5.2,12.1,0.571,4249.4,debt_consolidation,0,monitoring
+52,Over 50,31465.67,7.8,5.8,0.551,7491.22,debt_consolidation,0,monitoring
+54,Over 50,60225.94,18.3,12.7,0.232,6413.96,education,0,monitoring
+64,Over 50,42303.87,15.3,16.2,0.337,9483.46,debt_consolidation,0,monitoring
+36,30-50,58347.02,1.0,3.2,0.138,6970.92,auto,0,monitoring
+63,Over 50,83758.7,13.5,10.1,0.264,7385.41,debt_consolidation,0,monitoring
+44,30-50,28867.33,8.0,10.6,0.233,12856.69,education,0,monitoring
+33,30-50,47327.02,7.1,7.3,0.349,11244.56,home_improvement,0,monitoring
+24,Under 30,25267.64,0.2,4.4,0.306,11051.87,debt_consolidation,0,monitoring
+21,Under 30,67619.85,2.1,5.4,0.167,7332.19,debt_consolidation,0,monitoring
+50,30-50,40558.9,7.8,9.6,0.262,10591.84,education,0,monitoring
+22,Under 30,46823.83,0.6,1.1,0.244,9502.28,education,0,monitoring
+34,30-50,81373.53,3.4,4.0,0.408,15983.77,debt_consolidation,0,monitoring
+65,Over 50,21911.41,9.4,15.0,0.445,4800.22,auto,0,monitoring
+44,30-50,50492.1,10.6,13.0,0.242,4019.04,home_improvement,0,monitoring
+32,30-50,25970.96,1.0,0.9,0.156,20410.03,debt_consolidation,0,monitoring
+67,Over 50,53827.34,12.3,10.2,0.562,4324.06,debt_consolidation,0,monitoring
+45,30-50,18404.11,9.6,9.7,0.351,4566.21,home_improvement,0,monitoring
+37,30-50,34738.97,6.8,5.8,0.293,14063.29,debt_consolidation,0,monitoring
+49,30-50,35094.53,10.8,12.0,0.499,5248.28,debt_consolidation,1,monitoring
+67,Over 50,74159.8,16.6,14.8,0.181,4182.58,education,1,monitoring
+21,Under 30,51503.71,3.0,5.4,0.238,21305.11,education,0,monitoring
+69,Over 50,24903.47,11.6,13.6,0.256,5079.64,auto,0,monitoring
+42,30-50,31319.69,8.1,10.0,0.389,11816.96,auto,0,monitoring
+38,30-50,69857.91,8.0,5.5,0.112,9445.45,small_business,0,monitoring
+46,30-50,36921.15,1.1,2.9,0.101,9559.32,debt_consolidation,0,monitoring
+66,Over 50,46863.22,15.3,15.5,0.591,9187.35,small_business,0,monitoring
+22,Under 30,34303.58,0.0,2.7,0.416,14572.85,debt_consolidation,0,monitoring
+45,30-50,63741.79,5.5,6.0,0.352,8175.68,debt_consolidation,0,monitoring
+45,30-50,69642.75,7.4,8.8,0.366,6496.22,debt_consolidation,0,monitoring
+54,Over 50,117154.54,13.0,10.5,0.518,9931.04,home_improvement,0,monitoring
+36,30-50,31834.93,9.3,8.2,0.287,4596.95,auto,0,monitoring
+56,Over 50,31919.65,6.4,5.3,0.319,9122.72,education,0,monitoring
+68,Over 50,46004.14,9.4,7.5,0.212,9285.46,debt_consolidation,0,monitoring
+24,Under 30,35995.1,6.3,9.1,0.144,6164.79,education,0,monitoring
+44,30-50,21012.32,6.2,6.2,0.363,6392.77,debt_consolidation,0,monitoring
+58,Over 50,64813.67,12.4,14.7,0.134,9943.42,education,0,monitoring
+34,30-50,70622.02,7.6,4.9,0.252,6043.39,auto,0,monitoring
+36,30-50,22246.62,7.2,6.9,0.349,2868.76,debt_consolidation,0,monitoring
+27,Under 30,34562.23,0.0,2.9,0.549,7980.29,auto,0,monitoring
+22,Under 30,72397.73,0.2,0.2,0.243,8717.77,home_improvement,0,monitoring
+23,Under 30,16056.39,0.7,7.0,0.368,5933.79,debt_consolidation,0,monitoring
+38,30-50,45736.66,6.5,7.1,0.178,20944.58,home_improvement,1,monitoring
+61,Over 50,46749.55,16.4,16.9,0.21,6108.27,debt_consolidation,0,monitoring
+22,Under 30,32590.48,0.0,2.2,0.249,12135.23,auto,0,monitoring
+62,Over 50,49890.7,15.8,17.1,0.424,3986.19,education,0,monitoring
+44,30-50,52715.44,2.5,5.9,0.322,16661.23,small_business,0,monitoring
+53,Over 50,22377.25,7.5,7.9,0.28,3248.5,small_business,0,monitoring
+39,30-50,68515.4,7.4,8.7,0.193,2857.29,small_business,0,monitoring
+37,30-50,38982.01,9.9,12.7,0.386,8210.1,auto,0,monitoring
+67,Over 50,84726.23,18.4,17.5,0.222,8717.4,debt_consolidation,0,monitoring
+59,Over 50,22778.7,10.0,14.1,0.646,8226.52,auto,0,monitoring
+55,Over 50,34459.81,14.2,14.4,0.219,8963.35,small_business,0,monitoring
+61,Over 50,30172.03,13.9,12.3,0.194,11161.89,home_improvement,0,monitoring
+62,Over 50,32804.22,18.4,18.6,0.27,5321.9,home_improvement,0,monitoring
+21,Under 30,115417.59,0.0,2.0,0.142,14069.78,education,0,monitoring
+69,Over 50,35298.24,19.5,15.3,0.47,6071.52,home_improvement,0,monitoring
+54,Over 50,42656.25,2.4,3.8,0.22,3881.49,education,0,monitoring
+60,Over 50,40308.89,12.7,13.0,0.192,8247.62,home_improvement,0,monitoring
+52,Over 50,34008.66,10.2,9.8,0.218,5859.65,small_business,0,monitoring
+69,Over 50,32033.94,14.0,13.9,0.125,8276.05,auto,0,monitoring
+62,Over 50,58229.15,9.0,9.0,0.181,20293.48,debt_consolidation,1,monitoring
+23,Under 30,30486.62,1.5,3.3,0.264,8789.68,auto,0,monitoring
+23,Under 30,50894.68,0.0,1.3,0.306,7312.38,debt_consolidation,0,monitoring
+59,Over 50,57309.01,16.7,12.4,0.446,9053.21,home_improvement,0,monitoring
+62,Over 50,38545.88,9.9,13.5,0.339,9897.11,auto,0,monitoring
+30,30-50,49027.77,4.9,8.5,0.264,5629.56,debt_consolidation,0,monitoring
+31,30-50,30038.65,0.0,2.6,0.326,5838.97,auto,0,monitoring
+48,30-50,40077.43,5.0,7.4,0.226,14165.74,education,0,monitoring
+51,Over 50,20300.94,14.5,13.0,0.574,20777.16,debt_consolidation,0,monitoring
+50,30-50,28829.2,7.5,7.5,0.567,6439.48,debt_consolidation,0,monitoring
+51,Over 50,48024.15,8.2,9.8,0.382,2047.66,debt_consolidation,0,monitoring
+64,Over 50,80661.24,12.8,15.3,0.235,8599.35,home_improvement,0,monitoring
+62,Over 50,54229.09,21.8,17.8,0.127,7130.72,education,0,monitoring
+36,30-50,52536.31,4.1,5.0,0.2,14012.47,auto,0,monitoring
+35,30-50,60396.5,4.9,7.1,0.11,11766.88,small_business,0,monitoring
+45,30-50,29741.2,13.2,11.7,0.393,14756.32,auto,0,monitoring
+45,30-50,37741.8,1.4,1.9,0.574,7506.63,education,0,monitoring
+57,Over 50,35517.37,9.7,12.3,0.077,4294.16,auto,0,monitoring
+36,30-50,19509.77,4.7,6.2,0.309,5047.85,auto,0,monitoring
+53,Over 50,23051.14,15.7,14.7,0.126,6772.02,debt_consolidation,0,monitoring
+24,Under 30,50806.13,4.9,5.4,0.473,13569.07,auto,0,monitoring
+38,30-50,72860.34,8.5,13.0,0.464,5168.09,auto,0,monitoring
+68,Over 50,50112.81,16.6,13.4,0.181,23321.38,auto,0,monitoring
+37,30-50,25957.24,0.0,2.1,0.195,10567.3,small_business,0,monitoring
+37,30-50,66873.55,5.9,3.1,0.118,2661.09,home_improvement,0,monitoring
+43,30-50,34053.76,5.9,10.7,0.162,23463.11,auto,0,monitoring
+59,Over 50,23387.65,11.8,9.4,0.31,9483.91,debt_consolidation,0,monitoring
+51,Over 50,57170.69,12.8,8.8,0.327,14339.48,debt_consolidation,0,monitoring
+66,Over 50,58827.21,24.0,21.4,0.179,6151.83,home_improvement,0,monitoring
+35,30-50,97541.42,4.3,8.3,0.447,4497.34,home_improvement,0,monitoring
+25,Under 30,35931.79,0.0,3.5,0.169,7324.38,auto,0,monitoring
+40,30-50,77400.33,8.3,11.3,0.366,15969.71,home_improvement,0,monitoring
+27,Under 30,39750.91,3.3,5.4,0.138,3259.28,debt_consolidation,0,monitoring
+40,30-50,55253.63,5.8,4.0,0.52,5468.2,auto,0,monitoring
+32,30-50,90273.16,0.5,3.5,0.129,4976.45,debt_consolidation,0,monitoring
+38,30-50,52161.95,4.1,5.1,0.288,11297.33,auto,0,monitoring
+45,30-50,64487.7,7.4,5.4,0.229,14162.93,auto,1,monitoring
+35,30-50,76924.47,9.5,9.5,0.61,6121.92,home_improvement,0,monitoring
+51,Over 50,74816.01,10.7,10.9,0.274,8504.66,home_improvement,0,monitoring
+62,Over 50,33386.36,13.6,12.8,0.405,4153.2,debt_consolidation,0,monitoring
+66,Over 50,88888.83,12.8,12.4,0.463,12514.3,small_business,0,monitoring
+41,30-50,40743.92,9.7,12.4,0.175,3087.87,education,0,monitoring
+48,30-50,32319.21,9.1,13.3,0.563,5465.15,home_improvement,0,monitoring
+42,30-50,44295.18,4.1,2.4,0.5,7007.91,debt_consolidation,0,monitoring
+59,Over 50,100345.22,16.7,13.9,0.25,8027.96,home_improvement,0,monitoring
+35,30-50,32856.35,4.8,6.8,0.348,25400.99,education,0,monitoring
+66,Over 50,64121.66,16.7,13.9,0.377,10791.2,home_improvement,0,monitoring
+67,Over 50,38139.38,17.9,16.3,0.199,6896.42,auto,0,monitoring
+48,30-50,120998.52,11.7,11.2,0.315,16286.74,debt_consolidation,0,monitoring
+62,Over 50,22843.41,14.0,15.7,0.322,15299.74,debt_consolidation,0,monitoring
+38,30-50,23525.35,7.6,8.1,0.473,9290.62,small_business,0,monitoring
+28,Under 30,22176.18,6.4,5.9,0.302,7109.92,home_improvement,0,monitoring
+63,Over 50,39200.05,19.1,15.6,0.295,26644.8,education,0,monitoring
+63,Over 50,51176.53,10.8,8.0,0.418,4277.4,home_improvement,1,monitoring
+49,30-50,23225.76,9.8,8.7,0.286,9882.57,debt_consolidation,1,monitoring
+42,30-50,16962.13,10.9,13.8,0.403,8313.07,home_improvement,0,monitoring
+40,30-50,34020.46,14.2,12.8,0.23,6962.31,debt_consolidation,0,monitoring
+29,Under 30,72750.91,3.5,4.7,0.159,8155.66,debt_consolidation,0,monitoring
+53,Over 50,17975.76,10.9,12.9,0.638,5317.99,auto,0,monitoring
+65,Over 50,28446.78,10.4,8.4,0.338,5917.89,small_business,0,monitoring
+38,30-50,66969.43,7.1,9.1,0.285,7507.9,auto,0,monitoring
+58,Over 50,38891.57,15.4,14.1,0.49,4891.55,auto,0,monitoring
+27,Under 30,44370.51,6.1,6.3,0.818,11844.8,education,0,monitoring
+46,30-50,23004.62,10.4,12.5,0.278,10600.39,home_improvement,1,monitoring
+42,30-50,49119.6,12.6,12.1,0.254,5823.37,education,0,monitoring
+48,30-50,49498.18,11.6,7.5,0.323,5208.58,small_business,1,monitoring
+53,Over 50,63326.02,15.5,19.8,0.437,6988.36,debt_consolidation,0,monitoring
+25,Under 30,62915.94,6.1,9.3,0.301,3842.68,debt_consolidation,0,monitoring
+29,Under 30,41053.06,2.7,4.8,0.207,6483.29,debt_consolidation,1,monitoring
+28,Under 30,57717.53,4.2,1.4,0.322,5956.63,small_business,0,monitoring
+69,Over 50,24333.85,7.9,7.7,0.243,9285.78,education,0,monitoring
+39,30-50,34975.8,6.2,8.9,0.273,12757.67,debt_consolidation,0,monitoring
+30,30-50,59285.02,0.7,1.6,0.323,10238.87,small_business,0,monitoring
+57,Over 50,18713.9,10.0,7.9,0.397,11983.92,education,0,monitoring
+33,30-50,24405.02,2.6,5.9,0.273,5080.07,education,0,monitoring
+58,Over 50,31631.56,15.8,15.7,0.569,10109.56,small_business,0,monitoring
+35,30-50,54943.9,5.5,4.6,0.419,3272.35,auto,0,monitoring
+45,30-50,51931.11,2.5,6.7,0.214,4599.67,debt_consolidation,0,monitoring
+55,Over 50,26342.69,11.0,12.8,0.531,11627.14,debt_consolidation,1,monitoring
+55,Over 50,45877.59,10.1,12.3,0.545,6111.74,home_improvement,0,monitoring
+23,Under 30,75438.3,2.5,0.0,0.517,4863.39,debt_consolidation,0,monitoring
+49,30-50,76309.96,10.1,12.8,0.558,4554.19,auto,0,monitoring
+25,Under 30,19125.98,2.3,1.3,0.282,5784.59,small_business,0,monitoring
+23,Under 30,35110.38,0.0,2.5,0.262,7761.58,debt_consolidation,0,monitoring
+37,30-50,66431.17,0.2,1.4,0.173,16971.22,auto,0,monitoring
+57,Over 50,72522.86,9.6,10.3,0.513,5073.75,auto,0,monitoring
+54,Over 50,36203.61,10.7,11.5,0.288,5409.03,debt_consolidation,0,monitoring
+56,Over 50,37222.41,13.0,13.0,0.498,12036.85,home_improvement,0,monitoring
+42,30-50,62080.83,12.6,14.3,0.188,6778.41,home_improvement,0,monitoring
+38,30-50,89018.4,1.6,3.0,0.371,4119.5,small_business,0,monitoring
+62,Over 50,34793.39,10.6,11.1,0.435,10034.82,debt_consolidation,0,monitoring
+32,30-50,21985.6,10.7,10.8,0.157,2646.01,debt_consolidation,0,monitoring
+38,30-50,36299.92,3.7,1.8,0.301,7731.54,auto,0,monitoring
+68,Over 50,60832.83,19.1,13.0,0.207,5803.41,debt_consolidation,0,monitoring
+45,30-50,14627.09,5.8,9.0,0.636,17300.41,education,1,monitoring
+37,30-50,27481.61,4.1,6.9,0.128,16267.22,small_business,0,monitoring
+64,Over 50,51331.78,13.2,12.6,0.126,6523.46,small_business,0,monitoring
+53,Over 50,29675.68,11.0,9.9,0.142,3969.37,debt_consolidation,0,monitoring
+32,30-50,37815.26,4.0,5.1,0.206,12716.39,auto,0,monitoring
+34,30-50,47691.27,3.9,5.8,0.146,6646.7,auto,0,monitoring
+37,30-50,42587.1,4.9,3.3,0.309,8246.98,small_business,1,monitoring
+52,Over 50,37560.07,7.6,6.0,0.292,8482.54,auto,0,monitoring
+60,Over 50,31925.1,14.8,15.6,0.142,3734.41,debt_consolidation,0,monitoring
+21,Under 30,69429.5,6.5,5.8,0.186,13285.55,auto,0,monitoring
+58,Over 50,75609.21,12.0,11.9,0.1,16481.12,education,0,monitoring
+24,Under 30,74314.04,0.0,1.8,0.372,4410.64,education,0,monitoring
+57,Over 50,71444.18,16.0,15.2,0.193,7099.4,debt_consolidation,0,monitoring
+61,Over 50,70357.0,15.4,16.8,0.294,6055.99,debt_consolidation,0,monitoring
+62,Over 50,30624.04,9.6,8.3,0.263,10737.86,auto,0,monitoring
+67,Over 50,42487.56,15.1,13.1,0.372,5260.89,home_improvement,0,monitoring
+67,Over 50,105199.87,18.3,15.2,0.258,8382.06,home_improvement,0,monitoring
+47,30-50,23646.24,6.5,6.1,0.633,7919.8,home_improvement,1,monitoring
+46,30-50,28415.05,7.3,4.2,0.213,9471.22,small_business,0,monitoring
+31,30-50,40491.58,4.4,6.4,0.213,11556.07,auto,0,monitoring
+64,Over 50,33246.42,13.8,10.4,0.373,6015.68,debt_consolidation,0,monitoring
+43,30-50,74440.66,6.8,9.5,0.205,5832.56,debt_consolidation,0,monitoring
+43,30-50,35627.6,11.6,7.6,0.24,5975.65,small_business,0,monitoring
+26,Under 30,32509.95,0.0,0.0,0.396,9453.41,debt_consolidation,0,monitoring
+38,30-50,27844.85,3.8,5.4,0.286,18224.53,home_improvement,1,monitoring
+21,Under 30,38740.56,0.0,1.0,0.148,5039.23,education,0,monitoring
+27,Under 30,35579.21,4.1,5.9,0.584,11130.82,debt_consolidation,0,monitoring
+65,Over 50,38703.4,13.9,12.6,0.511,18882.35,debt_consolidation,0,monitoring
+55,Over 50,40136.08,14.7,11.5,0.267,5397.39,auto,0,monitoring
+34,30-50,41572.67,6.0,3.8,0.485,3187.96,education,0,monitoring
+54,Over 50,52749.98,11.6,9.8,0.666,10743.13,auto,0,monitoring
+54,Over 50,35757.97,13.6,10.5,0.116,16716.72,debt_consolidation,0,monitoring
+45,30-50,83220.71,2.7,10.1,0.166,5373.69,auto,0,monitoring
+60,Over 50,30264.16,11.0,11.7,0.204,9557.9,education,0,monitoring
+28,Under 30,67215.68,7.3,7.4,0.343,12288.94,debt_consolidation,0,monitoring
+53,Over 50,53453.03,15.9,16.0,0.237,6400.48,auto,0,monitoring
+58,Over 50,43610.85,7.2,8.4,0.387,4572.54,education,0,monitoring
+37,30-50,35626.61,8.5,11.5,0.118,38653.87,education,1,monitoring
+32,30-50,37257.12,0.2,0.1,0.174,2322.0,education,0,monitoring
+36,30-50,45041.72,5.1,7.2,0.155,12237.19,auto,0,monitoring
+41,30-50,94224.71,3.8,6.3,0.397,7856.42,home_improvement,0,monitoring
+25,Under 30,77073.29,1.9,3.6,0.242,5402.34,debt_consolidation,0,monitoring
+37,30-50,26319.5,5.0,3.2,0.316,8773.4,home_improvement,0,monitoring
+56,Over 50,63157.4,15.5,16.7,0.345,5361.86,auto,0,monitoring
+35,30-50,35486.65,6.3,6.2,0.313,8870.16,education,0,monitoring
+62,Over 50,43803.15,12.2,13.7,0.175,11962.12,small_business,0,monitoring
+63,Over 50,73035.31,15.7,12.5,0.421,14310.84,debt_consolidation,0,monitoring
+65,Over 50,37417.98,13.5,11.5,0.324,5759.78,education,0,monitoring
+24,Under 30,52609.06,1.2,2.7,0.358,12220.92,auto,0,monitoring
+41,30-50,61899.7,10.0,8.6,0.152,5817.17,debt_consolidation,0,monitoring
+24,Under 30,36529.1,2.3,1.0,0.389,8316.76,small_business,0,monitoring
+63,Over 50,27572.92,20.8,20.3,0.553,4310.49,home_improvement,0,monitoring
+26,Under 30,48150.29,3.1,6.6,0.212,8131.26,small_business,0,monitoring
+63,Over 50,41182.39,15.4,15.5,0.45,3334.51,education,1,monitoring
+48,30-50,27081.47,14.1,12.5,0.495,7098.16,home_improvement,0,monitoring
+66,Over 50,85273.5,17.5,12.9,0.12,5166.27,auto,0,monitoring
+42,30-50,108169.47,7.6,9.1,0.239,8097.48,small_business,0,monitoring
+65,Over 50,65720.31,15.4,19.3,0.554,4773.54,education,0,monitoring
+58,Over 50,24897.42,6.8,6.6,0.095,11298.22,auto,0,monitoring
+45,30-50,79198.97,6.4,6.9,0.339,17229.51,home_improvement,0,monitoring
+50,30-50,40973.43,14.5,14.9,0.184,14614.15,debt_consolidation,0,monitoring
+48,30-50,31602.5,13.2,15.1,0.268,8036.69,home_improvement,0,monitoring
+46,30-50,27159.05,11.3,9.2,0.273,5025.71,debt_consolidation,0,monitoring
+48,30-50,55446.52,5.4,4.7,0.171,8840.77,small_business,0,monitoring
+46,30-50,72729.2,16.8,13.0,0.39,7128.3,auto,0,monitoring
+39,30-50,38988.77,0.0,3.2,0.381,11039.46,auto,0,monitoring
+32,30-50,93353.79,10.4,9.3,0.447,5191.8,debt_consolidation,0,monitoring
+68,Over 50,22618.88,14.9,11.7,0.256,15706.75,auto,0,monitoring
+38,30-50,23440.42,11.7,14.0,0.366,27917.53,small_business,0,monitoring
+23,Under 30,42093.91,0.0,1.0,0.224,7971.67,education,0,monitoring
+53,Over 50,80187.85,11.3,7.5,0.462,25560.06,debt_consolidation,0,monitoring
+35,30-50,39995.72,8.1,3.0,0.213,8096.87,auto,0,monitoring
+60,Over 50,34605.47,15.8,13.0,0.387,5548.88,education,0,monitoring
+69,Over 50,52593.37,18.1,17.3,0.451,9552.85,home_improvement,0,monitoring
+54,Over 50,55714.74,9.6,7.8,0.285,16439.27,auto,0,monitoring
+22,Under 30,29574.09,0.0,3.3,0.453,19074.3,debt_consolidation,0,monitoring
+45,30-50,28423.93,7.5,6.1,0.529,1967.97,home_improvement,0,monitoring
+30,30-50,37148.5,4.5,6.8,0.255,5044.82,debt_consolidation,0,monitoring
+52,Over 50,60956.56,12.7,11.8,0.332,4666.79,auto,0,monitoring
+57,Over 50,29974.33,13.7,15.0,0.11,3433.69,auto,0,monitoring
+42,30-50,57479.77,10.4,11.0,0.205,5209.72,debt_consolidation,0,monitoring
+35,30-50,52802.17,1.0,3.4,0.097,6988.32,debt_consolidation,0,monitoring
+33,30-50,72715.71,1.1,3.0,0.647,4372.69,small_business,1,monitoring
+30,30-50,39687.89,2.1,1.2,0.251,5319.19,home_improvement,0,monitoring
+65,Over 50,57451.17,14.9,16.0,0.15,5495.25,debt_consolidation,0,monitoring
+53,Over 50,36420.22,7.3,5.7,0.362,15346.84,small_business,1,monitoring
+52,Over 50,28840.38,9.0,9.4,0.257,8116.65,debt_consolidation,0,monitoring
+36,30-50,40115.92,1.6,2.6,0.166,6114.41,education,0,monitoring
+28,Under 30,106687.7,0.0,5.2,0.627,7267.83,education,0,monitoring
+28,Under 30,23229.1,4.6,9.3,0.283,16918.25,auto,0,monitoring
+38,30-50,39416.11,6.0,9.4,0.234,8810.37,auto,0,monitoring
+48,30-50,44324.13,9.4,11.2,0.155,16969.07,debt_consolidation,0,monitoring
+45,30-50,48712.06,10.9,13.8,0.132,13373.61,small_business,0,monitoring
+65,Over 50,74824.65,17.2,17.3,0.164,1918.33,auto,0,monitoring
+62,Over 50,47160.09,15.0,16.8,0.359,4686.53,debt_consolidation,0,monitoring
+67,Over 50,44827.98,6.2,7.2,0.343,4382.16,home_improvement,0,monitoring
+68,Over 50,53339.78,15.2,11.6,0.292,22518.15,debt_consolidation,1,monitoring
+54,Over 50,45839.91,14.8,19.8,0.467,5782.09,debt_consolidation,0,monitoring
+56,Over 50,62749.8,11.1,13.1,0.231,10786.24,auto,0,monitoring
+30,30-50,56479.81,2.4,5.6,0.262,3395.65,debt_consolidation,0,monitoring
+31,30-50,43091.24,6.8,6.5,0.099,8150.58,small_business,0,monitoring
+47,30-50,72487.42,10.6,10.4,0.149,19539.91,auto,0,monitoring
+69,Over 50,113431.71,20.6,19.2,0.582,2736.87,education,0,monitoring
+42,30-50,35937.16,4.6,6.3,0.166,20782.0,debt_consolidation,0,monitoring
+22,Under 30,38008.21,3.5,0.2,0.24,5738.16,debt_consolidation,0,monitoring
+36,30-50,36684.05,6.9,7.0,0.324,8677.73,debt_consolidation,0,monitoring
+31,30-50,21516.65,0.0,0.0,0.498,11881.6,auto,0,monitoring
+23,Under 30,54630.55,2.8,4.3,0.17,4408.74,home_improvement,0,monitoring
+26,Under 30,30168.88,2.9,4.3,0.23,15700.23,small_business,1,monitoring
+38,30-50,37149.99,1.9,0.3,0.332,3613.99,home_improvement,0,monitoring
+66,Over 50,21954.82,12.6,9.2,0.145,5419.42,auto,0,monitoring
+27,Under 30,20690.38,0.0,3.5,0.485,10620.94,auto,0,monitoring
+23,Under 30,20604.98,9.2,10.5,0.462,5387.56,debt_consolidation,0,monitoring
+22,Under 30,41958.67,0.0,0.9,0.469,23916.24,education,0,monitoring
+40,30-50,120622.35,9.7,6.9,0.245,6346.73,small_business,0,monitoring
+68,Over 50,48377.43,16.1,16.5,0.622,4076.86,small_business,0,monitoring
+22,Under 30,40462.42,0.0,2.6,0.358,5164.91,auto,0,monitoring
+69,Over 50,34449.83,15.6,13.0,0.151,8763.07,education,0,monitoring
+54,Over 50,42382.96,10.1,9.6,0.404,5072.87,education,0,monitoring
+28,Under 30,36886.28,0.6,2.3,0.221,5885.62,education,0,monitoring
+35,30-50,72452.09,4.8,4.1,0.196,14495.22,home_improvement,0,monitoring
+45,30-50,60312.02,4.4,1.9,0.135,6816.74,debt_consolidation,0,monitoring
+59,Over 50,59878.25,10.8,14.1,0.152,3564.05,home_improvement,0,monitoring
+56,Over 50,65171.37,10.3,8.7,0.381,7709.1,auto,0,monitoring
+41,30-50,19741.38,10.7,11.6,0.257,8422.91,small_business,0,monitoring
+36,30-50,35331.47,1.0,3.5,0.396,4095.31,education,0,monitoring
+65,Over 50,67337.89,19.2,15.4,0.706,5938.16,small_business,0,monitoring
+40,30-50,36769.96,8.6,10.7,0.106,3102.68,auto,0,monitoring
+38,30-50,26808.94,5.7,8.6,0.409,6397.07,education,0,monitoring
+58,Over 50,37954.61,8.3,10.4,0.176,3082.46,home_improvement,0,monitoring
+28,Under 30,35422.66,0.0,4.2,0.24,7345.79,home_improvement,0,monitoring
+64,Over 50,64700.45,15.6,13.0,0.314,2774.93,auto,0,monitoring
+58,Over 50,54406.27,13.9,13.8,0.256,2873.79,auto,0,monitoring
+51,Over 50,44590.98,8.2,8.9,0.28,4798.36,education,0,monitoring
+27,Under 30,35441.83,0.0,0.4,0.404,7402.81,auto,0,monitoring
+54,Over 50,65821.75,3.9,5.6,0.573,6305.76,small_business,0,monitoring
+45,30-50,42814.51,6.3,5.9,0.15,8063.88,education,0,monitoring
+27,Under 30,39473.47,4.8,5.7,0.379,6203.19,education,0,monitoring
+33,30-50,43262.5,1.6,6.5,0.51,6791.99,small_business,0,monitoring
+46,30-50,32101.55,12.1,12.8,0.192,6611.65,auto,0,monitoring
+25,Under 30,62040.92,3.4,2.4,0.18,7277.13,debt_consolidation,0,monitoring
+37,30-50,63404.7,9.0,8.8,0.228,8649.18,home_improvement,0,monitoring
+30,30-50,27374.4,6.7,6.9,0.148,4507.31,home_improvement,0,monitoring
+44,30-50,67737.39,6.9,10.6,0.168,11133.05,home_improvement,0,monitoring
+36,30-50,53586.12,0.0,2.8,0.13,6504.54,auto,0,monitoring
+32,30-50,48099.54,4.2,6.5,0.242,11607.04,small_business,0,monitoring
+40,30-50,48057.45,4.9,5.4,0.334,3681.39,small_business,0,monitoring
+44,30-50,34374.3,9.7,9.8,0.122,3434.15,debt_consolidation,0,monitoring
+21,Under 30,44344.65,0.0,0.1,0.32,3421.14,auto,0,monitoring
+32,30-50,24930.47,9.9,12.7,0.269,18087.03,small_business,0,monitoring
+29,Under 30,46545.54,0.0,0.0,0.185,22518.29,auto,0,monitoring
+33,30-50,45048.54,6.4,7.9,0.204,2215.08,home_improvement,0,monitoring
+62,Over 50,29582.98,15.3,14.3,0.321,5914.32,small_business,0,monitoring
+55,Over 50,41966.36,12.2,12.4,0.392,8426.37,auto,0,monitoring
+59,Over 50,26464.82,10.1,8.7,0.22,13418.69,auto,0,monitoring
+26,Under 30,47320.21,0.0,4.3,0.341,16117.9,auto,0,monitoring
+48,30-50,47958.6,6.0,5.3,0.222,8546.76,debt_consolidation,0,monitoring
+35,30-50,80399.96,6.4,9.0,0.258,10195.13,auto,0,monitoring
+53,Over 50,63585.07,13.1,12.7,0.283,5293.87,debt_consolidation,0,monitoring
+38,30-50,42657.02,1.5,4.4,0.497,15837.12,debt_consolidation,1,monitoring
+41,30-50,22652.99,7.2,12.9,0.596,7825.22,debt_consolidation,0,monitoring
+28,Under 30,105163.2,3.4,2.6,0.353,15791.52,auto,0,monitoring
+45,30-50,74515.87,6.5,7.2,0.238,6834.56,small_business,0,monitoring
+29,Under 30,38369.85,0.0,1.0,0.117,9495.95,debt_consolidation,0,monitoring
+32,30-50,39231.1,0.5,0.0,0.174,6368.29,education,0,monitoring
+44,30-50,26998.37,7.1,4.9,0.375,10462.3,auto,0,monitoring
+41,30-50,30046.36,0.0,3.1,0.15,10721.69,debt_consolidation,0,monitoring
+44,30-50,26421.0,7.1,6.9,0.574,5821.76,debt_consolidation,0,monitoring
+67,Over 50,27631.68,10.4,9.2,0.709,4310.94,auto,0,monitoring
+22,Under 30,18305.68,3.6,6.1,0.597,8707.23,debt_consolidation,1,monitoring
+36,30-50,60189.33,7.5,6.9,0.423,11735.34,education,0,monitoring
+35,30-50,62491.52,6.0,5.3,0.301,6839.64,small_business,0,monitoring
+30,30-50,84344.42,0.7,0.0,0.306,3332.35,debt_consolidation,0,monitoring
+49,30-50,41202.21,10.7,7.9,0.803,5462.11,small_business,0,monitoring
+67,Over 50,24979.4,17.7,17.1,0.302,9849.75,debt_consolidation,0,monitoring
+63,Over 50,67982.03,22.1,17.0,0.119,9337.07,debt_consolidation,0,monitoring
+57,Over 50,78433.24,13.6,12.3,0.334,5484.97,debt_consolidation,0,monitoring
+48,30-50,23292.07,14.6,15.2,0.408,10046.37,debt_consolidation,0,monitoring
+55,Over 50,20644.18,12.5,13.7,0.157,12084.75,debt_consolidation,0,monitoring
+67,Over 50,22488.29,15.6,14.3,0.187,6716.32,small_business,0,monitoring
+28,Under 30,37591.27,2.5,8.3,0.152,5968.65,debt_consolidation,0,monitoring
+22,Under 30,23538.86,1.3,4.0,0.359,6811.66,debt_consolidation,0,monitoring
+30,30-50,78049.16,1.1,1.9,0.248,7129.43,auto,0,monitoring
+44,30-50,33191.4,6.7,6.8,0.473,20582.97,home_improvement,1,monitoring
+38,30-50,31234.01,8.5,6.7,0.4,9744.34,auto,0,monitoring
+39,30-50,78049.64,9.9,9.6,0.419,6346.08,small_business,1,monitoring
+64,Over 50,28886.87,14.3,9.2,0.279,5430.9,small_business,1,monitoring
+62,Over 50,58911.07,11.9,7.7,0.283,6078.65,auto,0,monitoring
+36,30-50,33284.06,3.2,3.9,0.604,14929.68,home_improvement,0,monitoring
+65,Over 50,37580.96,15.5,13.3,0.515,8352.59,debt_consolidation,0,monitoring
+63,Over 50,17094.61,9.9,9.0,0.316,13923.94,debt_consolidation,1,monitoring
+43,30-50,31846.51,1.5,1.5,0.268,10137.92,education,0,monitoring
+32,30-50,59221.78,6.7,6.8,0.181,6657.68,auto,1,monitoring
+40,30-50,56324.17,5.8,9.9,0.207,6389.85,small_business,0,monitoring
+65,Over 50,43737.55,13.1,11.9,0.58,18749.56,debt_consolidation,0,monitoring
+51,Over 50,59482.03,11.3,10.8,0.451,6622.87,home_improvement,0,monitoring
+33,30-50,76318.2,0.0,0.0,0.448,9511.42,education,0,monitoring
+25,Under 30,33782.09,3.3,3.3,0.678,6006.99,auto,0,monitoring
+51,Over 50,90073.1,8.6,12.1,0.269,19929.94,auto,0,monitoring
+23,Under 30,31338.9,0.0,0.0,0.337,23858.63,small_business,0,monitoring
+48,30-50,19186.03,11.2,9.5,0.158,6581.35,home_improvement,0,monitoring
+64,Over 50,34386.83,15.6,12.4,0.486,16764.89,education,0,monitoring
+64,Over 50,36272.82,16.1,16.7,0.326,3757.7,debt_consolidation,0,monitoring
+56,Over 50,41446.92,11.2,12.2,0.242,13571.71,home_improvement,0,monitoring
+22,Under 30,51523.39,0.0,3.1,0.722,20750.11,education,0,monitoring
+33,30-50,48081.89,2.2,5.6,0.41,6238.21,auto,0,monitoring
+59,Over 50,18966.16,16.2,12.8,0.191,13438.62,debt_consolidation,0,monitoring
+50,30-50,42220.04,8.9,6.9,0.436,7150.99,small_business,0,monitoring
+61,Over 50,22952.92,13.0,14.2,0.284,10568.21,auto,0,monitoring
+23,Under 30,51867.06,3.1,0.7,0.257,15035.7,home_improvement,0,monitoring
+69,Over 50,49251.36,19.6,16.7,0.36,8962.54,auto,0,monitoring
+40,30-50,77540.47,4.3,4.8,0.335,8768.44,debt_consolidation,0,monitoring
+58,Over 50,23520.01,13.6,13.9,0.242,4470.47,home_improvement,0,monitoring
+50,30-50,101782.72,8.8,11.5,0.397,16407.59,debt_consolidation,0,monitoring
+57,Over 50,56277.1,18.2,17.2,0.114,15144.46,education,0,monitoring
+55,Over 50,23865.98,10.4,11.3,0.521,7023.1,home_improvement,0,monitoring
+64,Over 50,43509.28,13.1,12.0,0.133,8977.09,auto,0,monitoring
+49,30-50,58425.51,5.7,3.3,0.431,8807.26,auto,0,monitoring
+21,Under 30,75016.66,0.0,2.1,0.465,12941.99,auto,0,monitoring
+28,Under 30,58916.5,5.9,8.9,0.278,5255.66,small_business,0,monitoring
+67,Over 50,41012.81,15.4,15.4,0.374,6000.9,debt_consolidation,0,monitoring
+66,Over 50,107373.9,17.2,20.4,0.196,4416.99,auto,0,monitoring
+38,30-50,41965.59,0.6,1.0,0.205,6227.89,auto,0,monitoring
+60,Over 50,19994.34,13.8,14.2,0.271,9571.26,home_improvement,0,monitoring
+22,Under 30,33316.47,0.9,1.5,0.645,4334.03,debt_consolidation,0,monitoring
+29,Under 30,69361.12,11.9,15.5,0.357,21132.72,small_business,0,monitoring
+23,Under 30,47815.98,2.2,4.7,0.437,5600.56,home_improvement,0,monitoring
+32,30-50,40280.42,8.1,9.4,0.785,13587.77,debt_consolidation,1,monitoring
+62,Over 50,31798.42,13.2,14.4,0.288,7375.23,home_improvement,0,monitoring
+65,Over 50,47714.44,14.2,15.8,0.303,16387.75,auto,0,monitoring
+34,30-50,38797.3,4.3,8.2,0.394,13983.37,debt_consolidation,0,monitoring
+27,Under 30,25134.02,1.4,2.5,0.206,7402.3,debt_consolidation,0,monitoring
+62,Over 50,31729.59,17.1,14.5,0.667,7339.17,education,0,monitoring
+60,Over 50,43506.0,12.4,11.4,0.329,12517.53,auto,0,monitoring
+67,Over 50,70726.82,18.1,15.5,0.408,7742.1,debt_consolidation,0,monitoring
+65,Over 50,65389.31,16.2,18.5,0.364,6350.24,debt_consolidation,0,monitoring
+33,30-50,60984.1,1.6,2.0,0.442,9481.24,home_improvement,0,monitoring
+49,30-50,52366.87,11.2,9.1,0.185,7740.83,debt_consolidation,0,monitoring
+36,30-50,39121.12,3.3,5.6,0.228,15192.74,debt_consolidation,1,monitoring
+68,Over 50,65512.07,17.4,16.3,0.325,13928.9,debt_consolidation,0,monitoring
+66,Over 50,31787.41,11.6,10.8,0.554,13612.9,debt_consolidation,0,monitoring
+27,Under 30,26738.98,0.0,4.3,0.206,9576.23,home_improvement,1,monitoring
+32,30-50,37603.24,0.0,0.0,0.226,8472.7,auto,0,monitoring
+50,30-50,71816.12,10.8,8.6,0.806,10421.62,debt_consolidation,0,monitoring
+57,Over 50,28607.65,21.0,15.5,0.57,8510.72,home_improvement,0,monitoring
+30,30-50,32771.77,1.4,3.7,0.238,10757.57,small_business,1,monitoring
+50,30-50,78356.13,5.6,8.5,0.372,4812.02,auto,0,monitoring
+50,30-50,51449.97,12.5,10.2,0.624,3858.84,education,0,monitoring
+67,Over 50,58775.12,15.5,14.4,0.316,9779.96,debt_consolidation,1,monitoring
+62,Over 50,38893.32,16.3,12.8,0.309,4648.78,education,1,monitoring
+66,Over 50,99952.79,10.7,9.2,0.503,5409.09,home_improvement,0,monitoring
+22,Under 30,51730.58,2.8,0.4,0.093,6362.99,auto,0,monitoring
+63,Over 50,70004.54,17.8,16.5,0.317,17486.92,debt_consolidation,0,monitoring
+60,Over 50,41471.04,10.2,9.8,0.498,6243.99,debt_consolidation,0,monitoring
+54,Over 50,30431.18,12.6,10.2,0.385,8854.04,auto,0,monitoring
+47,30-50,38128.69,4.0,4.4,0.261,8817.08,small_business,0,monitoring
+25,Under 30,40117.99,6.2,7.6,0.455,8385.0,home_improvement,0,monitoring
+43,30-50,50247.85,3.5,2.2,0.143,5096.36,small_business,0,monitoring
+57,Over 50,22130.44,8.4,8.5,0.269,6344.54,home_improvement,0,monitoring
+23,Under 30,24648.89,0.0,2.2,0.372,3888.88,small_business,0,monitoring
+46,30-50,78538.74,10.4,6.0,0.497,4657.24,home_improvement,0,monitoring
+37,30-50,35985.05,3.1,5.1,0.25,4686.87,debt_consolidation,0,monitoring
+47,30-50,31884.51,12.0,11.1,0.311,8944.84,debt_consolidation,0,monitoring
+59,Over 50,20523.32,17.0,17.6,0.446,3377.55,home_improvement,0,monitoring
+21,Under 30,80678.45,0.0,3.3,0.211,12691.39,home_improvement,0,monitoring
+26,Under 30,53791.6,5.7,8.1,0.274,11673.81,auto,0,monitoring
+21,Under 30,40439.56,0.0,0.5,0.146,4265.07,debt_consolidation,0,monitoring
+22,Under 30,46320.12,4.8,8.0,0.305,8741.19,education,0,monitoring
+51,Over 50,124602.81,14.4,10.6,0.355,3932.94,auto,0,monitoring
+25,Under 30,48522.25,0.0,4.8,0.546,11176.01,auto,0,monitoring
+32,30-50,22838.5,0.0,1.4,0.42,10882.89,small_business,0,monitoring
+44,30-50,37076.72,9.5,4.8,0.243,11545.18,debt_consolidation,0,monitoring
+51,Over 50,58234.37,12.6,12.8,0.21,6736.45,auto,0,monitoring
+51,Over 50,52563.37,8.1,9.2,0.1,10265.17,debt_consolidation,0,monitoring
+62,Over 50,17065.57,11.0,11.6,0.37,7979.32,home_improvement,0,monitoring
+24,Under 30,50764.13,3.1,3.4,0.085,19839.98,auto,0,monitoring
+46,30-50,38739.66,9.5,10.5,0.347,8352.21,auto,0,monitoring
+57,Over 50,33427.93,12.0,12.0,0.477,7367.01,home_improvement,0,monitoring
+26,Under 30,39132.89,0.8,2.6,0.251,2677.21,debt_consolidation,0,monitoring
+58,Over 50,41233.99,11.7,10.9,0.279,11853.15,auto,0,monitoring
+46,30-50,30144.63,6.6,9.3,0.448,5735.9,debt_consolidation,0,monitoring
+27,Under 30,30828.95,0.0,2.5,0.302,11596.79,small_business,1,monitoring
+28,Under 30,61305.66,1.3,1.7,0.168,4906.55,debt_consolidation,1,monitoring
+63,Over 50,40931.12,18.4,15.5,0.28,6218.24,debt_consolidation,0,monitoring
+53,Over 50,52357.32,13.7,14.2,0.486,20170.57,small_business,0,monitoring
+46,30-50,40123.07,12.9,11.8,0.449,7356.0,debt_consolidation,0,monitoring
+41,30-50,14319.73,10.3,9.6,0.161,14656.61,home_improvement,1,monitoring
+21,Under 30,67019.35,0.3,4.2,0.502,3683.44,auto,1,monitoring
+38,30-50,38245.17,4.4,4.0,0.232,5741.41,small_business,0,monitoring
+40,30-50,37081.16,12.2,10.2,0.099,8157.7,debt_consolidation,0,monitoring
+42,30-50,53200.46,13.1,13.1,0.261,6051.78,debt_consolidation,0,monitoring
+53,Over 50,29865.07,15.0,14.0,0.624,26924.11,debt_consolidation,1,monitoring
+30,30-50,41411.2,6.3,6.6,0.392,10789.33,auto,0,monitoring
+46,30-50,38614.59,13.2,14.4,0.112,8727.49,education,0,monitoring
+35,30-50,53274.66,1.9,2.4,0.147,11228.82,education,0,monitoring
+53,Over 50,22785.41,13.5,10.1,0.395,6374.22,debt_consolidation,0,monitoring
+48,30-50,30908.2,9.0,9.0,0.409,7928.03,small_business,1,monitoring
+23,Under 30,70345.53,0.0,1.1,0.313,12382.36,education,0,monitoring
+25,Under 30,192593.44,1.3,5.4,0.128,5189.94,auto,0,monitoring
+62,Over 50,21046.51,12.6,13.4,0.2,9834.7,debt_consolidation,0,monitoring
+26,Under 30,14274.5,0.0,1.8,0.563,13908.13,debt_consolidation,1,monitoring
+56,Over 50,105937.07,10.2,9.1,0.308,10135.98,debt_consolidation,0,monitoring
+36,30-50,36088.65,11.7,12.3,0.414,4020.67,debt_consolidation,0,monitoring
+57,Over 50,37052.72,11.7,10.5,0.657,12808.35,debt_consolidation,0,monitoring
+48,30-50,52021.99,15.1,13.9,0.507,10520.99,auto,0,monitoring
+62,Over 50,65316.42,13.6,13.7,0.221,11778.94,debt_consolidation,0,monitoring
+49,30-50,28269.75,8.4,8.9,0.441,3760.72,auto,0,monitoring
+39,30-50,21846.64,2.6,3.5,0.297,6760.82,auto,0,monitoring
+46,30-50,22137.85,5.9,4.4,0.537,7815.37,education,0,monitoring
+44,30-50,29970.85,7.7,10.4,0.258,13445.71,education,0,monitoring
+43,30-50,28006.71,6.6,8.5,0.195,11331.71,debt_consolidation,0,monitoring
+21,Under 30,34967.76,0.0,0.0,0.29,4947.8,auto,0,monitoring
+35,30-50,38271.97,7.8,8.2,0.634,5946.56,home_improvement,0,monitoring
+29,Under 30,51706.54,6.5,5.3,0.377,10490.84,home_improvement,0,monitoring
+67,Over 50,45521.96,13.8,14.4,0.16,10437.5,home_improvement,0,monitoring
+52,Over 50,25330.32,10.8,9.3,0.614,3431.3,small_business,0,monitoring
+42,30-50,51436.46,12.1,11.8,0.147,9537.44,debt_consolidation,1,monitoring
+49,30-50,24626.41,12.3,11.1,0.386,12083.92,debt_consolidation,0,monitoring
+50,30-50,62439.7,7.6,11.8,0.246,9280.28,debt_consolidation,0,monitoring
+37,30-50,79265.21,3.8,5.8,0.264,6354.03,debt_consolidation,0,monitoring
+26,Under 30,129875.77,0.0,4.2,0.245,7917.03,debt_consolidation,0,monitoring
+42,30-50,66951.47,9.4,9.3,0.359,15102.03,debt_consolidation,0,monitoring
+61,Over 50,84042.05,17.9,16.9,0.164,11067.84,education,0,monitoring
+58,Over 50,64034.13,8.7,10.6,0.254,8225.07,home_improvement,0,monitoring
+54,Over 50,64933.73,18.6,16.0,0.31,4797.82,education,0,monitoring
+57,Over 50,61550.19,9.2,8.5,0.343,4607.96,debt_consolidation,0,monitoring
+38,30-50,31499.07,4.1,9.9,0.201,4776.89,home_improvement,0,monitoring
+46,30-50,32066.24,3.1,3.2,0.164,7126.2,auto,0,monitoring
+45,30-50,22103.09,5.7,3.0,0.529,9200.69,auto,1,monitoring
+50,30-50,32481.27,9.0,8.3,0.167,7383.98,debt_consolidation,0,monitoring
+61,Over 50,57585.0,16.1,13.4,0.406,6644.03,education,0,monitoring
+65,Over 50,131846.3,11.9,12.9,0.115,13241.36,education,0,monitoring
+55,Over 50,60847.08,10.8,9.8,0.193,9460.32,debt_consolidation,0,monitoring
+22,Under 30,54762.88,0.0,0.0,0.324,5184.64,home_improvement,0,monitoring
+34,30-50,47013.02,5.4,1.3,0.373,3155.62,debt_consolidation,0,monitoring
+57,Over 50,77477.91,10.6,13.5,0.116,13474.42,debt_consolidation,0,monitoring
+21,Under 30,43157.56,0.0,2.5,0.196,8587.74,debt_consolidation,0,monitoring
+61,Over 50,36476.93,13.8,14.5,0.281,16424.56,debt_consolidation,0,monitoring
+57,Over 50,38761.45,16.7,15.3,0.157,14818.74,auto,0,monitoring
+66,Over 50,27996.82,12.5,19.1,0.432,7967.31,debt_consolidation,0,monitoring
+56,Over 50,41036.84,13.5,13.4,0.276,16835.99,home_improvement,0,monitoring
+38,30-50,53903.37,0.0,2.2,0.444,2217.3,auto,0,monitoring
+40,30-50,51372.46,8.0,9.2,0.193,6145.39,home_improvement,0,monitoring
+41,30-50,46017.11,9.0,9.2,0.144,4156.49,debt_consolidation,0,monitoring
+57,Over 50,35288.18,11.4,12.0,0.108,5710.02,small_business,0,monitoring
+51,Over 50,42306.13,8.5,10.6,0.295,8720.22,debt_consolidation,0,monitoring
+58,Over 50,52420.16,7.4,5.3,0.589,9783.92,small_business,0,monitoring
+43,30-50,35395.53,9.7,8.7,0.234,15714.59,small_business,1,monitoring
+26,Under 30,28657.61,0.0,0.0,0.08,7674.01,home_improvement,0,monitoring
+67,Over 50,48743.4,20.4,16.9,0.33,14489.29,small_business,0,monitoring
+69,Over 50,69791.89,16.2,14.0,0.489,3921.96,auto,0,monitoring
+33,30-50,47953.21,1.8,5.4,0.733,9223.48,debt_consolidation,0,monitoring
+53,Over 50,78669.1,12.5,16.9,0.434,11975.9,debt_consolidation,0,monitoring
+21,Under 30,41723.63,0.0,1.1,0.235,7299.33,auto,0,monitoring
+55,Over 50,71561.05,8.0,8.7,0.115,8638.49,debt_consolidation,0,monitoring
+53,Over 50,94226.22,7.3,10.8,0.37,7044.38,auto,0,monitoring
+21,Under 30,36955.29,0.0,2.4,0.201,4172.61,home_improvement,0,monitoring
+66,Over 50,36084.64,16.8,16.3,0.242,13906.94,auto,0,monitoring
+51,Over 50,46510.78,9.9,9.1,0.465,8287.87,home_improvement,0,monitoring
+69,Over 50,22273.82,21.3,16.2,0.478,4308.18,debt_consolidation,0,monitoring
+23,Under 30,21195.3,3.4,2.5,0.416,7853.65,auto,0,monitoring
+22,Under 30,72120.13,0.0,0.0,0.135,12420.98,auto,0,monitoring
+40,30-50,42554.73,9.8,9.1,0.557,7887.08,education,0,monitoring
+21,Under 30,76366.88,7.0,5.9,0.465,5716.13,home_improvement,0,monitoring
+51,Over 50,27831.11,3.8,6.5,0.483,5294.33,debt_consolidation,0,monitoring
+39,30-50,22290.75,6.6,8.5,0.567,5046.09,debt_consolidation,0,monitoring
+22,Under 30,65528.45,0.0,2.2,0.553,17210.81,small_business,0,monitoring
+47,30-50,63400.67,11.2,10.3,0.264,3573.09,debt_consolidation,0,monitoring
+68,Over 50,27852.59,14.4,17.3,0.336,9770.03,auto,0,monitoring
+39,30-50,53439.68,4.8,12.6,0.458,8442.86,education,1,monitoring
+43,30-50,63643.7,7.2,8.5,0.276,9189.2,auto,0,monitoring
+22,Under 30,60933.4,6.6,4.2,0.378,5929.59,debt_consolidation,0,monitoring
+46,30-50,41539.25,6.9,5.7,0.235,13741.03,home_improvement,0,monitoring
+53,Over 50,38920.78,8.1,10.5,0.541,16548.21,debt_consolidation,0,monitoring
+32,30-50,25523.11,8.8,9.4,0.437,6043.25,home_improvement,0,monitoring
+41,30-50,53482.75,6.6,7.0,0.511,12698.09,home_improvement,0,monitoring
+36,30-50,53592.34,6.2,6.7,0.403,9212.88,small_business,0,monitoring
+53,Over 50,30461.22,13.7,14.8,0.533,11576.1,auto,0,monitoring
+26,Under 30,49639.69,0.0,0.7,0.338,6520.78,debt_consolidation,1,monitoring
+23,Under 30,29550.45,0.0,4.4,0.199,7730.4,education,0,monitoring
+61,Over 50,36515.79,18.5,17.0,0.176,7468.42,home_improvement,0,monitoring
+52,Over 50,94702.49,6.7,5.4,0.359,8075.64,small_business,0,monitoring
+52,Over 50,31013.08,16.1,18.3,0.214,12296.14,auto,0,monitoring
+54,Over 50,39426.66,13.3,11.5,0.419,7950.56,home_improvement,0,monitoring
+27,Under 30,53471.95,1.0,0.0,0.445,11560.87,debt_consolidation,0,monitoring
+63,Over 50,30243.8,14.6,13.5,0.664,14054.28,auto,0,monitoring
+26,Under 30,62470.47,0.0,5.8,0.638,10327.26,debt_consolidation,0,monitoring
+64,Over 50,22143.69,16.1,13.2,0.262,5656.43,debt_consolidation,0,monitoring
+69,Over 50,36630.67,18.5,15.2,0.333,5452.2,small_business,0,monitoring
+29,Under 30,58111.09,7.4,8.7,0.588,8718.32,small_business,0,monitoring
+69,Over 50,73566.35,17.1,14.2,0.174,9750.25,debt_consolidation,0,monitoring
+37,30-50,85194.59,2.7,5.8,0.293,10212.2,home_improvement,0,monitoring
+53,Over 50,52506.66,7.4,6.2,0.595,7388.12,small_business,0,monitoring
+64,Over 50,51414.43,10.8,9.3,0.278,5464.95,debt_consolidation,0,monitoring
+66,Over 50,74641.66,17.7,15.2,0.224,7977.39,debt_consolidation,0,monitoring
+51,Over 50,52352.09,10.5,11.4,0.213,6351.85,home_improvement,0,monitoring
+66,Over 50,84886.04,9.0,16.0,0.195,5625.25,debt_consolidation,1,monitoring
+26,Under 30,33725.29,0.4,0.9,0.144,3721.12,small_business,0,monitoring
+61,Over 50,26432.38,13.5,11.4,0.435,8258.22,small_business,0,monitoring
+42,30-50,33830.91,6.0,7.4,0.639,22779.84,debt_consolidation,1,monitoring
+51,Over 50,60685.41,15.6,14.0,0.202,11675.89,home_improvement,0,monitoring
+55,Over 50,28488.92,10.0,11.7,0.183,10163.62,debt_consolidation,1,monitoring
+37,30-50,38479.52,8.3,8.6,0.383,7862.96,debt_consolidation,0,monitoring
+43,30-50,46034.77,7.8,6.5,0.215,4443.32,debt_consolidation,0,monitoring
+34,30-50,30214.92,5.3,4.0,0.286,12752.52,small_business,0,monitoring
+60,Over 50,24175.1,14.7,11.9,0.279,2651.11,home_improvement,0,monitoring
+56,Over 50,23768.05,10.6,12.8,0.404,13148.98,education,0,monitoring
+43,30-50,46344.47,10.4,13.5,0.286,2001.43,small_business,0,monitoring
+29,Under 30,32976.26,1.5,3.5,0.449,10825.7,home_improvement,0,monitoring
+55,Over 50,45606.16,9.5,6.4,0.612,6326.25,debt_consolidation,0,monitoring
+46,30-50,32982.03,1.7,0.6,0.129,23313.68,education,0,monitoring
+58,Over 50,47825.91,15.0,13.9,0.305,4883.93,small_business,0,monitoring
+47,30-50,41510.64,4.9,8.8,0.486,4427.13,debt_consolidation,0,monitoring
+40,30-50,57616.8,5.2,2.9,0.194,5264.75,debt_consolidation,1,monitoring
+31,30-50,87196.72,5.6,7.7,0.206,12501.59,small_business,0,monitoring
+33,30-50,28577.35,1.5,3.5,0.32,10864.17,debt_consolidation,0,monitoring
+54,Over 50,25117.97,10.2,15.3,0.198,5481.05,home_improvement,0,monitoring
+37,30-50,61927.23,4.6,6.7,0.202,17653.63,debt_consolidation,0,monitoring
+29,Under 30,50440.2,2.4,0.4,0.706,6896.52,home_improvement,0,monitoring
+42,30-50,108935.02,12.6,9.9,0.204,4209.56,education,0,monitoring
+23,Under 30,23363.36,2.8,5.9,0.26,6885.51,education,1,monitoring
+69,Over 50,23419.28,11.2,12.0,0.597,13212.23,auto,0,monitoring
+47,30-50,70833.46,2.8,2.7,0.322,5530.29,debt_consolidation,0,monitoring
+56,Over 50,42781.57,13.9,15.0,0.322,18166.27,debt_consolidation,0,monitoring
+66,Over 50,47481.67,11.5,11.5,0.343,11208.08,home_improvement,0,monitoring
+62,Over 50,31444.45,13.4,14.4,0.327,8463.3,debt_consolidation,0,monitoring
+32,30-50,33927.7,3.1,4.7,0.12,6420.2,small_business,0,monitoring
+26,Under 30,50917.73,1.2,4.1,0.293,13305.81,education,0,monitoring
+29,Under 30,51146.12,4.9,7.6,0.217,9998.87,home_improvement,0,monitoring
+68,Over 50,45729.06,18.7,19.0,0.634,26094.78,home_improvement,0,monitoring
+24,Under 30,71550.85,0.5,2.1,0.451,10393.28,education,0,monitoring
+27,Under 30,33953.08,0.0,7.5,0.261,3397.69,education,1,monitoring
+45,30-50,47531.74,2.0,0.6,0.456,2415.61,education,0,monitoring
+27,Under 30,54347.17,0.0,3.8,0.381,8827.89,small_business,0,monitoring
+41,30-50,35818.84,11.1,10.9,0.242,7876.27,small_business,0,monitoring
+46,30-50,21783.37,7.2,7.8,0.298,6353.04,education,0,monitoring
+31,30-50,69448.32,0.4,0.8,0.277,2127.58,debt_consolidation,0,monitoring
+46,30-50,110245.01,8.6,12.1,0.302,8399.71,debt_consolidation,0,monitoring
+29,Under 30,145742.59,4.2,4.4,0.221,3921.88,education,0,monitoring
+26,Under 30,51609.73,2.1,5.6,0.281,2616.08,debt_consolidation,0,monitoring
+41,30-50,33258.03,6.8,4.7,0.136,4279.52,auto,0,monitoring
+56,Over 50,60954.11,5.3,6.1,0.654,10418.48,home_improvement,0,monitoring
+61,Over 50,86150.54,13.1,13.9,0.343,6966.19,home_improvement,0,monitoring
+47,30-50,41864.88,11.7,9.1,0.169,6936.53,small_business,0,monitoring
+66,Over 50,50947.01,20.8,19.9,0.25,5791.22,small_business,0,monitoring
+37,30-50,30910.41,0.6,5.9,0.354,5120.83,home_improvement,0,monitoring
+36,30-50,70480.79,0.2,0.0,0.129,17214.88,auto,0,monitoring
+63,Over 50,42783.09,11.9,9.2,0.21,10905.3,home_improvement,0,monitoring
+22,Under 30,26772.4,4.5,5.3,0.286,6894.83,debt_consolidation,0,monitoring
+58,Over 50,61392.97,14.6,14.6,0.106,4117.58,auto,0,monitoring
+41,30-50,48209.65,4.5,2.7,0.49,4764.12,home_improvement,1,monitoring
+66,Over 50,70050.75,14.6,12.1,0.268,5556.29,small_business,0,monitoring
+46,30-50,38912.52,7.3,3.8,0.332,11739.01,debt_consolidation,1,monitoring
+30,30-50,53449.75,0.0,3.4,0.252,16954.93,auto,0,monitoring
+58,Over 50,44049.41,9.1,7.3,0.145,5321.8,home_improvement,1,monitoring
+65,Over 50,32465.83,17.7,16.8,0.341,10871.24,debt_consolidation,0,monitoring
+37,30-50,28468.45,5.5,3.6,0.104,8908.95,auto,0,monitoring
+42,30-50,45668.14,5.8,9.6,0.159,9717.27,education,0,monitoring
+29,Under 30,34859.77,5.0,5.1,0.2,9566.58,auto,0,monitoring
+33,30-50,33759.95,5.0,4.1,0.205,4102.52,debt_consolidation,0,monitoring
+69,Over 50,54984.46,13.2,13.6,0.65,8778.98,debt_consolidation,0,monitoring
+28,Under 30,22460.62,2.4,5.2,0.658,5210.83,debt_consolidation,0,monitoring
+47,30-50,55912.23,8.4,11.4,0.373,11869.42,small_business,0,monitoring
+23,Under 30,34278.16,4.9,5.2,0.175,8376.54,debt_consolidation,0,monitoring
+41,30-50,132350.65,12.1,14.6,0.467,6542.69,debt_consolidation,0,monitoring
+60,Over 50,71023.53,13.5,11.9,0.169,13445.82,debt_consolidation,0,monitoring
+23,Under 30,63668.07,0.0,0.9,0.122,4854.09,auto,0,monitoring
+64,Over 50,44462.11,10.5,7.5,0.236,5030.16,debt_consolidation,0,monitoring
+67,Over 50,29733.44,14.9,11.9,0.466,10489.86,home_improvement,0,monitoring
+41,30-50,41001.47,8.7,5.6,0.161,6288.11,education,0,monitoring
+65,Over 50,50109.28,16.1,11.6,0.104,2697.27,auto,1,monitoring
+64,Over 50,66985.72,16.2,14.7,0.211,5385.57,education,0,monitoring
+63,Over 50,47202.0,8.4,10.8,0.283,9505.85,auto,0,monitoring
+52,Over 50,37375.43,9.0,7.9,0.435,10606.89,home_improvement,0,monitoring
+48,30-50,35803.54,7.3,9.9,0.29,11048.7,home_improvement,0,monitoring
+53,Over 50,44152.84,10.9,12.4,0.425,6416.38,education,0,monitoring
+31,30-50,27891.56,0.7,6.2,0.418,4269.05,small_business,1,monitoring
+42,30-50,38424.84,8.9,10.5,0.388,3104.39,auto,0,monitoring
+23,Under 30,75691.26,0.0,2.3,0.441,6733.69,education,0,monitoring
+58,Over 50,36654.72,9.9,9.6,0.473,11160.9,small_business,0,monitoring
+63,Over 50,56573.16,16.0,16.1,0.337,12770.29,education,0,monitoring
+32,30-50,32000.24,6.0,6.4,0.359,3520.59,debt_consolidation,0,monitoring
+25,Under 30,102299.03,1.0,1.9,0.44,16386.18,auto,0,monitoring
+51,Over 50,36433.3,8.8,9.1,0.147,14088.84,auto,0,monitoring
+46,30-50,39417.66,10.3,7.8,0.372,8551.26,debt_consolidation,0,monitoring
+21,Under 30,33580.2,0.0,0.0,0.449,7251.52,small_business,1,monitoring
+63,Over 50,25598.27,17.9,16.2,0.72,12662.83,small_business,0,monitoring
+38,30-50,98609.25,7.7,8.7,0.243,6034.94,debt_consolidation,0,monitoring
+37,30-50,23527.74,8.7,12.3,0.157,18574.18,home_improvement,0,monitoring
+29,Under 30,89745.59,0.0,3.4,0.155,10914.94,auto,0,monitoring
+39,30-50,36464.04,11.6,10.5,0.566,14623.7,education,0,monitoring
+65,Over 50,43098.57,10.4,11.5,0.584,5469.89,debt_consolidation,0,monitoring
+33,30-50,82682.98,3.1,3.7,0.088,9831.85,debt_consolidation,0,monitoring
+63,Over 50,47803.25,11.2,12.8,0.488,23905.18,home_improvement,0,monitoring
+64,Over 50,21262.59,18.1,13.6,0.314,4219.02,small_business,0,monitoring
+46,30-50,46032.75,12.0,13.7,0.153,7890.92,home_improvement,0,monitoring
+50,30-50,56964.95,6.4,6.6,0.405,17115.37,home_improvement,0,monitoring
+47,30-50,29370.9,13.1,7.8,0.466,10004.42,education,0,monitoring
+35,30-50,30541.31,6.7,6.6,0.291,8600.08,auto,0,monitoring
+69,Over 50,31583.91,18.4,17.0,0.388,6506.77,home_improvement,0,monitoring
+22,Under 30,26166.76,0.0,0.0,0.338,12428.27,education,0,monitoring
+21,Under 30,28242.59,3.1,3.6,0.225,15742.42,debt_consolidation,1,monitoring
+43,30-50,68927.25,9.6,11.8,0.352,13550.68,debt_consolidation,0,monitoring
+42,30-50,32436.47,2.8,6.2,0.241,9697.72,education,0,monitoring
+22,Under 30,96241.46,7.2,7.7,0.478,13452.8,debt_consolidation,0,monitoring
+64,Over 50,45459.65,14.1,17.8,0.143,7019.94,home_improvement,0,monitoring
+63,Over 50,56064.23,15.6,15.6,0.125,10529.22,home_improvement,0,monitoring
+65,Over 50,29749.08,12.9,12.4,0.298,8829.42,debt_consolidation,0,monitoring
+66,Over 50,27636.98,19.3,21.3,0.389,39205.15,education,1,monitoring
+34,30-50,26378.14,7.4,8.9,0.137,17348.9,small_business,0,monitoring
+69,Over 50,34834.2,12.6,14.8,0.426,6921.45,education,0,monitoring
+56,Over 50,74070.49,11.0,9.2,0.158,13881.7,small_business,0,monitoring
+47,30-50,54069.48,8.2,8.4,0.185,6538.24,education,0,monitoring
+52,Over 50,77071.06,12.3,12.7,0.191,15083.82,debt_consolidation,0,monitoring
+48,30-50,45697.82,12.2,10.7,0.109,10922.22,auto,0,monitoring
+50,30-50,30500.83,5.1,6.5,0.374,8268.93,home_improvement,0,monitoring
+57,Over 50,53815.59,13.9,15.5,0.15,8503.39,home_improvement,0,monitoring
+42,30-50,52619.25,9.2,11.8,0.175,11321.15,debt_consolidation,0,monitoring
+64,Over 50,40252.45,13.7,13.1,0.432,14520.83,debt_consolidation,0,monitoring
+32,30-50,43961.58,2.8,9.8,0.131,3729.09,auto,0,monitoring
+25,Under 30,65029.11,8.2,8.9,0.248,3767.3,education,0,monitoring
+56,Over 50,122005.38,7.4,4.4,0.228,4571.9,auto,0,monitoring
+68,Over 50,23086.21,18.7,15.8,0.432,5779.2,education,0,monitoring
+47,30-50,47662.62,11.7,11.7,0.194,5284.03,education,0,monitoring
+53,Over 50,19061.39,13.9,11.1,0.268,11914.17,auto,0,monitoring
+21,Under 30,59402.26,0.0,0.3,0.653,7503.16,debt_consolidation,0,monitoring
+55,Over 50,98898.07,11.2,9.2,0.235,15065.98,small_business,0,monitoring
+53,Over 50,34986.36,12.2,11.6,0.103,10559.6,education,0,monitoring
+47,30-50,50978.74,5.1,2.2,0.428,4821.5,auto,1,monitoring
+29,Under 30,47674.34,0.0,2.4,0.136,5811.47,education,0,monitoring
+63,Over 50,27874.29,15.0,14.4,0.336,3254.81,debt_consolidation,0,monitoring
+39,30-50,35224.3,5.8,5.0,0.608,6238.24,small_business,1,monitoring
+40,30-50,32752.2,4.1,4.7,0.47,7268.0,home_improvement,0,monitoring
+28,Under 30,35854.01,2.4,2.5,0.134,19168.54,auto,0,monitoring
+37,30-50,22674.59,6.6,3.9,0.654,10367.01,home_improvement,0,monitoring
+60,Over 50,53915.51,7.4,9.3,0.619,9615.19,auto,0,monitoring
+22,Under 30,44032.05,1.9,2.3,0.364,6884.4,education,0,monitoring
+34,30-50,62008.63,3.2,5.4,0.262,7951.69,home_improvement,0,monitoring
+67,Over 50,78570.33,22.6,19.6,0.32,8431.75,education,0,monitoring
+34,30-50,58225.19,5.4,5.9,0.394,11643.75,auto,0,monitoring
+26,Under 30,23135.02,1.5,3.8,0.388,7337.28,debt_consolidation,1,monitoring
+28,Under 30,54260.48,4.3,4.4,0.381,6789.46,debt_consolidation,1,monitoring
+67,Over 50,76663.91,18.0,15.3,0.393,12925.07,home_improvement,0,monitoring
+44,30-50,96627.31,7.6,7.8,0.121,7271.55,education,0,monitoring
+49,30-50,58800.7,8.0,9.1,0.776,15387.18,home_improvement,0,monitoring
+30,30-50,44229.75,5.1,4.4,0.336,27349.04,auto,0,monitoring
+22,Under 30,19512.9,0.4,3.3,0.271,16432.26,home_improvement,0,monitoring
+52,Over 50,71000.63,13.1,13.1,0.271,10043.33,debt_consolidation,0,monitoring
+66,Over 50,49801.62,15.6,15.6,0.178,11557.93,debt_consolidation,1,monitoring
+43,30-50,20321.04,8.6,8.7,0.275,2281.55,home_improvement,0,monitoring
+53,Over 50,25173.75,10.9,11.6,0.569,6349.09,home_improvement,0,monitoring
+49,30-50,27367.23,9.2,10.0,0.129,7833.28,home_improvement,0,monitoring
+23,Under 30,53918.68,0.0,4.0,0.315,11637.03,education,0,monitoring
+68,Over 50,26818.62,13.7,17.6,0.362,5302.8,home_improvement,0,monitoring
+50,30-50,45432.78,11.1,13.6,0.471,6789.92,education,0,monitoring
+55,Over 50,49151.62,13.8,13.9,0.278,14903.29,education,0,monitoring
+48,30-50,50474.48,6.8,8.3,0.14,11214.12,auto,0,monitoring
+48,30-50,45462.05,9.9,11.3,0.484,9229.56,education,0,monitoring
+36,30-50,33958.46,9.4,11.2,0.722,7648.55,home_improvement,0,monitoring
+61,Over 50,61866.3,11.1,12.0,0.408,11002.52,home_improvement,0,monitoring
+55,Over 50,28796.08,10.7,9.6,0.111,23393.55,education,0,monitoring
+24,Under 30,37568.19,2.8,6.8,0.183,7811.67,education,0,monitoring
+43,30-50,26347.08,9.8,8.7,0.373,9973.36,debt_consolidation,0,monitoring
+35,30-50,73778.48,5.0,6.2,0.373,17768.47,home_improvement,0,monitoring
+43,30-50,24955.34,5.1,1.4,0.229,7032.9,home_improvement,1,monitoring
+68,Over 50,73129.62,15.1,15.7,0.23,8226.7,auto,0,monitoring
+44,30-50,67945.09,8.0,7.2,0.306,6599.33,home_improvement,0,monitoring
+34,30-50,59921.49,10.0,10.1,0.354,3495.05,home_improvement,0,monitoring
+40,30-50,45158.9,8.6,8.6,0.318,10577.41,auto,0,monitoring
+36,30-50,47148.25,4.9,6.4,0.436,23226.56,debt_consolidation,0,monitoring
+50,30-50,32527.22,12.7,11.7,0.242,5729.34,education,0,monitoring
+28,Under 30,16597.29,0.0,4.2,0.531,10982.65,debt_consolidation,1,monitoring
+34,30-50,59907.02,9.0,12.5,0.167,8589.29,debt_consolidation,0,monitoring
+28,Under 30,65730.07,5.5,3.4,0.253,7788.36,debt_consolidation,0,monitoring
+37,30-50,46697.75,4.5,2.7,0.245,8620.29,debt_consolidation,0,monitoring
+26,Under 30,38262.75,0.0,1.6,0.282,11053.02,debt_consolidation,0,monitoring
+58,Over 50,17713.36,9.5,11.8,0.474,3988.8,debt_consolidation,0,monitoring
+63,Over 50,68037.62,11.9,13.4,0.416,12821.7,auto,0,monitoring
+36,30-50,28254.24,5.5,7.2,0.327,12964.38,education,0,monitoring
+51,Over 50,45453.57,3.0,6.0,0.202,9686.21,auto,0,monitoring
+21,Under 30,32146.36,6.5,7.5,0.202,11549.11,small_business,0,monitoring
+68,Over 50,30524.12,18.7,18.2,0.419,6998.68,home_improvement,0,monitoring
+24,Under 30,75265.49,8.6,5.7,0.378,10585.01,debt_consolidation,0,monitoring
+40,30-50,35803.85,6.5,3.9,0.528,6274.57,small_business,0,monitoring
+46,30-50,48648.3,12.5,12.1,0.122,8362.92,small_business,0,monitoring
+65,Over 50,55442.72,15.9,14.7,0.254,6981.65,auto,0,monitoring
+44,30-50,23248.9,8.0,12.0,0.359,7155.0,small_business,1,monitoring
+43,30-50,33922.85,7.1,10.8,0.181,7463.66,small_business,0,monitoring
+33,30-50,44839.74,1.2,2.1,0.219,7600.39,debt_consolidation,0,monitoring
+32,30-50,36135.02,6.5,4.6,0.437,13580.57,auto,0,monitoring
+24,Under 30,33153.72,2.9,6.0,0.167,3681.51,small_business,0,monitoring
+58,Over 50,26144.36,15.3,13.7,0.154,3933.6,debt_consolidation,0,monitoring
+22,Under 30,36123.88,0.8,3.5,0.376,9181.6,auto,0,monitoring
+47,30-50,35732.57,9.5,9.9,0.09,13284.1,debt_consolidation,0,monitoring
+32,30-50,50636.99,2.6,4.6,0.086,8820.37,small_business,0,monitoring
+67,Over 50,74864.94,20.8,19.3,0.198,7178.68,debt_consolidation,0,monitoring
+68,Over 50,83467.71,15.0,14.5,0.271,22795.05,debt_consolidation,0,monitoring
+44,30-50,186388.66,5.7,4.9,0.309,8576.87,debt_consolidation,0,monitoring
+22,Under 30,85631.48,2.7,4.3,0.392,5307.32,small_business,0,monitoring
+27,Under 30,42470.36,2.2,5.0,0.363,7375.24,home_improvement,0,monitoring
+55,Over 50,80405.46,10.8,11.2,0.343,12219.29,education,0,monitoring
+24,Under 30,90457.39,1.0,3.4,0.214,7965.89,home_improvement,0,monitoring
+47,30-50,59573.16,8.1,11.8,0.462,5305.23,home_improvement,0,monitoring
+26,Under 30,30156.61,3.9,3.9,0.388,12685.87,auto,0,monitoring
+34,30-50,65202.04,1.2,3.7,0.172,9295.98,education,1,monitoring
+51,Over 50,45137.19,9.8,8.1,0.266,13180.39,auto,0,monitoring
+41,30-50,13256.56,7.4,8.2,0.108,7954.8,home_improvement,0,monitoring
+55,Over 50,52352.87,14.9,17.4,0.691,5347.35,debt_consolidation,0,monitoring
+23,Under 30,54782.67,0.0,0.4,0.114,10437.3,small_business,0,monitoring
+64,Over 50,46809.21,15.2,16.3,0.32,12404.66,small_business,0,monitoring
+33,30-50,47340.55,5.8,7.5,0.29,24822.35,debt_consolidation,0,monitoring
+53,Over 50,44973.85,7.1,7.9,0.332,20003.05,small_business,0,monitoring
+54,Over 50,43174.18,11.3,12.5,0.611,11018.85,debt_consolidation,0,monitoring
+47,30-50,106742.57,8.5,8.6,0.213,7747.09,debt_consolidation,0,monitoring
+69,Over 50,20828.56,12.0,13.1,0.237,3068.35,debt_consolidation,0,monitoring
+61,Over 50,48635.42,12.8,12.1,0.267,8858.22,auto,0,monitoring
+54,Over 50,49408.44,11.5,7.1,0.378,7132.46,small_business,0,monitoring
+35,30-50,46064.28,4.4,3.7,0.48,7851.83,home_improvement,0,monitoring
+45,30-50,59286.3,9.4,10.0,0.549,5890.39,education,0,monitoring
+54,Over 50,57308.43,10.7,10.7,0.221,5231.21,home_improvement,0,monitoring
+33,30-50,30627.03,0.0,0.0,0.675,3151.12,auto,0,monitoring
+24,Under 30,29815.18,0.0,0.0,0.42,6706.5,debt_consolidation,0,monitoring
+46,30-50,41057.98,9.1,9.4,0.444,5801.85,debt_consolidation,0,monitoring
+41,30-50,35338.5,6.0,5.7,0.118,12232.19,debt_consolidation,0,monitoring
+22,Under 30,62365.19,0.2,0.0,0.262,6671.32,small_business,0,monitoring
+59,Over 50,31451.23,11.5,11.6,0.095,6519.8,debt_consolidation,0,monitoring
+56,Over 50,36820.51,9.5,10.6,0.192,6910.19,debt_consolidation,0,monitoring
+22,Under 30,42074.51,0.8,7.9,0.433,8812.39,debt_consolidation,0,monitoring
+64,Over 50,43187.38,18.2,15.6,0.45,8739.56,debt_consolidation,0,monitoring
+59,Over 50,58548.04,10.6,7.5,0.352,13744.27,debt_consolidation,0,monitoring
+54,Over 50,22606.6,11.2,12.7,0.421,6042.77,auto,0,monitoring
+57,Over 50,38197.87,13.1,13.4,0.527,25697.38,home_improvement,0,monitoring
+35,30-50,25354.09,6.6,3.8,0.408,5897.7,home_improvement,1,monitoring
+67,Over 50,65881.04,13.3,11.7,0.48,6154.23,education,0,monitoring
+51,Over 50,29788.8,13.9,15.6,0.25,22152.08,debt_consolidation,0,monitoring
+65,Over 50,61865.78,14.0,12.2,0.333,10922.52,auto,0,monitoring
+65,Over 50,42119.97,12.8,14.9,0.449,5075.65,debt_consolidation,0,monitoring
+24,Under 30,64174.59,0.0,3.5,0.685,6474.41,small_business,0,monitoring
+29,Under 30,42556.36,4.4,9.2,0.195,7958.38,education,0,monitoring
+45,30-50,62393.99,10.7,12.8,0.444,7722.69,auto,0,monitoring
+26,Under 30,58664.53,7.9,9.0,0.283,12017.29,debt_consolidation,0,monitoring
+30,30-50,36809.49,6.3,6.5,0.499,5966.55,education,0,monitoring
+40,30-50,41852.18,7.5,7.6,0.107,7588.02,education,0,monitoring
+62,Over 50,41611.8,12.1,13.9,0.272,6760.51,home_improvement,0,monitoring
+33,30-50,79674.14,1.8,4.4,0.259,10206.58,home_improvement,0,monitoring
+68,Over 50,95726.77,18.8,15.3,0.247,13603.6,debt_consolidation,0,monitoring
+26,Under 30,56715.35,0.2,0.8,0.425,9597.05,debt_consolidation,0,monitoring
+37,30-50,47882.53,5.0,2.1,0.357,6097.73,auto,0,monitoring
+34,30-50,31383.26,2.5,4.6,0.278,6901.28,debt_consolidation,0,monitoring
+37,30-50,29166.84,0.4,4.0,0.138,14084.45,small_business,0,monitoring
+39,30-50,44362.73,5.7,6.3,0.355,10701.53,home_improvement,0,monitoring
+57,Over 50,76572.56,11.8,11.6,0.338,4035.94,home_improvement,0,monitoring
+44,30-50,19321.07,7.4,9.1,0.565,4414.89,auto,0,monitoring
+37,30-50,66468.63,3.7,1.8,0.093,3591.54,small_business,0,monitoring
+22,Under 30,62187.14,3.4,3.6,0.225,8649.34,small_business,0,monitoring
+23,Under 30,53812.21,2.2,4.8,0.11,7772.58,debt_consolidation,0,monitoring
+69,Over 50,36663.61,10.7,11.3,0.491,7200.08,home_improvement,0,monitoring
+27,Under 30,35913.7,0.0,1.0,0.401,7172.03,debt_consolidation,1,monitoring
+58,Over 50,32833.41,5.0,4.1,0.266,17327.03,small_business,0,monitoring
+48,30-50,11754.32,12.7,12.1,0.411,6528.27,auto,0,monitoring
+28,Under 30,48082.24,4.6,4.8,0.167,12151.61,debt_consolidation,0,monitoring
+37,30-50,90279.69,4.8,4.1,0.231,13721.49,home_improvement,0,monitoring
+63,Over 50,49936.92,15.1,13.2,0.454,10550.71,home_improvement,0,monitoring
+41,30-50,29086.51,6.7,6.6,0.194,9457.5,home_improvement,0,monitoring
+51,Over 50,43287.66,5.9,5.3,0.539,3409.58,home_improvement,0,monitoring
+64,Over 50,85868.55,16.9,15.0,0.297,7209.77,auto,0,monitoring
+63,Over 50,26310.75,17.4,14.5,0.297,8709.37,education,0,monitoring
+23,Under 30,30014.7,1.2,1.7,0.213,10302.87,auto,0,monitoring
+50,30-50,51378.08,11.9,13.2,0.458,8314.31,debt_consolidation,0,monitoring
+30,30-50,59573.43,4.6,5.2,0.367,16362.17,education,1,monitoring
+48,30-50,46444.79,14.2,11.9,0.203,5247.06,auto,0,monitoring
+57,Over 50,23210.28,8.1,5.8,0.64,6677.25,home_improvement,0,monitoring
+25,Under 30,33568.2,0.0,2.2,0.629,7293.71,debt_consolidation,0,monitoring
+57,Over 50,31106.33,13.9,14.8,0.271,16675.85,debt_consolidation,0,monitoring
+40,30-50,24433.6,10.4,8.4,0.254,7139.73,auto,0,monitoring
+53,Over 50,20440.55,7.7,7.5,0.187,14414.82,small_business,0,monitoring
+68,Over 50,34669.55,18.3,17.8,0.372,17504.37,home_improvement,0,monitoring
+53,Over 50,29396.22,13.6,14.0,0.269,15227.66,debt_consolidation,0,monitoring
+52,Over 50,33027.87,5.5,5.4,0.129,11513.58,debt_consolidation,0,monitoring
+28,Under 30,22111.54,0.7,0.0,0.305,7197.18,education,0,monitoring
+22,Under 30,45144.82,0.0,0.0,0.279,8281.54,home_improvement,0,monitoring
+67,Over 50,43635.82,16.7,16.4,0.306,10590.64,small_business,0,monitoring
+28,Under 30,26463.52,2.7,3.2,0.197,5368.57,auto,0,monitoring
+55,Over 50,34824.28,16.3,15.3,0.15,14377.04,home_improvement,0,monitoring
+44,30-50,33142.66,6.0,10.0,0.181,9020.65,debt_consolidation,0,monitoring
+23,Under 30,79138.5,3.4,7.8,0.67,17195.43,small_business,1,monitoring
+66,Over 50,49881.81,18.2,15.5,0.112,5787.21,small_business,0,monitoring
+69,Over 50,61609.38,15.4,13.1,0.341,4362.23,education,0,monitoring
+31,30-50,65940.18,7.5,9.6,0.161,4300.92,debt_consolidation,0,monitoring
+42,30-50,66975.24,7.7,10.4,0.318,8271.46,auto,0,monitoring
+60,Over 50,52193.9,11.3,9.2,0.327,13724.73,debt_consolidation,0,monitoring
+50,30-50,13681.28,12.3,11.8,0.231,1880.69,debt_consolidation,0,monitoring
+47,30-50,43396.05,4.9,8.1,0.245,6112.51,small_business,0,monitoring
+37,30-50,49254.08,6.4,9.3,0.412,13823.75,debt_consolidation,0,monitoring
+44,30-50,28863.3,4.1,6.6,0.17,16143.58,small_business,0,monitoring
+26,Under 30,65892.74,3.7,6.7,0.306,5807.24,small_business,0,monitoring
+56,Over 50,39077.41,11.6,9.9,0.188,9339.7,auto,0,monitoring
+30,30-50,36691.8,0.3,3.9,0.095,10409.66,debt_consolidation,0,monitoring
+32,30-50,114554.08,1.6,6.4,0.338,4503.75,auto,0,monitoring
+48,30-50,37698.6,12.5,13.9,0.168,10747.73,debt_consolidation,1,monitoring
+55,Over 50,57280.36,5.9,7.3,0.318,2447.11,education,0,monitoring
+54,Over 50,119244.61,16.5,12.2,0.51,12559.86,debt_consolidation,0,monitoring
+29,Under 30,66249.67,0.6,3.5,0.621,19902.1,home_improvement,0,monitoring
+58,Over 50,29538.73,11.8,11.9,0.546,12058.51,debt_consolidation,0,monitoring
+27,Under 30,20733.82,5.5,6.2,0.284,11685.94,auto,0,monitoring
+42,30-50,19773.07,10.4,10.0,0.256,11521.85,home_improvement,0,monitoring
+22,Under 30,52816.98,0.0,6.4,0.293,5803.71,small_business,0,monitoring
+58,Over 50,53028.18,13.0,8.3,0.323,7439.17,home_improvement,0,monitoring
+55,Over 50,36171.43,13.5,12.4,0.173,11314.7,auto,0,monitoring
+40,30-50,47608.01,7.4,10.8,0.282,9556.51,home_improvement,0,monitoring
+64,Over 50,40330.51,11.7,10.4,0.128,9102.83,education,0,monitoring
+29,Under 30,41463.41,2.8,3.4,0.281,5789.12,auto,0,monitoring
+21,Under 30,81861.05,0.0,6.1,0.111,10785.8,debt_consolidation,0,monitoring
+42,30-50,32813.05,4.6,5.2,0.246,3985.03,education,0,monitoring
+30,30-50,26840.98,4.4,8.0,0.148,15460.33,home_improvement,0,monitoring
+62,Over 50,49440.25,10.4,9.3,0.087,5207.33,debt_consolidation,0,monitoring
+34,30-50,108219.16,2.5,4.9,0.321,17561.0,debt_consolidation,0,monitoring
+34,30-50,29753.61,8.6,10.4,0.606,6546.82,auto,0,monitoring
+21,Under 30,39934.74,1.7,1.1,0.153,12229.83,education,0,monitoring
+22,Under 30,35426.89,0.0,3.6,0.435,8403.8,small_business,0,monitoring
+23,Under 30,52629.91,0.4,2.9,0.164,15305.73,home_improvement,0,monitoring
+54,Over 50,40786.85,13.1,14.6,0.186,5045.39,debt_consolidation,0,monitoring
+48,30-50,50498.17,13.3,12.9,0.628,16762.74,auto,0,monitoring
+69,Over 50,29597.98,14.0,13.6,0.263,9874.35,auto,0,monitoring
+62,Over 50,40382.22,13.6,15.3,0.432,8209.09,small_business,0,monitoring
+68,Over 50,20324.82,16.9,16.2,0.257,9844.02,auto,0,monitoring
+45,30-50,16888.96,10.8,8.7,0.384,9214.45,debt_consolidation,0,monitoring
+66,Over 50,36363.66,14.8,12.1,0.342,15792.31,debt_consolidation,0,monitoring
+39,30-50,47910.02,10.3,8.2,0.235,15398.22,auto,0,monitoring
+22,Under 30,30752.81,0.3,3.5,0.553,10351.49,debt_consolidation,1,monitoring
+39,30-50,76027.97,4.7,8.8,0.409,12836.38,home_improvement,0,monitoring
+26,Under 30,38847.23,6.3,7.2,0.305,7591.38,debt_consolidation,0,monitoring
+62,Over 50,34293.79,22.3,20.6,0.365,11254.53,home_improvement,0,monitoring
+55,Over 50,55313.86,6.2,5.7,0.254,21836.86,home_improvement,0,monitoring
+54,Over 50,47505.96,15.8,10.9,0.484,10149.45,home_improvement,0,monitoring
+67,Over 50,27323.1,16.3,18.1,0.218,10184.7,small_business,0,monitoring
+55,Over 50,25527.58,14.2,16.6,0.227,6953.61,debt_consolidation,0,monitoring
+36,30-50,177441.63,7.8,5.7,0.177,3412.02,home_improvement,0,monitoring
+23,Under 30,70989.01,0.9,2.9,0.365,6346.74,education,0,monitoring
+32,30-50,37430.52,11.7,12.6,0.437,10856.92,education,1,monitoring
+50,30-50,59760.3,10.1,9.4,0.32,6595.23,debt_consolidation,0,monitoring
+43,30-50,48531.64,8.5,8.6,0.091,9036.03,home_improvement,0,monitoring
+27,Under 30,98517.38,3.6,5.7,0.09,11319.17,debt_consolidation,0,monitoring
+66,Over 50,47713.37,23.0,19.4,0.389,3329.43,education,0,monitoring
+49,30-50,50835.31,11.6,12.5,0.425,7007.01,small_business,0,monitoring
+64,Over 50,102687.64,15.8,14.2,0.251,9875.42,small_business,0,monitoring
+56,Over 50,23378.61,7.5,9.8,0.315,12829.99,education,0,monitoring
+45,30-50,76831.09,8.5,4.9,0.464,14561.49,home_improvement,0,monitoring
+67,Over 50,21386.09,19.2,16.3,0.303,10391.48,debt_consolidation,0,monitoring
+36,30-50,70780.12,7.6,10.1,0.523,11025.81,auto,0,monitoring
+55,Over 50,18949.12,14.2,13.4,0.475,9433.54,debt_consolidation,0,monitoring
+48,30-50,36915.16,2.2,3.2,0.262,10650.18,education,0,monitoring
+27,Under 30,40819.93,3.5,2.2,0.355,9500.36,home_improvement,0,monitoring
+45,30-50,50031.0,4.9,8.4,0.499,52385.95,debt_consolidation,0,monitoring
+28,Under 30,45372.86,0.1,3.7,0.233,8236.78,debt_consolidation,0,monitoring
+56,Over 50,36979.49,11.7,12.8,0.481,6606.17,debt_consolidation,0,monitoring
+66,Over 50,16998.23,16.4,10.9,0.33,11351.56,debt_consolidation,0,monitoring
+41,30-50,85282.23,6.5,7.7,0.237,5538.36,debt_consolidation,0,monitoring
+59,Over 50,37790.34,14.6,11.1,0.23,11074.17,auto,0,monitoring
+53,Over 50,45427.99,12.5,11.6,0.314,5871.05,auto,0,monitoring
+54,Over 50,27034.8,12.3,13.7,0.392,3286.01,debt_consolidation,1,monitoring
+24,Under 30,63641.09,0.0,0.8,0.522,5996.51,home_improvement,0,monitoring
+54,Over 50,24143.67,13.2,10.4,0.398,12468.81,debt_consolidation,0,monitoring
+24,Under 30,39070.72,5.9,7.5,0.162,8453.0,auto,0,monitoring
+48,30-50,27680.08,9.4,6.0,0.183,10807.49,auto,0,monitoring
+53,Over 50,52308.94,8.4,8.7,0.145,6304.87,home_improvement,0,monitoring
+34,30-50,39991.32,4.2,6.0,0.368,9175.31,auto,0,monitoring
+24,Under 30,55018.79,2.3,4.3,0.346,4665.54,education,0,monitoring
+61,Over 50,39860.51,19.1,18.2,0.497,3961.84,debt_consolidation,0,monitoring
+33,30-50,25906.39,0.0,0.0,0.149,7529.85,auto,0,monitoring
+65,Over 50,89002.08,13.3,10.9,0.173,6126.79,small_business,0,monitoring
+65,Over 50,40623.72,13.6,14.9,0.188,15321.21,small_business,0,monitoring
+52,Over 50,50490.95,10.6,12.0,0.291,9530.04,auto,0,monitoring
+57,Over 50,42067.87,9.8,9.4,0.206,9103.3,home_improvement,1,monitoring
+54,Over 50,27013.81,9.5,8.7,0.608,5368.0,debt_consolidation,0,monitoring
+58,Over 50,64981.19,15.0,15.4,0.481,9151.04,home_improvement,0,monitoring
+66,Over 50,32123.79,12.9,11.2,0.217,21697.63,home_improvement,0,monitoring
+28,Under 30,58246.45,2.5,4.8,0.145,11849.69,auto,0,monitoring
+32,30-50,46055.13,6.0,4.2,0.089,12922.7,debt_consolidation,0,monitoring
+52,Over 50,50077.89,11.2,9.3,0.271,7184.23,debt_consolidation,1,monitoring
+59,Over 50,31056.77,19.5,19.9,0.344,8335.24,auto,0,monitoring
+47,30-50,16090.43,8.6,9.8,0.313,9368.95,debt_consolidation,0,monitoring
+22,Under 30,48624.65,3.6,3.7,0.145,5036.09,debt_consolidation,0,monitoring
+25,Under 30,38487.81,1.8,1.7,0.81,7854.92,small_business,0,monitoring
+54,Over 50,26824.07,14.0,14.1,0.256,6586.73,home_improvement,0,monitoring
+56,Over 50,36681.67,12.9,11.3,0.356,6178.39,debt_consolidation,0,monitoring
+37,30-50,97977.43,7.3,6.1,0.114,9554.88,auto,0,monitoring
+65,Over 50,56886.24,11.4,10.5,0.336,6387.61,education,0,monitoring
+46,30-50,53503.62,6.0,3.8,0.351,5522.23,debt_consolidation,0,monitoring
+30,30-50,48720.01,3.6,5.5,0.107,9925.82,education,1,monitoring
+65,Over 50,39397.77,17.9,16.7,0.195,10477.36,auto,0,monitoring
+45,30-50,37003.95,9.2,11.7,0.114,10076.21,debt_consolidation,0,monitoring
+27,Under 30,43339.17,6.4,7.0,0.389,8664.0,debt_consolidation,1,monitoring
+67,Over 50,23680.33,15.2,10.3,0.287,6371.32,debt_consolidation,0,monitoring
+60,Over 50,50278.86,11.6,10.7,0.48,5053.44,auto,0,monitoring
+29,Under 30,43109.28,4.3,3.0,0.394,9165.72,auto,0,monitoring
+51,Over 50,41556.85,13.4,11.8,0.461,5039.31,debt_consolidation,0,monitoring
+52,Over 50,30501.13,9.7,10.8,0.136,9602.61,debt_consolidation,0,monitoring
+40,30-50,72731.04,5.8,5.1,0.124,4760.52,education,0,monitoring
+66,Over 50,68641.04,14.4,10.4,0.219,4476.62,home_improvement,0,monitoring
+61,Over 50,65894.43,14.4,13.2,0.433,12943.01,auto,0,monitoring
+41,30-50,48909.23,6.1,6.5,0.398,14293.11,debt_consolidation,0,monitoring
+38,30-50,36256.01,6.3,7.5,0.607,3924.3,education,0,monitoring
+69,Over 50,33854.02,15.1,14.4,0.176,7598.83,debt_consolidation,0,monitoring
+54,Over 50,58194.87,13.6,12.2,0.082,5980.93,home_improvement,0,monitoring
+66,Over 50,74921.0,18.2,15.6,0.804,6387.66,debt_consolidation,0,monitoring
+38,30-50,39262.02,7.0,7.0,0.332,9185.91,debt_consolidation,0,monitoring
+47,30-50,24124.11,6.8,7.2,0.253,9846.24,auto,0,monitoring
+64,Over 50,52939.94,11.4,14.1,0.562,6528.26,debt_consolidation,0,monitoring
+26,Under 30,49458.45,1.2,4.2,0.36,13477.46,small_business,1,monitoring
+26,Under 30,45229.22,3.3,3.3,0.295,10001.26,small_business,0,monitoring
+28,Under 30,22298.37,2.0,2.7,0.199,4484.91,home_improvement,0,monitoring
+63,Over 50,41365.94,10.1,8.2,0.781,9078.49,auto,0,monitoring
+62,Over 50,71620.01,13.2,10.7,0.245,10680.32,auto,0,monitoring
+41,30-50,35572.31,5.0,3.5,0.332,6830.4,debt_consolidation,0,monitoring
+38,30-50,37384.3,9.7,11.4,0.128,5060.32,auto,0,monitoring
+23,Under 30,38243.57,6.4,7.1,0.246,5764.99,debt_consolidation,0,monitoring
+24,Under 30,44579.42,0.0,0.0,0.138,6435.74,auto,0,monitoring
+21,Under 30,27805.29,1.0,4.2,0.711,7879.28,debt_consolidation,1,monitoring
+60,Over 50,30917.2,16.1,12.3,0.217,7606.08,home_improvement,0,monitoring
+58,Over 50,41238.36,6.2,8.0,0.394,4031.28,home_improvement,0,monitoring
+22,Under 30,71127.83,3.9,7.5,0.183,9991.84,small_business,0,monitoring
+55,Over 50,75125.73,10.9,9.9,0.329,6320.18,auto,0,monitoring
+26,Under 30,38574.27,3.0,2.6,0.245,6110.57,debt_consolidation,0,monitoring
+30,30-50,23456.75,0.0,1.9,0.375,5145.26,home_improvement,0,monitoring
+48,30-50,23640.79,6.9,9.4,0.566,7743.38,debt_consolidation,0,monitoring
+42,30-50,37370.29,7.7,8.1,0.453,10937.31,auto,0,monitoring
+48,30-50,19859.45,10.6,13.9,0.103,15804.86,debt_consolidation,0,monitoring
+25,Under 30,53024.17,0.0,0.0,0.134,16554.72,small_business,0,monitoring
+57,Over 50,60207.19,10.1,7.9,0.276,10723.22,small_business,0,monitoring
+54,Over 50,53749.38,11.6,11.5,0.2,6944.55,auto,0,monitoring
+55,Over 50,36361.42,13.1,10.9,0.36,11007.3,home_improvement,1,monitoring
+52,Over 50,37106.74,13.6,10.6,0.211,3841.34,home_improvement,0,monitoring
+39,30-50,79370.43,5.7,7.5,0.503,7727.12,debt_consolidation,0,monitoring
+44,30-50,68010.72,8.9,8.9,0.314,11751.8,debt_consolidation,0,monitoring
+28,Under 30,45491.78,1.4,2.4,0.191,8553.96,debt_consolidation,0,monitoring
+64,Over 50,47356.28,13.1,13.9,0.226,21010.07,education,1,monitoring
+58,Over 50,38198.43,13.2,13.3,0.612,12848.51,debt_consolidation,0,monitoring
+36,30-50,37486.12,0.0,1.7,0.214,25613.97,education,0,monitoring
+66,Over 50,19772.6,15.9,12.8,0.305,7561.16,education,0,monitoring
+27,Under 30,25818.85,3.4,4.2,0.448,9741.75,small_business,0,monitoring
+66,Over 50,55224.58,18.4,16.0,0.486,6697.22,debt_consolidation,0,monitoring
+44,30-50,20056.86,8.6,10.7,0.526,2533.7,auto,0,monitoring
+23,Under 30,69526.26,4.2,6.3,0.139,3570.75,education,0,monitoring
+28,Under 30,136367.77,0.0,4.2,0.262,7245.62,home_improvement,0,monitoring
+56,Over 50,56349.37,14.4,14.3,0.407,5088.71,small_business,0,monitoring
+49,30-50,47880.39,13.0,13.5,0.259,4604.99,debt_consolidation,0,monitoring
+39,30-50,66486.71,6.6,10.4,0.293,4408.26,education,0,monitoring
+53,Over 50,24418.0,8.5,12.4,0.346,6590.24,home_improvement,0,monitoring
+52,Over 50,80022.92,7.3,3.3,0.249,11890.01,home_improvement,1,monitoring
+41,30-50,32968.85,2.4,0.4,0.196,9640.5,auto,0,monitoring
+66,Over 50,43984.98,11.3,13.8,0.528,9065.73,debt_consolidation,0,monitoring
+42,30-50,34719.13,11.6,11.8,0.429,7291.07,debt_consolidation,0,monitoring
+46,30-50,31152.95,9.8,13.6,0.166,9792.82,home_improvement,0,monitoring
+69,Over 50,20851.81,17.8,16.9,0.33,14892.9,education,0,monitoring
+65,Over 50,35312.17,12.1,13.1,0.39,4705.03,education,0,monitoring
+63,Over 50,45005.75,15.5,16.6,0.612,13330.65,auto,0,monitoring
+56,Over 50,30416.66,14.0,14.3,0.099,10380.0,debt_consolidation,0,monitoring
+69,Over 50,32173.49,13.0,14.5,0.383,7161.56,debt_consolidation,0,monitoring
+55,Over 50,49082.41,14.3,13.6,0.295,4874.61,home_improvement,0,monitoring
+40,30-50,23114.4,11.3,11.0,0.082,14968.68,home_improvement,0,monitoring
+53,Over 50,37442.47,9.2,10.8,0.172,11343.21,debt_consolidation,0,monitoring
+67,Over 50,77725.99,16.9,15.9,0.311,17004.81,education,0,monitoring
+65,Over 50,29868.85,15.6,13.5,0.172,7571.63,debt_consolidation,0,monitoring
+45,30-50,96697.5,9.6,7.9,0.307,5025.96,small_business,0,monitoring
+21,Under 30,22852.0,0.0,3.5,0.604,9858.9,auto,0,monitoring
+66,Over 50,17015.39,18.5,21.1,0.557,7738.59,auto,0,monitoring
+44,30-50,53334.6,7.8,10.5,0.382,8687.33,small_business,0,monitoring
+23,Under 30,48940.94,1.5,5.0,0.234,10545.83,auto,0,monitoring
+54,Over 50,98124.01,9.7,8.4,0.391,6198.42,debt_consolidation,0,monitoring
+33,30-50,18930.17,1.8,1.2,0.437,10055.46,home_improvement,0,monitoring
+29,Under 30,38430.44,2.0,4.9,0.175,5929.54,education,0,monitoring
+44,30-50,38921.2,5.1,7.5,0.281,14680.37,debt_consolidation,0,monitoring
+24,Under 30,90550.67,1.1,0.5,0.269,10649.99,debt_consolidation,0,monitoring
+39,30-50,67068.29,1.8,1.8,0.143,11200.06,education,0,monitoring
+60,Over 50,33440.66,19.1,16.5,0.592,5557.55,auto,0,monitoring
+40,30-50,93865.69,10.1,8.8,0.21,4880.54,debt_consolidation,0,monitoring
+65,Over 50,31630.17,18.1,19.8,0.174,21343.84,debt_consolidation,0,monitoring
+59,Over 50,53766.26,11.5,12.2,0.536,5503.93,home_improvement,0,monitoring
+30,30-50,41805.66,0.0,2.3,0.329,9280.28,debt_consolidation,0,monitoring
+47,30-50,33979.9,5.4,3.5,0.226,3783.64,debt_consolidation,0,monitoring
+60,Over 50,38004.07,12.0,14.7,0.212,5143.51,debt_consolidation,0,monitoring
+34,30-50,39472.44,0.0,1.4,0.42,16033.48,debt_consolidation,1,monitoring
+62,Over 50,28281.28,12.1,10.2,0.51,5686.08,education,0,monitoring
+22,Under 30,34987.51,0.0,0.0,0.161,7402.22,education,0,monitoring
+44,30-50,82214.14,8.2,10.5,0.107,14445.42,debt_consolidation,1,monitoring
+28,Under 30,31987.88,3.5,4.2,0.295,9699.02,education,0,monitoring
+48,30-50,45994.72,8.1,8.8,0.196,11177.08,education,0,monitoring
+32,30-50,67410.5,4.5,3.9,0.131,12498.74,debt_consolidation,0,monitoring
+24,Under 30,37098.04,1.9,3.1,0.227,22904.07,debt_consolidation,0,monitoring
+46,30-50,62968.8,14.2,14.2,0.242,4463.53,debt_consolidation,0,monitoring
+33,30-50,64985.73,2.4,4.5,0.429,6321.8,debt_consolidation,0,monitoring
+58,Over 50,38696.16,14.1,11.1,0.577,9071.15,auto,1,monitoring
+69,Over 50,70383.96,20.2,19.7,0.086,4728.12,auto,0,monitoring
+61,Over 50,68456.2,11.9,10.3,0.475,6881.36,debt_consolidation,0,monitoring
+36,30-50,57095.9,4.1,3.0,0.437,10572.42,education,0,monitoring
+52,Over 50,66506.87,18.8,18.4,0.221,7536.86,home_improvement,0,monitoring
+28,Under 30,39581.65,1.9,4.2,0.197,17012.62,debt_consolidation,0,monitoring
+46,30-50,69194.57,7.9,12.1,0.154,5045.0,auto,0,monitoring
+29,Under 30,103479.52,0.0,3.1,0.377,4796.75,auto,0,monitoring
+47,30-50,37377.08,12.7,11.3,0.337,23112.4,home_improvement,0,monitoring
+24,Under 30,58974.4,0.0,3.7,0.271,9229.76,debt_consolidation,0,monitoring
+24,Under 30,48282.32,0.0,0.4,0.345,6001.68,debt_consolidation,0,monitoring
+55,Over 50,22264.77,10.8,10.4,0.441,17712.83,debt_consolidation,1,monitoring
+50,30-50,85557.44,10.5,9.0,0.355,6893.58,debt_consolidation,0,monitoring
+23,Under 30,28641.03,0.0,1.4,0.261,12173.05,debt_consolidation,1,monitoring
+58,Over 50,118082.77,12.0,13.6,0.099,14988.35,education,0,monitoring
+47,30-50,19390.29,6.0,5.3,0.386,6359.52,auto,0,monitoring
+26,Under 30,45740.2,2.6,4.0,0.38,7300.25,debt_consolidation,0,monitoring
+49,30-50,79918.11,6.0,9.6,0.196,7319.86,auto,0,monitoring
+29,Under 30,54431.6,3.4,4.8,0.099,9057.81,debt_consolidation,0,monitoring
+52,Over 50,44072.68,13.0,11.2,0.172,4476.22,debt_consolidation,0,monitoring
+65,Over 50,62466.06,10.2,9.9,0.287,6423.56,home_improvement,0,monitoring
+59,Over 50,58491.51,12.0,9.6,0.271,6690.13,auto,0,monitoring
+22,Under 30,23926.24,4.3,5.7,0.182,6586.49,education,1,monitoring
+31,30-50,11981.61,7.2,4.5,0.345,14276.87,home_improvement,1,monitoring
+39,30-50,51969.07,1.6,3.8,0.247,9034.33,auto,0,monitoring
+36,30-50,40089.93,5.6,7.1,0.473,9852.42,home_improvement,1,monitoring
+26,Under 30,40567.02,0.0,1.0,0.731,8190.24,home_improvement,0,monitoring
+54,Over 50,58435.45,15.4,12.8,0.485,11240.03,debt_consolidation,0,monitoring
+66,Over 50,87443.79,18.9,16.2,0.343,16453.94,education,0,monitoring
+50,30-50,62605.0,7.0,8.0,0.369,5675.31,home_improvement,0,monitoring
+38,30-50,25318.45,11.1,8.4,0.254,7245.76,small_business,0,monitoring
+36,30-50,46577.33,5.1,7.3,0.137,3522.51,debt_consolidation,0,monitoring
+23,Under 30,51941.98,0.0,2.6,0.166,8088.0,home_improvement,0,monitoring
+26,Under 30,42659.38,3.2,5.8,0.357,9988.67,auto,0,monitoring
+24,Under 30,26350.98,4.3,6.1,0.214,10226.43,debt_consolidation,1,monitoring
+69,Over 50,63877.71,16.7,16.6,0.305,10290.49,debt_consolidation,1,monitoring
+51,Over 50,33200.51,18.4,17.6,0.502,11291.48,debt_consolidation,0,monitoring
+28,Under 30,35619.97,0.0,0.7,0.636,10212.25,debt_consolidation,0,monitoring
+49,30-50,51793.8,11.3,9.2,0.167,9692.31,auto,0,monitoring
+30,30-50,63566.26,5.8,3.8,0.238,5917.27,auto,0,monitoring
+62,Over 50,35309.92,8.8,9.4,0.347,6322.94,small_business,0,monitoring
+50,30-50,50627.5,7.6,7.5,0.438,6405.32,debt_consolidation,0,monitoring
+40,30-50,45867.86,5.5,6.0,0.147,7988.42,home_improvement,0,monitoring
+40,30-50,62933.78,0.0,0.1,0.252,12276.85,debt_consolidation,0,monitoring
+38,30-50,27198.99,0.0,0.0,0.316,2584.55,small_business,0,monitoring
+53,Over 50,23928.54,13.1,14.8,0.514,4848.66,small_business,0,monitoring

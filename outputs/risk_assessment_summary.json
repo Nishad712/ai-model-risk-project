@@ -1,0 +1,62 @@
+{
+  "psi_results": [
+    {
+      "feature": "age",
+      "psi": 0.0038,
+      "flag": "Stable"
+    },
+    {
+      "feature": "income",
+      "psi": 0.0792,
+      "flag": "Stable"
+    },
+    {
+      "feature": "employment_years",
+      "psi": 0.0036,
+      "flag": "Stable"
+    },
+    {
+      "feature": "credit_history_len",
+      "psi": 0.0066,
+      "flag": "Stable"
+    },
+    {
+      "feature": "existing_debt_ratio",
+      "psi": 1.2585,
+      "flag": "Significant shift - re-validation recommended"
+    },
+    {
+      "feature": "loan_amount",
+      "psi": 0.0054,
+      "flag": "Stable"
+    },
+    {
+      "feature": "MODEL_OUTPUT_SCORE",
+      "psi": 0.08,
+      "flag": "Stable"
+    }
+  ],
+  "fairness_max_selection_rate_gap": 0.5017,
+  "top_shap_features": [
+    {
+      "feature": "num__income",
+      "mean_abs_shap": 0.05300480063107496
+    },
+    {
+      "feature": "num__existing_debt_ratio",
+      "mean_abs_shap": 0.04449987616177059
+    },
+    {
+      "feature": "num__loan_amount",
+      "mean_abs_shap": 0.04121977469109524
+    },
+    {
+      "feature": "num__age",
+      "mean_abs_shap": 0.03942358165391414
+    },
+    {
+      "feature": "num__employment_years",
+      "mean_abs_shap": 0.03596697549700084
+    }
+  ]
+}

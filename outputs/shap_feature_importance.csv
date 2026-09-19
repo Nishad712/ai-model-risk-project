@@ -1,0 +1,15 @@
+feature,mean_abs_shap
+num__income,0.05300480063107496
+num__existing_debt_ratio,0.04449987616177059
+num__loan_amount,0.04121977469109524
+num__age,0.03942358165391414
+num__employment_years,0.03596697549700084
+num__credit_history_len,0.029475351437333607
+cat__age_group_Over 50,0.012826105646125536
+cat__purpose_auto,0.006921387345503858
+cat__age_group_Under 30,0.004122399137252591
+cat__purpose_home_improvement,0.0032906237363701405
+cat__age_group_30-50,0.00320775628091773
+cat__purpose_small_business,0.0023799442232362777
+cat__purpose_debt_consolidation,0.0018251717953126085
+cat__purpose_education,0.0015787613853274465
